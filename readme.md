@@ -1,16 +1,16 @@
 # Andamio web
 
-[![devDependency Status](https://david-dm.org/zurb/foundation-zurb-template/dev-status.svg)](https://david-dm.org/zurb/foundation-zurb-template#info=devDependencies)
-<!--
-     ___      .__   __.  _______       ___      .___  ___.  __    ______   
+```  ___      .__   __.  _______       ___      .___  ___.  __    ______   
     /   \     |  \ |  | |       \     /   \     |   \/   | |  |  /  __  \  
    /  ^  \    |   \|  | |  .--.  |   /  ^  \    |  \  /  | |  | |  |  |  |
   /  /_\  \   |  . `  | |  |  |  |  /  /_\  \   |  |\/|  | |  | |  |  |  |
  /  _____  \  |  |\   | |  '--'  | /  _____  \  |  |  |  | |  | |  `--'  |
 /__/     \__\ |__| \__| |_______/ /__/     \__\ |__|  |__| |__|  \______/  
+```
 
- -->
- 
+[![devDependency Status](https://david-dm.org/zurb/foundation-zurb-template/dev-status.svg)](https://david-dm.org/zurb/foundation-zurb-template#info=devDependencies)
+
+
 ## ZURB Template for use with [Foundation
 
 **Please open all issues with this template on the main [Foundation for Sites](https://github.com/zurb/foundation-sites/issues) repo.**
