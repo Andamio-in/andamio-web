@@ -1,0 +1,230 @@
+/* custom scss*/
+@import "components/_fs-nav";
+@import "components/_nav";
+
+/* menu bar */
+
+.title-bar {
+    position: fixed;
+    top:0;
+    width: 100%;
+    z-index: 10;
+}
+.title-bar-title {
+    text-transform: uppercase;
+    font-family: $header-font-family;
+}
+
+.title-bar-logo {
+    display: inline-block;
+    width:35px;
+    height: 26px;
+    vertical-align: middle;
+    background-image: url(../img/andamio-logo-01.png);
+    background-size: contain;
+    background-position: left center;
+    background-repeat: no-repeat;
+}
+
+
+@import "components/_hero";
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-transform: uppercase;
+    letter-spacing: 0.3;
+}
+
+
+/* main container */
+
+.container .row:nth-of-type(2) .columns p {
+  padding: 4rem;
+}
+
+//DEFAULT LAYOUT
+
+footer.row {
+  background-color: $primary-color;
+  max-width: 100%;
+}
+
+footer {
+  a {
+    color:$white;
+  }
+  .menu > li > a {
+    padding: 0.7rem .5rem;
+    @include breakpoint(medium) {
+      padding: 0.7rem 1rem;
+
+    }
+  }
+}
+
+
+// project seccion projects
+
+h3 {
+  small {
+    font-weight: 100;
+  }
+}
+
+.proyecto {
+  b {
+    color: $primary-color;
+  }
+  .menu > li > a {
+    padding: 0.3rem 1rem;
+  }
+  .large-12 {
+    position: absolute;
+    z-index: 1;
+    top: 28%;
+    left: 0;
+    text-align: center;
+    h3 {
+      // display: inline-block;
+      // text-shadow: 0px 0px 7px black;
+      // left: 15%;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      flex: 0 0 auto;
+      align-items: center;
+      & > span {
+        display:inline;
+        color: $dark-gray;
+        background-color: $white;
+        padding: 0 .8rem;
+        margin-bottom: .5rem;
+      }
+      small {
+        display: inline;
+        color: $dark-gray;
+        line-height: 1;
+        background-color:$white;
+        padding: .3rem .5rem;
+      }
+    }
+  }
+}
+
+.button-group {
+  .primary.button {
+    color:$white;
+    &:hover {
+      color:$light-gray;
+    }
+  }
+}
+
+
+.padding-top-bottom {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+
+// project section grid isotope
+
+.button-group {
+  margin-top:1rem;
+}
+
+.folium {
+  min-height: 100px;
+  @include breakpoint(medium only) {
+    min-height: 195.55px;
+  }
+  @include breakpoint(large) {
+    min-height: 208.567px;
+  }
+  @include breakpoint(xlarge) {
+    min-height: 244.483px;
+  }
+}
+
+// project owl gallery
+
+.owl-carousel figure {
+  height: 75vh;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  margin: 0;
+}
+
+
+// info about section
+
+.hover-transparent {
+  &:nth-child(n+1) {
+    img {
+      &:hover {
+        opacity: 0.7;
+      }
+    }
+  }
+}
+
+
+.full.reveal {
+  .flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+}
+
+
+
+
+
+@import "components/_card-grid";
+// @import "components/_sticky-footer";
+@import "components/_owl-custom";
+
+
+
+@import "_project-list";
+@import "_pages-with-owl-gallery";
+
+
+
+// seccion investigacion
+
+.investigacion-list {
+  .button {
+    margin:0 0.5rem 0 0;
+  }
+  .tags {
+    color: $medium-gray;
+  }
+}
+
+
+.breadcrumbs {
+  padding-bottom: 2rem;
+}
+
+.talleres {
+  h3 {
+    line-height: 1;
+  }
+  @include breakpoint(medium) {
+    .column {
+      margin-bottom: 2rem;
+    }
+  }
+}
+
+.close-button {
+  z-index: 2;
+}

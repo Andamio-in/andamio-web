@@ -1,0 +1,52 @@
+<script async src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/owl.carousel@2.3.4/dist/owl.carousel.min.js" integrity="sha256-pTxD+DSzIwmwhOqTFN+DB+nHjO4iAsbgfyFq5K5bcE0=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/owl.carousel2.thumbs@0.1.8/dist/owl.carousel2.thumbs.min.js" integrity="sha256-n/Sk5oyNcg1TfOAocafP1yMFFp8NLFu5EprwBqbnv1E=" crossorigin="anonymous"></script>
+
+<script type="text/javascript">
+
+  window.onload = function () {
+
+        // isotope
+        // isotope init and filter
+        jQuery('.portfolium').isotope({
+          // options
+          itemSelector: '.folium',
+          layoutMode: 'fitRows',
+          filter: '*'
+        });
+
+        jQuery('.filter-button-group').on( 'click', 'button', function() {
+          var filterValue = jQuery(this).attr('data-filter');
+          jQuery('.portfolium').isotope({ filter: filterValue });
+        });
+
+        jQuery('.owl-carousel').owlCarousel({
+          loop: false,
+          margin: 10,
+          nav: false,
+          dots: false,
+          // thumbs: true,
+          // thumbsPrerendered: true,
+          // video:true,
+          // lazyLoad:true,
+          autoplay: true,
+          responsive:{
+              0:{
+                  items:1
+              },
+              600:{
+                  items:1
+              },
+              1000:{
+                  items:1
+              }
+          },
+          navText:['<i class="fa fa-2x fa-chevron-left"></i>','<i class="fa fa-2x fa-chevron-right"></i>']
+      });
+
+  }
+
+
+
+</script>

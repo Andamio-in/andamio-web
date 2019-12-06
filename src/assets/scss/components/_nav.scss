@@ -1,0 +1,17 @@
+.title-bar {
+  &-left,
+  &-right {
+    height: 100%;
+    background-color: $white;
+    padding: .5rem 1rem;
+    @include breakpoint(medium) {
+      padding: 1rem 1.5rem;
+    }
+  }
+  &-right {
+    padding: .6rem;
+    @include breakpoint(medium) {
+      padding: 1rem;
+    }
+  }
+}

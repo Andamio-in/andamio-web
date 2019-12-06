@@ -1,19 +1,37 @@
-{{!-- This is the base layout for your project, and will be used on every page unless specified. --}}
-
+{{!-- panini base layout --}}
 <!doctype html>
-<html class="no-js" lang="en">
+<html class="no-js" lang="{{#if spanish}}es{{else}}en{{/if}}">
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Foundation for Sites</title>
+    <meta name="theme-color" content="#337f6f">
+    <title>andamio | {{title}}</title>
+    <meta name="description" content="{{description}}">
+
     <link rel="stylesheet" href="{{root}}assets/css/app.css">
+    <!-- <link rel="stylesheet" href="{{root}}assets/css/app.1.4.0.min.css"> -->
+    {{> extra-css}}
   </head>
-<body>
+  <body>
+    <div class="offcanvas-wrapper">
 
-{{!-- Pages you create in the src/pages/ folder are inserted here when the flattened page is created. --}}
-{{> body}}
+      <div class="off-canvas position-right" id="offCanvasRight" data-off-canvas>
+        {{> offnav}}
+      </div>
 
-<script src="{{root}}assets/js/app.js"></script>
-</body>
+      <div class="off-canvas-content" data-off-canvas-content>
+        {{> header}}
+        {{> body}}
+
+          {{#unlesspage 'index'}}
+        {{> footer}}
+          {{/unlesspage}}
+
+      </div>
+    </div>
+  <!-- <script src="{{root}}assets/js/app.1.4.0.min.js"></script> -->
+  <script src="{{root}}assets/js/app.js"></script>
+  {{> extra-scripts}}
+  </body>
 </html>

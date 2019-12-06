@@ -1,0 +1,85 @@
+---
+title: Investigación
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
+spanish: true
+
+items:
+  -
+    title: "Recombinant Rabies Viruses Expressing GM-CSF or Flagellin Are Effective Vaccines for Both Intramuscular and Oral Immunizations"
+    by:
+      - "Christina Leyson"
+      - "Nikola Tesla"
+    slug: "rabies"
+    download: "363"
+    tags:
+      - "Engineering"
+      - "Chemistry"
+      - "Tesla"
+      - "Physics"
+  -
+    title: "Genetic variability of human respiratory syncytial virus A strains circulating in Ontario: a novel genotype with a 72 nucleotide G gene duplication"
+    by:
+      - "Christina Leyson"
+    slug: "rabies"
+    download: "582"
+    tags:
+      - "Engineering"
+      - "Chemistry"
+      - "Tesla"
+      - "Physics"
+  -
+    title: "Regulation of Copper Homeostasis and Biotic Interactions by MicroRNA 398b in Common Bean"
+    by:
+      - "Guadalupe Sosa-Valencia"
+    slug: "commonbean"
+    download: "255"
+    tags:
+      - "Chemistry"
+      - "Engineering"
+      - "Tesla"
+
+---
+
+    {{> hero}}
+    <meta name="robots" content="noindex nofollow">
+    <section class="row padding-top-bottom investigacion-list">
+
+      <div class="medium-10 medium-offset-1 columns">
+        <h5>Investigaciones y <em>papers</em></h5>
+        <br><br>
+      </div>
+
+      <div class="medium-10 medium-offset-1 columns end">
+
+        {{#each items}}
+        <div class="row">
+          <div class="medium-10 columns">
+            <p class="lead"> <i class="fa fa-file-text-o"></i>
+              <br>
+              <span style="font-family: TimesNewRoman,'Times New Roman',Times,Baskerville,Georgia,serif">
+               {{title}}
+             </span>
+
+            </p>
+            <a href="{{download}}" class="small primary button"> <i class="fa fa-download"></i> Download</a>
+            <span>by <strong>{{#each by}} {{this}}, {{/each}} </strong></span>
+             |
+            <span class="tags"><i class="fa fa-tag"></i> Tags: {{#each tags}} {{this}}, {{/each}} </span>
+            <br>
+            <br>
+          </div>
+          <div class="medium-2 columns">
+            <div class="thumbnail">
+              <figure>
+                <img src="https://unsplash.it/200/200?image={{download}}" alt="{{download}}">
+              </figure>
+            </div>
+          </div>
+
+          <hr>
+          <br><br>
+        </div>
+        {{/each}}
+
+      </div>
+    </section>

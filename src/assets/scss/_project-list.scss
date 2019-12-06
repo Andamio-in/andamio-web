@@ -1,0 +1,70 @@
+// each projects list sass
+
+$list: (
+  prole,
+  memorias,
+  mother,
+  // dodecasilabo,
+  lesttk2,
+  leviathan,
+
+  calles,
+  lucid,
+  ggigirlah,
+  laid-by-his-side,
+  lesttk,
+  solar-flare,
+  altamisa,
+  flight-of-the-monarchs,
+  el-tren,
+  rgtrrn-andamio,
+  tuyuc,
+  el-lenguaje-de-los-arboles,
+
+  el-hacedor,
+  ingenuidad,
+  gotas-contra-la-soledad,
+  el-charco-de-lagrimas,
+  pirata-de-patio-adentro,
+  los-dias-terrestres2,
+  el-signo-del-escorpion,
+  cheques,
+  mikrokosmika,
+
+  geografias-sonoras,
+  dias-terrestres,
+  variaciones-ninchi,
+  vortices-desplazados,
+  accion-transdisciplinaria,
+  casas-documental,
+  livecoding-visual-sonoro,
+  buttons,
+  horizontalidad-silvia-plath,
+
+);
+
+ @mixin project-images {
+  @each $project in $list {
+      @for $i from 1 through 5 {
+        .#{$project} {
+          .owl-item:nth-child(n+#{$i}) {
+            figure {
+              background-image: url("../img/projects/#{$project}/0#{$i}.jpg");
+            }
+          }
+        }
+      }
+
+  }
+  @each $project in $list {
+    @for $i from 1 through 5 {
+      .#{$project} {
+        button.owl-thumb-item:nth-child(n+#{$i}) {
+            background-image: url("../img/projects/#{$project}/0#{$i}.jpg");
+        }
+      }
+    }
+  }
+}
+
+@include project-images;

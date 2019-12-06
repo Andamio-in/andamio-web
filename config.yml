@@ -15,6 +15,14 @@ UNCSS_OPTIONS:
   ignore:
     - !!js/regexp .foundation-mq
     - !!js/regexp ^\.is-.*
+    - !!js/regexp ^\.*fa-facebook*
+    - !!js/regexp ^\.*fa-twitter*
+    - !!js/regexp ^\.*fa-behance*
+    - !!js/regexp ^\.*fa-vimeo*
+    - !!js/regexp ^\.*fa-chevron*
+    - !!js/regexp ^\.*fa-external*
+    - !!js/regexp ^\.*fa-globe*
+    - !!js/regexp ^\.*fa-plus*
 
 # Gulp will reference these paths when it copies files
 PATHS:
@@ -24,6 +32,7 @@ PATHS:
   assets:
     - "src/assets/**/*"
     - "!src/assets/{img,js,scss}/**/*"
+    # - "bower_components/font-awesome-bower/*fonts/*"
   # Paths to Sass libraries, which can then be loaded with @import
   sass:
     - "node_modules/foundation-sites/scss"
@@ -31,3 +40,4 @@ PATHS:
   # Paths to JavaScript entry points for webpack to bundle modules
   entries:
     - "src/assets/js/app.js"
+    # - "src/assets/js/lazyyt.js"

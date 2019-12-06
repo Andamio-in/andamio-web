@@ -1,0 +1,28 @@
+<!-- <div class="hero bg-{{page}} parallax-mirror" data-parallax="scroll" data-image-src="assets/img/hero-index.jpg"> -->
+<div class="hero bg-{{page}}">
+  {{#ifpage 'index'}}
+  <img src="{{root}}assets/img/andamio-logo-02.png" alt="andamio" />
+  <h1>Andamio</h1>
+  {{#if spanish}}
+  <ul class="menu vertical medium-horizontal">
+    <li><a href="produccion">producción</a></li>
+    <li><a href="investigacion">investigación</a></li>
+    <li><a href="educacion">educación</a></li>
+  </ul>
+  {{else}}
+  <ul class="menu vertical medium-horizontal">
+    <li><a id="prod"     href="production">production</a></li>
+    <li><a id="research" href="research">research</a></li>
+    <li><a id="edu"      href="education">education</a></li>
+  </ul>
+  {{/if}}
+  {{/ifpage}}
+  {{#unlesspage 'index'}}
+  <h1>{{title}}</h1>
+  {{/unlesspage}}
+</div>
+  {{#ifpage 'index'}}
+<div class="hero-second img-1"></div>
+<div class="hero-second img-2"></div>
+<div class="hero-second img-3"></div>
+  {{/ifpage}}

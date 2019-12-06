@@ -1,0 +1,46 @@
+
+
+  <button class="close-button" aria-label="Close menu" type="button" data-close>
+    <span aria-hidden="true">&times;</span>
+  </button>
+
+    <ul class="menu vertical">
+        <li class="menu-text">
+          <h5>andamio</h5>
+          <small>{{#if spanish}}plataforma de colaboración en torno al uso de tecnologías{{else}}colaboration plataform{{/if}}</small>
+        </li>
+        <li><a href="{{#if spanish}}./index{{else}}/{{/if}}">{{#if spanish}}Inicio{{else}}Home{{/if}}</a></li>
+        <li><a href="{{root}}{{#if spanish}}es/info{{else}}about{{/if}}">{{#if spanish}}Info{{else}}About{{/if}}</a></li>
+        <li><a href="{{root}}{{#if spanish}}es/produccion{{else}}production{{/if}}">{{#if spanish}}Producción{{else}}Production{{/if}}</a></li>
+        <li><a href="{{root}}{{#if spanish}}es/investigacion{{else}}research{{/if}}">{{#if spanish}}Investigacion{{else}}Research{{/if}}</a></li>
+        <li><a href="{{root}}{{#if spanish}}es/educacion{{else}}education{{/if}}">{{#if spanish}}Educación{{else}}Education{{/if}}</a></li>
+        <!-- <li><a href="{{root}}contacto">Contacto</a></li> -->
+    </ul>
+
+    <section>
+      <h5>{{#if spanish}}Contacto:{{else}}Contact:{{/if}}</h5>
+      <p>
+        <i class="fa fa-user"></i>  Mtro. Rolando Rodríguez Guizar
+        <br>
+        <small>{{#if spanish}}Co-fundador{{else}}Co-founder{{/if}} andamio </small>
+        <br>
+        <i class="fa fa-envelope"></i> <a href="mailto:andamio.in@gmail.com">andamio.in@gmail.com</a>
+        <br>
+        <i class="fa fa-phone"></i> +52 (452) 197-4386
+        <hr>
+        <i class="fa fa-user"></i>  Mtra. Jessica A. Rodríguez C.
+        <br>
+        <small>{{#if spanish}}Co-fundador{{else}}Co-founder{{/if}} andamio </small>
+        <br>
+        <i class="fa fa-envelope"></i> <a href="mailto:jac307@gmail.com">jac307@gmail.com</a>
+        <br>
+      </p>
+    </section>
+
+    <section class="secondary">
+      {{#if spanish}}
+      <a href="{{root}}">English</a>
+      {{else}}
+      <a href="{{root}}es/index">Español</a>
+      {{/if}}
+    </section>

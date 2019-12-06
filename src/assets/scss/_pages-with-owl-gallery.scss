@@ -1,0 +1,46 @@
+// each projects list sass
+
+$list: (
+
+  research,
+  investigacion,
+
+// edu
+  ninos,
+  uandani,
+    eramarhaskutani,
+    punitani,
+    exentani,
+    uandajpani,
+    anchikuarhini,
+  jovenes,
+
+
+
+);
+
+ @mixin gallery-images {
+  @each $gallery in $list {
+      @for $i from 1 through 5 {
+        .#{$gallery} {
+          .owl-item:nth-child(n+#{$i}) {
+            figure {
+              background-image: url("../img/owl-galleries/#{$gallery}/0#{$i}.jpg");
+            }
+          }
+        }
+      }
+
+  }
+  @each $gallery in $list {
+    @for $i from 1 through 5 {
+      .#{$gallery} {
+        button.owl-thumb-item:nth-child(n+#{$i}) {
+            background-image: url("../img/owl-galleries/#{$gallery}/0#{$i}.jpg");
+        }
+      }
+    }
+  }
+}
+
+@include gallery-images;

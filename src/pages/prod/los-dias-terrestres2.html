@@ -1,0 +1,60 @@
+---
+title: 'los-dias-terrestres2'
+header: null
+
+---
+
+
+    <section class="owl-carousel owl-theme {{title}}" data-slider-id="1">
+      {{#repeat 5}}
+      <figure class="item" data-thumb></figure>
+      {{/repeat}}
+    </section>
+
+
+    <section class="row padding-top-bottom proyecto">
+      <div class="large-12 columns">
+        <h3><span>{{proyectos.los-dias-terrestres2.project-title}}</span> <small> {{#each proyectos.los-dias-terrestres2.tags}} <span>#{{this}},</span>{{/each}}</small></h3>
+      </div>
+
+      <div class="medium-10 medium-offset-1 columns">
+
+
+  <nav aria-label="You are here:" role="navigation">
+    <ul class="breadcrumbs">
+      <li><a href="/">Home</a></li>
+      <li><a href="../production">Production</a></li>
+      <li>
+        <span class="show-for-sr">Current: </span> {{proyectos.los-dias-terrestres2.project-title}}
+      </li>
+    </ul>
+  </nav>
+
+  <h5>Acerca de_</h5>
+        <p>{{proyectos.los-dias-terrestres2.description}}</p>
+      </div>
+
+      <div class="medium-10  medium-offset-1 columns end">
+        <h6>Créditos_</h6>
+        <ul class="no-bullet">
+          {{#each proyectos.los-dias-terrestres2.credits}}
+          <li> {{{this}}} </li>
+          {{/each}}
+        </ul>
+
+        <h6>Presentaciones y Selecciones_</h6>
+        <ul class="no-bullet">
+          {{#each proyectos.los-dias-terrestres2.presentaciones}}
+          <li> {{{this}}} </li>
+          {{/each}}
+        </ul>
+
+        <h6>Links_</h6>
+        <ul class="menu vertical">
+          {{#each proyectos.los-dias-terrestres2.links}}
+          <li><a target="_blank" href="{{{this.to}}}"> >{{{this.from}}} <i class="fa fa-external-link"></i></a></li>
+          {{/each}}
+        </ul>
+
+      </div>
+    </section>

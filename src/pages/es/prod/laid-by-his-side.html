@@ -1,0 +1,48 @@
+---
+title: 'laid-by-his-side'
+header: null
+
+---
+
+
+    <section class="owl-carousel owl-theme {{title}}" data-slider-id="1">
+      {{#repeat 5}}
+      <figure class="item" data-thumb></figure>
+      {{/repeat}}
+    </section>
+
+
+    <section class="row padding-top-bottom proyecto">
+      <div class="large-12 columns">
+        <h3><span>{{proyectos.laid-by-his-side.project-title}}</span> <small> {{#each proyectos.laid-by-his-side.tags}} <span>#{{this}},</span>{{/each}}</small></h3>
+      </div>
+
+      <div class="medium-10 medium-offset-1 columns">
+        <h5>Acerca de_</h5>
+        <p>{{proyectos.laid-by-his-side.description}}</p>
+      </div>
+
+      <div class="medium-10  medium-offset-1 columns end">
+        <h6>Créditos_</h6>
+        <ul class="no-bullet">
+          {{#each proyectos.laid-by-his-side.credits}}
+          <li> {{{this}}} </li>
+          {{/each}}
+        </ul>
+
+        <h6>Presentaciones y Selecciones_</h6>
+        <ul class="no-bullet">
+          {{#each proyectos.laid-by-his-side.presentaciones}}
+          <li> {{{this}}} </li>
+          {{/each}}
+        </ul>
+
+        <h6>Links_</h6>
+        <ul class="menu vertical">
+          {{#each proyectos.laid-by-his-side.links}}
+          <li><a target="_blank" href="{{{this.to}}}"> >{{{this.from}}} <i class="fa fa-external-link"></i></a></li>
+          {{/each}}
+        </ul>
+
+      </div>
+    </section>

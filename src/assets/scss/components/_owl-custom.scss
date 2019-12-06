@@ -1,0 +1,61 @@
+
+/*
+
+**owl custom nav css
+
+*/
+
+.owl-prev,
+.owl-next {
+  position: absolute;
+  color:$white;
+  background-color: rgba($primary-color,0.2);
+  margin-top: -10px; // Half of the prev/next buttons height here in negatives to center them perfectly
+  transition: all 0.2s ease-in-out;
+  padding: 3rem 0.8rem;
+  top:30%;
+  @include breakpoint(medium) {
+    padding: 4rem 1.5rem;
+    top:30%;
+  }
+}
+.owl-prev {
+  left: 0;
+    &:hover {
+      background-color: rgba($primary-color,0.7);
+    }
+}
+.owl-next {
+  right: 0;
+    &:hover {
+      background-color: rgba($primary-color,0.7);
+    }
+}
+.owl-thumbs {
+  margin-top: 1px;
+}
+
+.owl-thumb-item {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 20%;
+  height: 80px;
+  border-top: 1px solid $white;
+  border-right: 1px solid $white;
+  &:last-child {
+    border-right: none;
+  }
+
+  @include breakpoint(medium only) {
+    height: 120px;
+  }
+
+  @include breakpoint(large) {
+    height: 140px;
+  }
+
+  @include breakpoint(xlarge) {
+    height: 160px;
+  }
+}
