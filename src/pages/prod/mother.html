@@ -42,10 +42,10 @@ header: null
           {{/each}}
         </ul>
 
-        <h6>Presentaciones y Selecciones_</h6>
-        <ul class="no-bullet">
-          {{#each proyectos.mother.presentaciones}}
-          <li> {{{this}}} </li>
+        <h6>Links_</h6>
+        <ul class="menu vertical">
+          {{#each proyectos.mother.links}}
+          <li><a target="_blank" href="{{{this.to}}}"> >{{{this.from}}} <i class="fa fa-external-link"></i></a></li>
           {{/each}}
         </ul>
 
@@ -56,13 +56,6 @@ header: null
         </div>
         {{/each}}
         {{/if}}
-
-        <h6>Links_</h6>
-        <ul class="menu vertical">
-          {{#each proyectos.mother.links}}
-          <li><a target="_blank" href="{{{this.to}}}"> >{{{this.from}}} <i class="fa fa-external-link"></i></a></li>
-          {{/each}}
-        </ul>
 
 
       </div>

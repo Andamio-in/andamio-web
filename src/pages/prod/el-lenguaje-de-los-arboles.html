@@ -42,19 +42,20 @@ header: null
           {{/each}}
         </ul>
 
-        <h6>Presentaciones y Selecciones_</h6>
-        <ul class="no-bullet">
-          {{#each proyectos.el-lenguaje-de-los-arboles.presentaciones}}
-          <li> {{{this}}} </li>
-          {{/each}}
-        </ul>
-
         <h6>Links_</h6>
         <ul class="menu vertical">
           {{#each proyectos.el-lenguaje-de-los-arboles.links}}
           <li><a target="_blank" href="{{{this.to}}}"> >{{{this.from}}} <i class="fa fa-external-link"></i></a></li>
           {{/each}}
         </ul>
+
+        {{#if proyectos.el-lenguaje-de-los-arboles.videos}}
+        {{#each proyectos.el-lenguaje-de-los-arboles.videos}}
+        <div class="responsive-embed widescreen">
+          <div class="lazyYT" data-{{#if this.vimeo}}vimeo{{else}}youtube{{/if}}-id="{{this.id}}" data-ratio="16:9">{{this.title}}</div>
+        </div>
+        {{/each}}
+        {{/if}}
 
       </div>
     </section>

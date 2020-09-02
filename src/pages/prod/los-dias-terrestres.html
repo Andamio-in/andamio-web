@@ -1,70 +1,61 @@
 ---
-title: 'los dias terrestres'
-project-name: 'los-dias-terrestres'
+title: 'los-dias-terrestres'
 header: null
 
 ---
 
 
-    <section class="owl-carousel owl-theme {{project-name}}" data-slider-id="1">
+    <section class="owl-carousel owl-theme {{title}}" data-slider-id="1">
       {{#repeat 5}}
       <figure class="item" data-thumb></figure>
       {{/repeat}}
     </section>
 
 
-    <section class="row padding-top-bottom">
+    <section class="row padding-top-bottom proyecto">
       <div class="large-12 columns">
-        <h1>{{title}}</h1>
+        <h3><span>{{proyectos.los-dias-terrestres.project-title}}</span> <small> {{#each proyectos.los-dias-terrestres.tags}} <span>#{{this}},</span>{{/each}}</small></h3>
       </div>
-      <div class="medium-8 columns">
+
+      <div class="medium-10 medium-offset-1 columns">
+
+
+  <nav aria-label="You are here:" role="navigation">
+    <ul class="breadcrumbs">
+      <li><a href="/">Home</a></li>
+      <li><a href="../production">Production</a></li>
+      <li>
+        <span class="show-for-sr">Current: </span> {{proyectos.los-dias-terrestres.project-title}}
+      </li>
+    </ul>
+  </nav>
+
+  <h5>Acerca de_</h5>
         <p>{{proyectos.los-dias-terrestres.description}}</p>
       </div>
-      <div class="medium-4 columns">
-        <h6>Links:</h6>
-        <ul>
-          <li>lista</li>
-          <li>links</li>
-          <li>descargas</li>
+
+      <div class="medium-10  medium-offset-1 columns end">
+        <h6>Créditos_</h6>
+        <ul class="no-bullet">
+          {{#each proyectos.los-dias-terrestres.credits}}
+          <li> {{{this}}} </li>
+          {{/each}}
         </ul>
-        <h6>Prensa</h6>
-        <a href="#" class="button small">external links </a>
-      </div>
-      <div class="large-12 colunms">
-        <ul class="menu proy-tags">
-          <li><span class="label primary">video</span></li>
-          <li><span class="label primary">documental</span></li>
-          <li><span class="label primary">fotografía</span></li>
+
+        <h6>Links_</h6>
+        <ul class="menu vertical">
+          {{#each proyectos.los-dias-terrestres.links}}
+          <li><a target="_blank" href="{{{this.to}}}"> >{{{this.from}}} <i class="fa fa-external-link"></i></a></li>
+          {{/each}}
         </ul>
+
+        {{#if proyectos.los-dias-terrestres.videos}}
+        {{#each proyectos.los-dias-terrestres.videos}}
+        <div class="responsive-embed widescreen">
+          <div class="lazyYT" data-{{#if this.vimeo}}vimeo{{else}}youtube{{/if}}-id="{{this.id}}" data-ratio="16:9">{{this.title}}</div>
+        </div>
+        {{/each}}
+        {{/if}}
+
       </div>
     </section>
-
-
-
-<!--
-    <div class="row expanded">
-      <div class="large-12 columns">
-        <h1>Los Días Terrestres</h1>
-        <div class="owl-carousel owl-theme">
-            <div class="item"><h4><img src="{{root}}assets/img/projects/11_DiasTerrestres/11_00.jpg" alt="" /> </h4></div>
-            <div class="item"><h4><img src="{{root}}assets/img/projects/11_DiasTerrestres/11_01.jpg" alt="" /> </h4></div>
-            <div class="item"><h4><img src="{{root}}assets/img/projects/11_DiasTerrestres/11_02.jpg" alt="" /> </h4></div>
-            <div class="item"><h4><img src="{{root}}assets/img/projects/11_DiasTerrestres/11_03.jpg" alt="" /> </h4></div>
-            <div class="item"><h4><img src="{{root}}assets/img/projects/11_DiasTerrestres/11_04.jpg" alt="" /> </h4></div>
-        </div>
-
-      </div>
-    </div>
-    <div class="row">
-      <div class="large-12 columns">
-        <p>Es la primera versión del proyecto que se presentó en Uruapan, Michoacán. Se presentó como Lectura/Visual/Sonora a partir de la lectura de tres grandes poetas ganadoras de premio Nobel de Literatura: <em>Gabriela Mistral</em>, <em>Herta Muller</em>, <em>Wislava Szimborska</em>. </p>
-      </div>
-      <div class="large-12 colunms">
-        <ul class="menu proy-tags">
-          <li>lectura expandida</li>
-          <li>video</li>
-          <li>sound art</li>
-          <li>performance</li>
-        </ul>
-      </div>
-    </div> -->
