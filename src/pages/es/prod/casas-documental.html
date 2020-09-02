@@ -18,7 +18,19 @@ header: null
       </div>
 
       <div class="medium-10 medium-offset-1 columns">
-        <h5>Acerca de_</h5>
+
+
+  <nav aria-label="Te encuentras en:" role="navigation">
+    <ul class="breadcrumbs">
+      <li><a href="/">Inicio</a></li>
+      <li><a href="../production">Producción</a></li>
+      <li>
+        <span class="show-for-sr">Actual: </span> {{proyectos.casas-documental.project-title}}
+      </li>
+    </ul>
+  </nav>
+
+  <h5>Acerca de_</h5>
         <p>{{proyectos.casas-documental.description}}</p>
       </div>
 
@@ -30,19 +42,20 @@ header: null
           {{/each}}
         </ul>
 
-        <h6>Presentaciones y Selecciones_</h6>
-        <ul class="no-bullet">
-          {{#each proyectos.casas-documental.presentaciones}}
-          <li> {{{this}}} </li>
-          {{/each}}
-        </ul>
-
         <h6>Links_</h6>
         <ul class="menu vertical">
           {{#each proyectos.casas-documental.links}}
           <li><a target="_blank" href="{{{this.to}}}"> >{{{this.from}}} <i class="fa fa-external-link"></i></a></li>
           {{/each}}
         </ul>
+
+        {{#if proyectos.casas-documental.videos}}
+        {{#each proyectos.casas-documental.videos}}
+        <div class="responsive-embed widescreen">
+          <div class="lazyYT" data-{{#if this.vimeo}}vimeo{{else}}youtube{{/if}}-id="{{this.id}}" data-ratio="16:9">{{this.title}}</div>
+        </div>
+        {{/each}}
+        {{/if}}
 
       </div>
     </section>

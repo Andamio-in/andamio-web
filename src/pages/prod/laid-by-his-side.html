@@ -14,7 +14,7 @@ header: null
 
     <section class="row padding-top-bottom proyecto">
       <div class="large-12 columns">
-        <h3><span>{{proyectos.laid-by-his-side.project-title}}</span> <small> {{#each proyectos.laid-by-his-side.tags}} <span>#{{this}},</span>{{/each}}</small></h3>
+        <h3><span>{{projects.laid-by-his-side.project-title}}</span> <small> {{#each projects.laid-by-his-side.tags}} <span>#{{this}},</span>{{/each}}</small></h3>
       </div>
 
       <div class="medium-10 medium-offset-1 columns">
@@ -25,32 +25,32 @@ header: null
       <li><a href="/">Home</a></li>
       <li><a href="../production">Production</a></li>
       <li>
-        <span class="show-for-sr">Current: </span> {{proyectos.laid-by-his-side.project-title}}
+        <span class="show-for-sr">Current: </span> {{projects.laid-by-his-side.project-title}}
       </li>
     </ul>
   </nav>
 
   <h5>Acerca de_</h5>
-        <p>{{proyectos.laid-by-his-side.description}}</p>
+        <p>{{projects.laid-by-his-side.description}}</p>
       </div>
 
       <div class="medium-10  medium-offset-1 columns end">
-        <h6>Créditos_</h6>
+        <h6>Credits_</h6>
         <ul class="no-bullet">
-          {{#each proyectos.laid-by-his-side.credits}}
+          {{#each projects.laid-by-his-side.credits}}
           <li> {{{this}}} </li>
           {{/each}}
         </ul>
 
         <h6>Links_</h6>
         <ul class="menu vertical">
-          {{#each proyectos.laid-by-his-side.links}}
+          {{#each projects.laid-by-his-side.links}}
           <li><a target="_blank" href="{{{this.to}}}"> >{{{this.from}}} <i class="fa fa-external-link"></i></a></li>
           {{/each}}
         </ul>
 
-        {{#if proyectos.laid-by-his-side.videos}}
-        {{#each proyectos.laid-by-his-side.videos}}
+        {{#if projects.laid-by-his-side.videos}}
+        {{#each projects.laid-by-his-side.videos}}
         <div class="responsive-embed widescreen">
           <div class="lazyYT" data-{{#if this.vimeo}}vimeo{{else}}youtube{{/if}}-id="{{this.id}}" data-ratio="16:9">{{this.title}}</div>
         </div>
