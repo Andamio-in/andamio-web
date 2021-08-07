@@ -1,24 +1,21 @@
-.hollow-in-bar {
-  &.title-bar {
-    background-color: transparent;
+.title-bar {
+  &.hollow-in-bar{
     justify-content: space-between;
-    &-left,
-    &-right {
-      height: 100%;
-      background-color: $white;
-      padding: .5rem 1rem;
-
-      flex: 0 1 auto;
-
-      @include breakpoint(medium) {
-        padding: 1rem 1.5rem;
-      }
+  }
+  .title-bar-left,
+  .title-bar-right {
+    height: 100%;
+    background-color: $white;
+    padding: .5rem 1rem;
+    flex: 0 1 auto;
+    @include breakpoint(medium) {
+      padding: 1rem 1.5rem;
     }
-    &-right {
-      padding: .6rem;
-      @include breakpoint(medium) {
-        padding: 1rem;
-      }
+  }
+  .title-bar-right {
+    padding: .6rem;
+    @include breakpoint(medium) {
+      padding: 1rem;
     }
   }
 }
