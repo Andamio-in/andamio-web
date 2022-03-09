@@ -9,12 +9,12 @@
 /__/     \__\ |__| \__| |_______/ /__/     \__\ |__|  |__| |__|  \______/  
 ```
 
-[![devDependency Status](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://david-dm.org/zurb/foundation-zurb-template#info=devDependencies)
-
 # Andamio web
 [![Up](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://andamio.in)
 
 ## ZURB Template for use with [Foundation
+
+[![devDependency Status](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://david-dm.org/zurb/foundation-zurb-template#info=devDependencies)
 
 **Please open all issues with this template on the main [Foundation for Sites](https://github.com/zurb/foundation-sites/issues) repo.**
 
