@@ -14,7 +14,7 @@ header: null
 
     <section class="row padding-top-bottom proyecto">
       <div class="large-12 columns">
-        <h3><span>{{proyectos.el-tren.project-title}}</span> <small> {{#each proyectos.el-tren.tags}} <span>#{{this}},</span>{{/each}}</small></h3>
+        <h3><span>{{projects.el-tren.project-title}}</span> <small> {{#each projects.el-tren.tags}} <span>#{{this}},</span>{{/each}}</small></h3>
       </div>
 
       <div class="medium-10 medium-offset-1 columns">
@@ -25,36 +25,37 @@ header: null
       <li><a href="/">Home</a></li>
       <li><a href="../production">Production</a></li>
       <li>
-        <span class="show-for-sr">Current: </span> {{proyectos.el-tren.project-title}}
+        <span class="show-for-sr">Current: </span> {{projects.el-tren.project-title}}
       </li>
     </ul>
   </nav>
 
   <h5>Acerca de_</h5>
-        <p>{{proyectos.el-tren.description}}</p>
+        <p>{{projects.el-tren.description}}</p>
       </div>
 
       <div class="medium-10  medium-offset-1 columns end">
-        <h6>Créditos_</h6>
+        <h6>Credits_</h6>
         <ul class="no-bullet">
-          {{#each proyectos.el-tren.credits}}
-          <li> {{{this}}} </li>
-          {{/each}}
-        </ul>
-
-        <h6>Presentaciones y Selecciones_</h6>
-        <ul class="no-bullet">
-          {{#each proyectos.el-tren.presentaciones}}
+          {{#each projects.el-tren.credits}}
           <li> {{{this}}} </li>
           {{/each}}
         </ul>
 
         <h6>Links_</h6>
         <ul class="menu vertical">
-          {{#each proyectos.el-tren.links}}
+          {{#each projects.el-tren.links}}
           <li><a target="_blank" href="{{{this.to}}}"> >{{{this.from}}} <i class="fa fa-external-link"></i></a></li>
           {{/each}}
         </ul>
+
+        {{#if projects.el-tren.videos}}
+        {{#each projects.el-tren.videos}}
+        <div class="responsive-embed widescreen">
+          <div class="lazyYT" data-{{#if this.vimeo}}vimeo{{else}}youtube{{/if}}-id="{{this.id}}" data-ratio="16:9">{{this.title}}</div>
+        </div>
+        {{/each}}
+        {{/if}}
 
       </div>
     </section>

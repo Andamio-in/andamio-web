@@ -1,16 +1,20 @@
 {{!--  production portfolio grid   --}}
 <div class="button-group filter-button-group text-center">
   <button class="small primary button" data-filter="*">All</button>
-  <button class="small primary button" data-filter=".lectura_expandida">lectura_expandida</button>
+  <button class="small primary button" data-filter=".live_coding">live_coding</button>
+  <button class="small primary button" data-filter=".electronic_literature">electronic_literature</button>
+  <button class="small primary button" data-filter=".women">women</button>
   <button class="small primary button" data-filter=".visual_music">visual_music</button>
-  <button class="small primary button" data-filter=".electroacustica">electroacustica</button>
+  <button class="small primary button" data-filter=".electroacustic">electroacustic</button>
+  <button class="small primary button" data-filter=".collaborations">collaborations</button>
+  <button class="small primary button" data-filter=".documentary">documentary</button>
   <button class="small primary button" data-filter=".performance">performance</button>
 </div>
 
 <div class="row small-up-1 medium-up-2 large-up-3 grid large-collapse medium-collapse small-collapse portfolium">
 
 
-    {{#each proyectos}}
+    {{#each projects}}
     <div class="column folium {{#each tags}}{{this}} {{/each}}">
       <a href="{{root}}prod/{{@key}}">
       <figure class="effect-zoe">

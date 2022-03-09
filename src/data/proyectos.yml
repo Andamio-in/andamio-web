@@ -1,32 +1,84 @@
 ---
+###### 2020
 
-###### start of 2018 v
-# dodecasilabo:
-#         featured: true
-#         project-title: Dodecasílabo Filial
-#         tags:
-#           - "2018"
-#           - instalación
-#           - interactivo
-#         description: |
-#                       Dodecasílabo Filial es la construcción de doce cuentos entrelazados a través del punto de vista subjetivo de un hermano que reconstruye, desde la memoria, su relación con los otros once. En cada uno de los cuentos no hay un lenguaje unívoco, pues a fuerza de perfeccionar cada uno de los textos, editarlos, sentirlos, pensarlos, construye una desapasionada narrativa donde el nosotros se convierte en un yo, en una consciencia crítica que tras convencernos de la brutalidad de la realidad construida, apreciamos la fugacidad, la liquidez, la gaseosidad inscrita en los intersticios de la memoria experiencia compartida.
-#                       La instalación se construye a través de la producción de doce libros físicos (uno para cada historia), usando técnicas de mapeo para proyectar elementos visuales en cada libro. Usando un software desarrollado especialmente para este Proyecto. Tanto los visuales como la parte sonora comparten un mismo espacio, ambos influidos por prácticas artísticas como el Arte Sonoro, Visual Music, Video experimental, Lectura Expandida, Literatura electrónica y Música electroacústica
-#         credits:
-#           - ">Rolando Rodríguez [méxico] /texto y voz"
-#           - ">Alejandro Brianza [argentina] /composición sonora"
-#           - ">Tonalli R. Nakamura  [méxico] /composición sonora"
-#           - ">Jessica Rodríguez [méxico] /composición visual"
-#           - ">Manuel Zirate [méxico] /composición visual"
-#           - ">Esteban Betancur [colombia] /software"
-#         presentaciones:
-#           - ">** Work in progress"
-#         links:
-#           -
-#             from: "Diagram PDFs"
-#             to:   "#"
-#           -
-#             from: "Diagram PDFs"
-#             to:   "#"
+###### end of 2020
+##########################
+##########################
+
+invocaciones:
+        featured: true
+        project-title: INVOCACIONES
+        tags:
+          - "2020"
+          - "live_coding"
+          - "literatura_electronica"
+          - "mujeres"
+        description: |
+                      INVOCACIONES es una serie de performances que nacen de la necesidad de explorar mi práctica artística a través de la voz de mujeres poetas, mezclando prácticas de live coding (o código al vuelo) con literatura electrónica (o prácticas de literatura expandida a través de entornos digitales). Las piezas hacen una re-interpretación de poemas a través de la propia voz de las autoras que es expandida a través de diferentes capas sonoras que se mueven a través de un espacio estereofónico. Los poemas son de-construidos y re-construídos a través de la cacofonía, la yuxtaposición, el delay, echo y la sobre-saturación. El objetivo de la serie es abrir a discusión la relevancia de las autoras dentro de nuestra construcción actual de identidad como mujeres artistas, y cómo a través de tecnologías digitales podemos tener un diálogo con el pasado.
+                      <br>
+                      INVOCACIONES [Wisława Szymborska] => Para este performance, se mezcló la vozoriginal de Wisława Szymborska (Polonia) leyendo s poema "Moralitet leśny" con versiones en Polaco e Inglés leídos por Victoria Wojciechowska y una versión en Español leía por mi.
+                      <br>
+                      INVOCACIONES [Sylvia Plath] => Este se hizo usando la grabación de Sylvia Plath de su poema "Daddy". Este es un poema autobiográfico que toca el tema de la violencia y la opresión por parte de figuras masculinas en la vida de la autora.
+                      <br>
+                      INVOCACIONES [Gabriela Mistral] => Este se realizó a partir de la grabación de Gabriela Mistral de su poema "País de la ausencia". Además, también estoy usando muestras de violonchelo grabadas por Iracema de Andrade. Los poemas exploran imágenes de lugar y territorio, así como de identidad.
+        credits:
+          - ">Jessica Rodríguez (México) /audio-visual composition"
+        links: null
+        videos:
+          -
+            vimeo: true
+            id: "555431264"
+            title: "INVOCACIONES [Wisława Szymborska]"
+          -
+            vimeo: true
+            id: "449087922"
+            title: "INVOCACIONES [Gabriela Mistral]"
+          -
+            vimeo: true
+            id: "436175418"
+            title: "INVOCACIONES [Sylvia Plath]"
+
+
+
+###### 2019
+
+memorias:
+        featured: true
+        project-title: MEMORIAS
+        tags:
+          - "2020"
+          - "2019"
+          - "web"
+          - "literatura_electronica"
+        description: |
+                      Memorias (https://github.com/jac307/MEMORIAS)  es un proyecto artístico de Jessica Rodríguez, una serie de seis lenguajes de programación para la creación visual y sonora que se pueden acceder a través de la plataforma en línea Estuary (https://estuary.mcmaster.ca/) (desarrollado en McMaster University). Los lenguajes están basados en seis textos cortos autobiográficos, y usan sintaxis que mezcla lenguajes naturales con lenguajes de programación. Adicionalmente, los lenguajes fueron creados a partir de tres lenguajes para live coding: Tidal Cycles (https://tidalcycles.org/), Punctual (https://github.com/dktr0/Punctual), y CineCer0 (https://github.com/dktr0/estuary/blob/dev/client/src/Estuary/Languages/CineCer0/REFERENCE.md).
+                      <br>
+                      Juntos, los lenguajes de Memorias mezclan diferentes materialidades, así como enfoques visuales y sonoros, pasando de voces en Inglés, Español, muestras de Violonchelo y Paetzold, síntesis de audio y visual, y videoclips pre-grabados. Este proyecto explora cómo el habla y la literatura, en su forma escrita, pueden usarse como interfaces que permiten al intérprete comunicarse tanto con la computadora como con la audiencia. Además, el habla —en su forma sonora— se mueve a través del espacio y el tiempo, ampliando las posibilidades de la literatura hablada al producir variaciones ilimitadas de los escritos autobiográficos “originales”. Dentro del espacio/tiempo de la pieza, el público puede experimentar diferentes formas, texturas y lógicas para acercarse a lo visual y sonoro mediante el uso del lenguaje como disparador de la memoria.
+                      <br>
+                      En una nueva iteración, MEMORIAS ha sido presentado como un performance colaborativo por un ensamble integrado por los miembros de andamio que se encuentran en múltiples locaciones. Cada uno de nosotros improvisa con uno de los seis lenguaje.
+                      <br>
+                      Este proyecto es parte del Programa de Estímulo a la Creación y Desarrollo Artístico de Michoacán (PECDAM’18), en México. Fue desarrollado con la ayuda del Networked Imagination Laboratory [NIL] y SSHRC grant en McMaster University in Hamilton, Canadá.
+        credits:
+          - ">Jessica Rodríguez (México) /proyecto"
+          - ">Vic Wojciechowska (Canadá) /voz"
+          - ">Rolando Rodríguez (México) /voz"
+          - ">Iracema de Andrade (Brasil-México) /cello"
+          - ">Alejandro Brianza (Argentina) /paetzold"
+          - ">David Ogborn (Canadá) y Luis N. Del Angel (México-Canadá) /apoyo técnico"
+          - ">Luis M. Guzmán-Zirate (México) /apoyo de montaje"
+        links:
+          -
+            from: "Full MEMORIAS project"
+            to:   "https://github.com/jac307/MEMORIAS"
+        videos:
+          -
+            vimeo: true
+            id: "565310015"
+            title: "MEMORIAS demo"
+          -
+            vimeo: true
+            id: "361942604"
+            title: "Teaser MEMORIAS[installation]"
 
 
 prole:
@@ -34,30 +86,13 @@ prole:
         project-title: Prole
         tags:
           - "2019"
-          - "visual_music"
-          - "electroacústica"
-          - "piano"
-          - "performance"
-          - "mixta"
+          - "musica_visual"
+          - "electroacustica"
         description: |
-                      Prole is a mixed piece for piano, electroacoustics and visuals fixed on support, created on the occasion of the centenary of the Russian Revolution (1917-2017).
+                      Prole es una pieza mixta para piano, electroacústica, y visuales fijos, creada para conmemorar el centenario de la Revolución Rusa (1917-2017).
                       <br>
-                      Thought under a logic of reappropriation and remix, the part of the piano is formed by the re-elaboration of primary elements coming from different pieces of Russian composers from the beginning of the last century, while the visuals are composed from four sequences of the film October by Sergei Eisenstein (1928).
-        credits:
-          - ">Alejandro Brianza [argentina]"
-          - ">Jessica Rodríguez [méxico] /composición visual"
-          - ">Marcos Kusmierczyk [argentina] /piano"
-        presentaciones:
-          - ">Al Escenario (La Boca, Argentina, Dic. 7 2017"
-          - ">Universidad Nacional de las Artes, Buenos Aires, Mayo 26 2018"
-          - ">Conservatorio Julián Aguirre, Banfield, Junio 22, 2018"
-          - ">Laboratorio de investigación y producción musical – Centro Cultural Recoleta, Buenos Aires, Ago. 25, 2018"
-          - ">Universidad Nacional de Lanús, Remedios de Escalada, Nov. 1 2018"
-          - ">Festival Atemporánea, Conservatorio Astor Piazzolla, Buenos Aires, Sep. 10 2019 "
-        # links:
-        #   -
-            # from: "Fotos /Flickr"
-        #     to:   "https://www.flickr.com/photos/125073205@N08/albums/72157700571129365"
+                      La pieza de desarrolla a través de la lógica de la reapropiación y el remix. La parte del piano es transformada a través de la re-elaboración de elementos primarios de diferentes piezas por compositores Rusos (y de de principios del siglo pasado). Los visuales fueron desarrollados a utilizando secuencias del filme “October” de Sergei Eisenstein (1928).
+        links: null
         videos:
           -
             vimeo: false
@@ -65,140 +100,71 @@ prole:
             title: "Prole"
 
 
-memorias:
-        featured: true
-        project-title: Memorias
-        tags:
-          - "2019"
-          - instalación
-          - literatura electrónica
-          - web
-        description: |
-                      <strong><em>Por Jessica Rodríguez</em></strong>
-                      <br>
-                      <br>
-                      MEMORIAS es una instalación artística ligada teóricamente con la triada imagen-cuerpo-medio, siendo el cuerpo el lugar de las imágenes que viven, mutan, se reproducen y mueven en nuestra memoria. Nuestro sistema neuronal contiene tanto imágenes individuales como colectivas que están atadas a la historicidad individual, esta historicidad que produce nuestra identidad.
-                      <br>
-                      <br>
-                      La base de la instalación son seis textos autobiográficos escritos en prosa. Los textos están divididos en cómo he construido un sistema de memorias a partir del <em>Escuchar, Escribir, Observar, Leer, Ver y Oír</em>  el mundo que ha colisionado con mi propio cuerpo, y que conforma mi historicidad individual. En una segunda etapa, los textos fueron tomados para desarrollar variaciones a partir del uso de lenguajes naturales y de programación. Así, éstos tiene una doble función:
-                      <br>
-                      <br>
-                      1) como una traducción que se ejecuta mandando indicaciones a la computadora resultando en modificaciones visuales o sonoras;</li>
-                      <br>
-                      <br>
-                      2) como un proceso comunicativo con el público, tanto de forma escrita (sintaxis de programación), como hablada (a través de grabaciones de voces).
-                      <br>
-                      <br>
-                      La instalación, que tiene como subtítulo <em>¿Cómo me muevo a través del espacio/tiempo?</em>, es la co-existencia en un sólo espacio/tiempo de las versiones de los textos, resultado en una yuxtaposición de texturas que interconectar recuerdos. Es referencia a una compleja estructura neuronal de nuestro cerebro y cómo las imágenes dentro de éste fluyen entre sí, conectando imágenes, sonidos y palabras.
-                      <br>
-                      <br>
-                      <small>
-                      <em>
+###### end of 2019
+##########################
+##########################
 
-                      Este proyecto es parte del Programa de Estímulo a la Creación y Desarrollo Artístico de Michoacán (PECDAM’18). Está apoyado por Secretaria de Cultura del Gobierno de Michoacán y el Sistema Estatal de Creadores (SECREA). El proyecto fue desarrollado como parte del Networked Imagination Laboratory [NIL] que se encuentra en McMaster University en Hamilton, Canadá y como parte de la plataforma educativa de Andamio.in
-                      </em>
-                      </small>
-        credits:
-          - ">Voz en Inglés_ Vic Wojciechowska (Canadá)"
-          - ">Voz en español y edición de textos_ Rolando Rodríguez (México)"
-          - ">Cello_ Iracema de Andrade (Brasil-México)"
-          - ">Paetzold_ Alejandro Brianza (Argentina)"
-          - ">Apoyo en el desarrollo técnico_ David Ogborn (Canadá) y Luis N. Del Angel (México-Canadá)"
-          - ">Apoyo de montaje_ Luis M. Guzmán-Zirate (México)"
-        presentaciones:
-          - "Centro Cultural Clavijero, Morelia, Mexico. 2019"
-        # links:
-        #   -
-            # from: "Fotos /Flickr"
-        #     to:   "https://www.flickr.com/photos/125073205@N08/albums/72157700571129365"
-        videos:
-          -
-            vimeo: True
-            id: "361942604"
-            title: "MEMORIAS"
 
+###### 2018
 
 mother:
         featured: true
         project-title: Mother
         tags:
           - "2018"
-          - residencia
-          - performance
+          - "literatura_electronica"
+          - "performance"
         description: |
-                      Residency at TOPO 2018
+                      MOTHER: una experiencia de literatura electrónica presentada el 17 de Agosto como parte del concierto / banquete final del ELO 2018: Actividades de la Organización de Literatura Electrónica. Este proyecto es también es el resultado de una residencia de dos semanas en TOPO - Centre de création numérique en agosto de 2018.
                       <br>
-                      This residency was developed within two weeks of work:
+                      ¿De dónde viene el sonido de la muerte de una madre? ¿Cómo se traduce ese sonido en imagen y texto? A partir de estas preguntas, el proyecto MOTHER, construido a partir de tres momentos explora, desde los sonidos de las conversaciones susurrantes en el hospital, el parloteo sonoro de los despiertos, las cebollas navegando en el vórtice del vinagre, el huracán de la escoba que barre todo, la muerte de una madre.
                       <br>
-                      <br>
-                      <strong>_First week -from the 6th to the 12th / August 2018</strong>
-                      <br>
-                      We developed two projects: the first one was a Collage performance along with Rodrigo Velasco. Presented on Sunday 12th, at the end of the week; the second project was to develop the performance MOTHER, as part of our activities in ELO 2018.
-                      <br>
-                      <br>
-
-                      <strong>_Second week -from the 13th to the 17th / August 2018</strong>
-                      <br>
-                      We participate in three activities at the ELO 2018 Conference -Electronic Literature Organization-. Two activities were related to the academic part of the conference where we presented two papers. The third one was an Electronic Literature Performance at the Banquet on Friday 17th.
-                      <br>
-                      <br>
-
-                      This project was developed as part of a residency at <strong>TOPO — Laboratory for Digital Writings</strong>, with the support of the “<strong>Conseil des arts et lettres du Québec</strong>” and the “<strong>Conseil des arts de Montréal</strong>”
+                      La actuación se dividió en tres partes, todas con lectura en vivo como parte de la experiencia audiovisual. La primera parte explora la enfermedad de una MADRE. Los visuales presentan una serie de frases que se trabajan con retroalimentación en pantalla, estas son parte del mismo texto que se lee. La segunda parte presenta el funeral de una MADRE. Las texturas visuales y sonoras que acompañan a la lectura añaden notas oscuras a la experiencia audiovisual. La última parte se desarrolla en torno a la memoria previa a la enfermedad de una MADRE. Crea un ambiente más feliz con una pantalla llena de flores que se reproducen en bucle.
         credits:
           - ">Rolando Rodríguez [méxico] /texto y voz"
+          - ">Anna Chahuneau [france] /voz"
           - ">Alejandro Brianza [argentina] /composición sonora"
-          - ">Tonalli R. Nakamura  [méxico] /composición sonora"
           - ">Jessica Rodríguez [méxico] /composición visual"
           - ">Manuel Zirate [méxico] /composición visual"
-        presentaciones:
-          - "Open presentation TOPO — Laboratory for Digital Writings, 2018"
-          - "ELO 2018 Conference -Electronic Literature Organization-"
         links:
-          # -
-          #   from: "Video /Vimeo"
-          #   to:   "https://vimeo.com/284283459"
+          -
+            from: "Teaser /Vimeo"
+            to:   "https://vimeo.com/284283459"
           -
             from: "Fotos /Flickr"
             to:   "https://www.flickr.com/photos/125073205@N08/albums/72157700571129365"
-          # -
-          #   from: "Video Residency /Vimeo"
-          #   to:   "https://vimeo.com/287499824"
+          -
+            from: "Video Residency /Vimeo"
+            to:   "https://vimeo.com/287499824"
         videos:
-          -
-            vimeo: true
-            id: "284283459"
-            title: "Teaser_MOTHER"
-          -
-            vimeo: true
-            id: "287499824"
-            title: "Residency at TOPO"
           -
             vimeo: true
             id: "298778741"
             title: "Mother"
 
 
-###### start of 2017 v
+###### end of 2018
+##########################
+##########################
+
+
+###### 2017
+
 leviathan:
         featured: true
         project-title: Leviathan
         tags:
           - "2017"
-          - instrumento
-          - electroacústica
+          - "instrumento"
+          - "electroacustica"
         description: |
-                      Este proyecto funciona con un sistema llamado “Machine listening”, así que la pieza puede generarse así misma tomando como entradas eventos visuales y sonoros de registros previamente grabados del Paetzold (instrumento de viento). La parte sonara está programada en Supercollider y la parte visual con OpenFrameworks. Ambas se comunican con el instrumentista en tiempo real a través de una plantilla diseñada en TouchOSC.
+                      Esta pieza funciona con “machine listening” programada en Supercollider, un sistema que escucha las notas entrantes y las analiza para regresar una serie de sonidos relacionados. En el caso de la pieza, el sistema toma eventos sonoros generados en vivo por un Paetzold (instrumento de viento) que, a la par, coexiste con una serie de samples pre-grabados del mismo instrumento. La parte visual corre sobre un sistema desarrollado en OpenFrameworks en donde se modifican y transforman una serie de videos con texturas de las profundidades del mar y videos grabados del Paetzold. Ambos sistemas (el visual y el sonoro) se comunican a través de OSC en eventos audio-visuales que el instrumentista cambia en tiempo real a través de una plantilla diseñada en TouchOSC.
         credits:
           - ">Emilio Ocelotl [méxico] /composición sonora"
           - ">Alejandro Brianza [argentina] /paetzold"
           - ">Jessica Rodríguez [méxico] /composición visual"
           - ">Esteban Betancur [colombia] / programación OpenFrameworks"
-        presentaciones:
-          - ">Presentación en International Symposium of Electronic Art ISEA2017 | del 11 al 18 de Junio, 2017 | Manizales, Colombia"
-        # links:
-        #   -
-        #     from: "Video"
-        #     to:   "https://www.youtube.com/watch?v=X4a_5-Yodoo"
+        links: null
         videos:
           -
             vimeo: false
@@ -211,21 +177,15 @@ calles:
         project-title: Calles
         tags:
           - "2017"
-          - texto
-          - paisaje
-          - paisaje_sonoro
+          - "literatura_expandida"
+          - "electroacoustica"
         description: |
                       El video se desarrolla a través de una serie de textos escritos de la ciudad de Uruapan. Las partes del video están divididas por el nombre de la calle: Emilio Carranza, Alvaro Obregón, Francisco Sarabia, Calzada La Fuente y Ave. Revolución. La idea principal es expander el texto escrito hacia la narrativas visuals y sonoras. El video tiene dos partes sin texto ni visuals: La Iglesia y La Fuente. Este Proyecto se puede presenter tanto en su version fija como en su version performance.
         credits:
           - ">Rolando Rodríguez [méxico] /texto"
           - ">Michael Fox [uk] /composición sonora"
           - ">Jessica Rodríguez [méxico] /composición visual"
-        presentaciones:
-          - ">Presentación en la XVIII Feria del Libro Uruapan | 6 de Mayo, 2017 | Uruapan, México"
-        # links:
-        #   -
-        #     from: "Video"
-        #     to:   "https://vimeo.com/andamio/calles"
+        links: null
         videos:
           -
             vimeo: true
@@ -238,64 +198,65 @@ lucid:
         project-title: LUCID
         tags:
           - "2017"
-          - instrumento
-          - electroacustica
+          - "instrumento"
+          - "electroacustica"
+          - "colaboraciones"
         description: |
+                      This piece is an invitation to collaborate with the visual part that was created once the sound part was finished. The visuals are developed from five screens that come and go, presenting textures of nature altered with images that resemble the apocalyptic theme of the project.
+                      <br>
+                      Esta pieza es una invitación a colaborar con la parte visual que se creó una vez la parte sonora estaba terminada. Los visuales se desarrollan a partir de cinco pantallas que vienen y van, presentando texturas de naturaleza alteradas con imágenes que asemejan la temática apocalíptica del proyecto.
+                      <br>
                       Pieza musical de ciencia ficción situada en un futuro no muy lejano, probablemente el presente para muchos, en el que todos existimos a un ritmo tan extremo que no nos permite sentir, pensar, apreciar un momento…no nos permite vivir. Somos máquinas auto-programadas para producir y consumir. La naturaleza es sólo un recuerdo, imágenes borrosas y confusas que sólo puedes evocar con la mente, una vez en la vida si tienes suerte.
+                      <br>
                       El personaje principal de esta obra: un meta-chelo con crisis de identidad. Por un momento escapa de la rutina, abre los ojos y se da cuenta que existe, aquí y ahora. No tiene idea de lo que es, ni cómo llego a ese momento. ¿A dónde se fue el tiempo?
+                      <br>
                       Sin querer pensar mas, aprovecha la fuga para explorarse. Diversos gestos aparecen alrededor de él. Fríos, distantes, bosquejos de un espejo distorsionado. De pronto algo le responde, cada vez que él hace un sonido, otro lo imita. Poco a poco creará una conversación generando un cosmos de sonidos que lo llevará a ese momento inalcanzable de lucidez.
                       Pero, ¿esto es real? ¿O sucede en la mente? ¿Esto está pasando ahora? ¿O nunca sucedió? ¿Cuándo fue la última vez que tuviste un momento de lucidez? ¿Cuándo fue la última vez que te diste cuenta de que existes?
         credits:
-          - ">Aldo Lombera [méxico] /composición sonora"
+          - ">Aldo Lombera [méxico] /idea original y composición sonora"
           - ">Iracema de Andrade [brasil/méxico] /cello"
           - ">Jessica Rodríguez [méxico] /composición visual"
-        presentaciones:
-          - ">Presentación en el Museo Iconográfico del Quijote como parte de las actividades del XLIV Festival Internacional Cervantino | 14 de Octubre 2016 | Guanajuato"
-          - ">Presentación en el ciclo de conciertos LATITUDES SONORAS en el Museo de Arte Contemporáneo [MUAC] de la UNAM | 12 de Noviembre 2016 | Ciudad de México"
-          - ">Presentación en el ciclo de conciertos LATITUDES SONORAS en el Museo de Arte Contemporáneo [MUAC] de la UNAM | 13 de Noviembre 2016 | Ciudad de México"
-          - ">Presentación en SEGNALI | 2-6, Mayo 2017 | Perugia, Italia"
-          - ">Presentación en el Centro Multimedia CMM del CeNart | 2 de Junio 2017 | Ciudad de México "
-          - ">Presentación en la Fonoteca Nacional | 25 de Junio 2017 | Ciudad de México "
-        # links:
-        #   -
-        #     from: "Video"
-        #     to:   "https://vimeo.com/210097082"
-        videos:
+        links:
           -
-            vimeo: true
-            id: "210097082"
-            title: "LUCID"
+            from: "Video"
+            to:   "https://vimeo.com/210097082"
+        videos: null
 
 
-###### start of 2016 v
+###### end of 2017
+##########################
+##########################
+
+
+###### 2016
+
 ggigirlah:
         featured: true
         project-title: Ggigirlah
         tags:
           - "2016"
-          - visual_music
-          - electroacustica
-          - techno
+          - "musica_visual"
+          - "electroacustica"
+          - "colaboraciones"
         description: |
+                      Este es el resultado de una colaboración en la cual se creó la capa visual de una composición sonora. En el video, diferentes texturas abstractas son mostradas, juntando con el tiempo de los videos, así como yuxtaponiendo unos sobre otros.
+                      <br>
                       Debes saber que tus Kuku [antepasados] siempre son vistos como los primogénitos entre los Gina’abul, porque son más grandes que los Kingú. Es una pelea antigua y fútil entre tu Kuku y el Kingú, porque todos sabemos que el lugar de nacimiento de nuestra raza es Ušu y que los Ušumgal fueron creados por los grandes Kingú, Kingú-Babbar (albino Kingú), en tiempos tan distantes que se pierden en la memoria egocéntrica de su Kuku.
+                      <br>
                       Hace miles de años, nosotros (la mujer Gina'abul, Amašutum) vivíamos en Urbar'ra (Lyra) con el Sukkal, el Mušgir, el Ušumgal, y algunos Kingú formando la raza real de Ušu (Draco), que es El lugar de origen de Gina'abul. El Ušumgal y el Kingú gobernaron en algunos lugares pero eran la mayoría.
+                      <br>
                       Los Mušgir eran mucho más numerosos y constituían una raza ambiciosa que deseaba hacer de las hembras objetos sexuales a su conveniencia. Estos seres reprehensibles tenían envidia de nuestra inmortalidad física y de la fuerza divina que poseemos, así que ellos se metieron en sus cabezas para dominarnos.
+                      <br>
                       Se produjo una división sobre esto. Los Kingú nos abandonaron traicioneramente y regresaron a las colonias de Gina'abul de Ušu (Draco).
         credits:
           - ">Edmar Soria [méxico] /composición sonora"
           - ">Jessica Rodríguez [méxico] /composición visual"
           - ">Emilio Hernandez [méxico] /fotografía"
-        presentaciones:
-          - ">Frequency Festival por el BA Creative Music Technology del University Centre Doncaster | 24 de Enero 2017 | Doncaster, UK"
-        # links:
-        #   -
-        #     from: "Video"
-        #     to:   "https://vimeo.com/andamio/ggigirlah"
-        videos:
+        links:
           -
-            vimeo: true
-            id: "198734259"
-            title: "Ggigirlah"
+            from: "Video"
+            to:   "https://vimeo.com/198734259"
+        videos: null
 
 
 laid-by-his-side:
@@ -303,29 +264,22 @@ laid-by-his-side:
         project-title: Laid by his Side
         tags:
           - "2016"
-          - lectura_expandida
-          - shakespeare
-          - performance
+          - "literatura_expandida"
+          - "shakespeare"
         description: |
-                      Descansando a su lado. Lectura expandida resultado del trabajo para la convocatoria que lanzó el CMMAS (Centro Mexicano para la Música y las Artes Sonoras) y el British Council para celebrar los 400 años de la muerte de Shakespeare. donde se trabajan sonetos del autor en combinación con poemas de Pablo Neruda.
+                      Laid by his side es una lectura expandida resultado del trabajo para la convocatoria que lanzó el CMMAS (Centro Mexicano para la Música y las Artes Sonoras) y el British Council para celebrar los 400 años de la muerte de Shakespeare. Los sonetos del autor se trabajan en conjunto con poemas de Pablo Neruda.
+                      <br>
                       La pieza toma el título de las primeras palabras del verso 148 de los sonetos de Shakespeare. La idea era entrecruzar el ensayo de Jorge Cuesta sobre la procedencia de la literatura en el continente Americano, las formas clásicas de la literatura trabajadas por Shakespeare, los poemas escritos por Pablo Neruda en su producción literaria “20 poemas de amor y una canción desesperada” y el descubrimiento de la imprenta. De esta manera, la pieza se propone construir un ensayo exploratorio a través del sonido, la imagen y el texto donde colisionan ellas mismas, pero a la vez momentos históricos anacrónicos.
         credits:
           - ">Jessica Rodríguez [méxico] /video"
           - ">Manuel Zirate [méxico] /video"
           - ">Rolando Rodríguez [méxico] /voz y guión"
-          - ">Robert Mackay [reino unido] /voz y sonido"
+          - ">Robert Mackay [reino unido] /voz"
           - ">Tonalli R. Nakamura [méxico] /sonido"
-        presentaciones:
-          - ">Selección en la convocatoria Re-escuchando a Shakespeare del <b>Centro Mexicano para la Música y las Artes sonoras [CMMAS]</b>, con la Fonoteca Nacional y el British Council México | Octubre 2016 | Morelia, México"
-          - ">Presentación en el CMMAS en el concierto Re-escuchando a Shakespeare | 1 de Diciembre 2016 | Morelia, México"
-          - ">Presentación en la <b>Fonoteca Nacional</b> en el concierto Re-escuchando a Shakespeare | 8 de Diciembre 2016 | Ciudad de México"
         links:
           -
             from: "Presentación CMMAS | Diciembre 2016"
-            to:   ""
-          # -
-          #   from: "Video"
-          #   to:   "https://vimeo.com/andamio/laidbyhisside"
+            to:   "https://www.youtube.com/watch?v=4Z7ZJlPy1eg&feature=youtu.be"
         videos:
           -
             vimeo: true
@@ -338,26 +292,17 @@ lesttk:
         project-title: LESTT.K
         tags:
           - "2016"
-          - experimental
-          - encuentro
+          - "experimental"
+          - "festival"
         description: |
                       Encuentro de experimentación sonora/visual generado a partir del encuentro casual de productores que se encuentran en un mismo espacio. Durante el encuentro de una noche se presentan proyectos de varios países que variaban desde piezas acusmáticas, performances experimentales, visual music, livecoding, entre otros. Desde 2015 se han realizado tres ediciones:
-        credits:
-          - ""
-        presentaciones:
-          - "1er. Festival de Experimentación Sonoro/Visual en Agosto 2015. Presentando proyectos de México y Colombia, el encuentro se genera a partir de la presentación de participantes al Curso de Verano 2015 del CMMAS. Algunos de los participantes son; Edmar Soria, Jorge Alba, Jessica Rodríguez, Victor Taboada, Enriqueta Cerda, entre otros."
-          - "2do. Festival de Experimentación Sonoro/Visual realizado en Morelia, Michoacán México el 7 de Octubre de 2016. Presentando en Jeudi  proyectos de México, Chile, Colombia y Estados Unidos. Este encuentro se generó a través de los participantes (becarios principalmente) del Festival Internacional Visiones Sonoras 2017. Participantes; andamio, un cronopio, Emmanuel Ontiveiros, RVLVR, CNDSD, RGGTRN, holomorfo, FRCH, The Acid Nol, Enriqueta Cerda, Jorge Alba, BNXMN, Victor Taboada, Martín Sanchez, Beatsoul Rodríguez, Edmar Soria, Yeudiel Infante, Emilio Hernandez, Totol, Kevin Patton, Rodrigo Castellanos y Alejandro Arbornoz."
-          - "3er. Festival de Experimentación Sonoro/Visual realizado en Morelia, Michoacán México el 7 de Diciembre de 2017. Presentando en Tezla Music proyectos de México, Colombia y Chile. Este encuentro se generó a través de la participación de asistentes y ponentes al International Conference of Live Coding 2017. Participantes; Liliana Rodríguez, Isaura Román, Cesar Árciga, RGGTRN, CNDSD, Alex Franco, Algo0ritmos, Renzo Filinich, Christian Oyarzún, Tonalli R. Nakamura y Emilio Hernández."
-        links:
-          # -
-          #   from: "Video 2do. Encuentro"
-          #   to:   "https://vimeo.com/255309205"
-          # -
-          #   from: "Video 3er. Encuentro"
-          #   to:   "https://vimeo.com/255314164"
-          -
-            from: "Fotos 3er. Encuentro"
-            to:   " https://www.flickr.com/photos/125073205@N08/albums/72157690373494682"
+                      <br>
+                      1er. Festival de Experimentación Sonoro/Visual en Agosto 2015. Presentando proyectos de México y Colombia, el encuentro se genera a partir de la presentación de participantes al Curso de Verano 2015 del CMMAS. Algunos de los participantes son: Edmar Soria, Jorge Alba, Jessica Rodríguez, Victor Taboada, Enriqueta Cerda, entre otros.
+                      <br>
+                      2do. Festival de Experimentación Sonoro/Visual realizado en Morelia, Michoacán México el 7 de Octubre de 2016. Presentando en Jeudi  proyectos de México, Chile, Colombia y Estados Unidos. Este encuentro se generó a través de los participantes (becarios principalmente) del Festival Internacional Visiones Sonoras 2017. Participantes: andamio, un cronopio, Emmanuel Ontiveiros, RVLVR, CNDSD, RGGTRN, holomorfo, FRCH, The Acid Nol, Enriqueta Cerda, Jorge Alba, BNXMN, Victor Taboada, Martín Sanchez, Beatsoul Rodríguez, Edmar Soria, Yeudiel Infante, Emilio Hernandez, Totol, Kevin Patton, Rodrigo Castellanos y Alejandro Arbornoz.
+                      <br>
+                      3er. Festival de Experimentación Sonoro/Visual realizado en Morelia, Michoacán México el 7 de Diciembre de 2017. Presentando en Tezla Music proyectos de México, Colombia y Chile. Este encuentro se generó a través de la participación de asistentes y ponentes al International Conference of Live Coding 2017. Participantes: Liliana Rodríguez, Isaura Román, Cesar Árciga, RGGTRN, CNDSD, Alex Franco, Algo0ritmos, Renzo Filinich, Christian Oyarzún, Tonalli R. Nakamura y Emilio Hernández.
+        links: null
         videos:
           -
             vimeo: true
@@ -374,42 +319,29 @@ solar-flare:
         project-title: Solar Flare
         tags:
           - "2016"
-          - visual_music
-          - dance
+          - "visual_music"
+          - "electroacoustica"
+          - "colaboraciones"
         description: |
-                      Inspiradas en la película Sunshine (Boyle, 2007). Los movimientos que componen la pieza de Solar Flare evocan la inmensidad de la exploración espacial, así como la intimidad de la humanidad dentro de ella. Movimientos: A1-SolarFlare | B1-StillTransmitting | B2-EvenWhenImGone.
-                      El movimiento de apertura se dobla y se modula a medida que el arte viaja a través del espacio y el tiempo, perpetuamente avanzar y empujar a través de explorar aún más hasta que las señales y los mecanismos se distorsionan por una explosión solar local. El segundo y tercer movimiento cuentan la historia de las secuelas. Derivando a través del vacío sin control y sin la capacidad de distinguir pasado y futuro, y ningún signo de hogar. Enviar señales finales con la esperanza de que alguien las recoja, para tener una última conexión humana.
-                      En la parte visual se exploraron videos de sintetizadores visuales tomados de proyectos de Woody Vasulka principalmente, para así mezclarlos, multiplicarlos y contraponiendo para así producir una lenguaje visual que esté relacionado directamente con los gestos que ocurren en la parte sonora.
+                      Generada a partir de la película Sunshine (Boyle, 2007), los movimientos que componen la pieza de Solar Flare evocan la inmensidad de la exploración espacial; así como la intimidad de la humanidad dentro de ella. Movimientos: A1-SolarFlare | B1-StillTransmitting | B2-EvenWhenImGone.
+                      <br>
+                      El movimiento de apertura se dobla y se modula a medida que la imagen viaja a través del espacio/tiempo, ésta perpetuamente avanza a través de explorar las señales y los mecanismos que se distorsionan por una explosión solar local. El segundo y tercer movimiento cuentan la historia de las secuelas, derivando en un espacio sin control, sin la capacidad de distinguir pasado y futuro, y ningún signo de hogar. Enviando señales finales con la esperanza de que alguien las recoja para tener una última conexión humana.
+                      <br>
+                      La colaboración para este proyecto consistió en la creación de la capa visual que utiliza videos de sintetizadores visuales tomados de proyectos de Woody Vasulka. Se mezclarlos, multiplicarlos y contraponiendo para así producir una lenguaje visual que está relacionado con los gestos que ocurren en la parte sonora.
         credits:
           - ">Michael Fox [uk] /composición sonora"
           - ">Jessica Rodríguez [méxico] /composición visual"
-        presentaciones:
-          - A1-SolarFlare
-          - B1-StillTransmitting
-          - B2-EvenWhenImGone
-        # links:
-        #   -
-        #     from: "Video A-1"
-        #     to:   "https://vimeo.com/andamio/a1solarflare"
-        #   -
-        #     from: "Video B-1"
-        #     to:   "https://vimeo.com/andamio/b1stilltransmitting"
-        #   -
-        #     from: "Video B-1"
-        #     to:   "https://vimeo.com/andamio/b2evenwhenimgone"
-        videos:
+        links:
           -
-            vimeo: true
-            id: "186465183"
-            title: "Video A-1"
+            from: "A1-SolarFlare"
+            to:   "https://vimeo.com/186465183"
           -
-            vimeo: true
-            id: "189457645"
-            title: "Video B-1"
+            from: "B1-StillTransmitting"
+            to:   "https://vimeo.com/189457645"
           -
-            vimeo: true
-            id: "189547375"
-            title: "Video B-1"
+            from: "B2-EvenWhenImGone"
+            to:   "https://vimeo.com/189547375"
+        videos: null
 
 
 altamisa:
@@ -417,57 +349,37 @@ altamisa:
         project-title: altamisa
         tags:
           - "2016"
-          - cello
-          - sistema_interactivo
-          - performance
+          - "instrumento"
+          - "sistema_interactivo"
+          - "colaboraciones"
         description: |
-                      Altamisa es la instanciación de un prototipo de sistema musical interactivo todavía en fase de desarrollo y experimentación que vincula observación social y creación musical y visual. En Altamisa se toma en cuenta la interactividad performática pero también las relaciones históricamente conformadas entre los agentes involucrados: compositores, intérpretes, entorno y computadora como conocimiento objetivado. Altamisa como instancia tiene resultados en una obra para cello, video y electrónica.
+                      Altamisa es un prototipo de sistema musical reactivo en fase de desarrollo y experimentación que vincula observación social y creación musical/visual. En Altamisa se toma en cuenta la reactividad performática así como las relaciones históricamente conformadas entre los agentes involucrados: compositores, intérpretes, entorno y computadora como conocimiento objetivado. Altamisa como instancia, tiene resultados en una obra para cello, video y electrónica. A partir de la pieza los agentes involucrados han generado trabajos de investigación que intentan resolver la pieza desde lo técnico, desde lo sonoro/visual y desde lo perfomático.
+                      <br>
+                      La colaboración que se realizó en este proyecto consistió en la edición de una serie de videos que son mostrados durante el performance. Adicionalmente, estos videos también fueron mezclados en vivo en algunas de las presentaciones de la pieza.
         credits:
           - ">Emilio Ocelotl [méxico] /composición sonora"
           - ">Iracema de Andrade [méxico-brasil] /cello"
           - ">Jessica Rodríguez [méxico] /composición visual"
-        presentaciones:
-          - ">Presentación en el Lestt.k 2do. Festival de experimentación sonora | multimedia | Septiembre 2016 | Morelia, México"
-          - ">Presentación en el <b>Museo Iconográfico del Quijote</b> como parte de las actividades del XLIV <b>Festival Internacional Cervantino</b> | 14 de Octubre 2016 | Guanajuato"
-          - ">Presentación en la sesion <b>069</b> de <b>Arte Sonoro y Livecinema</b> en la Facultad de Arte y Diseño UNAM | 26 de Octubre 2016 | Ciudad de México"
-          - ">Presentación en el ciclo de <b>conciertos LATITUDES SONORAS</b>  en el <b>Museo de Arte Contemporáneo [MUAC]</b> de la UNAM | 12 de Noviembre 2016 | Ciudad de México"
-          - ">Presentación en el ciclo de <b>conciertos LATITUDES SONORAS</b>  en el <b>Museo de Arte Contemporáneo [MUAC]</b> de la UNAM | 13 de Noviembre 2016 | Ciudad de México"
         links:
           -
             from: "Paper"
             to:   "http://andamio.in/files/AltamisaPaper.pdf"
-          # -
-          #   from: "Video presentación en el Cervantino | Octubre 14, 2016"
-          #   to:   "https://www.youtube.com/watch?v=ti8z93k2bU0"
-          # -
-          #   from: "Video presentación en la sesión 069 | Octubre 26, 2016"
-          #   to:   "https://vimeo.com/193196233"
-          # -
-          #   from: "Video presentación en el MUAC | Noviembre 11, 2016"
-          #   to:   "https://www.youtube.com/watch?v=j4tIqIxVNPo"
-          # -
-          #   from: "Video presentación en el MUAC | Noviembre 12, 2016"
-          #   to:   "https://www.youtube.com/watch?v=LWWvuPo0djk"
+          -
+            from: "Video presentación en el Cervantino | Octubre 14, 2016"
+            to:   "https://www.youtube.com/watch?v=ti8z93k2bU0"
+          -
+            from: "Video presentación en la sesión 069 | Octubre 26, 2016"
+            to:   "https://vimeo.com/193196233"
+          -
+            from: "Video presentación en el MUAC | Noviembre 11, 2016"
+            to:   "https://www.youtube.com/watch?v=j4tIqIxVNPo"
+          -
+            from: "Video presentación en el MUAC | Noviembre 12, 2016"
+            to:   "https://www.youtube.com/watch?v=LWWvuPo0djk"
           -
             from: "Fotos"
             to:   "https://www.flickr.com/photos/125073205@N08/sets/72157679190588116"
-        videos:
-          -
-            vimeo: false
-            id: "ti8z93k2bU0"
-            title: "Video presentación en el Cervantino | Octubre 14, 2016"
-          -
-            vimeo: true
-            id: "193196233"
-            title: "Video presentación en la sesión 069 | Octubre 26, 2016"
-          -
-            vimeo: false
-            id: "j4tIqIxVNPo"
-            title: "Video presentación en el MUAC | Noviembre 11, 2016"
-          -
-            vimeo: false
-            id: "LWWvuPo0djk"
-            title: "Video presentación en el MUAC | Noviembre 12, 2016"
+        videos: null
 
 
 
@@ -476,38 +388,31 @@ flight-of-the-monarchs:
         project-title: Flight of the Monarchs
         tags:
           - "2016"
-          - instalación
-          - voz
+          - "installation"
+          - "ecology"
+          - "collaborations"
+          - "documental"
         description: |
                       El vuelo de las mariposas es una instalación visual/sonora inmersiva generada a través del viaje que la Mariposa Monarca realiza cada año de Canadá a México y viceversa. Combina imágenes de video y sonido grabadas en la reserva de El Rosario, en Michoacán, México. Utiliza sonidos de flauta y poesía mexicana para explora el viaje de esta hermosa criatura ante el cambio climático.
+                      <br>
+                      Andamio fue invitado a participar en este proyecto creando un texto específico con la temática del proyecto (así como la grabación de la lectura de éste). Además, colaboramos editando una serie de videos que son mostrados junto con la composición sonora.
         credits:
           - ">Robert Mackay [uk] /composición sonora"
           - ">Rolando Rodríguez [méxico] /texto y voz"
           - ">Jessica Rodríguez [méxico] /composición visual"
           - ">Manuel Zirate [méxico] / fotografía"
-          - ">David Blink [usa]"
-        presentaciones:
-          - ">Presentación en el Amy Johnson Festival | From 29th. July to 10 August | Hull, UK."
-          - ">Selección y proyección en el New York City Electroacoustic Music Festival  | Junio 2017 | New York City, US"
+          - ">David Blink [usa] /instrumento"
         links:
-          # -
-          #   from: "Video"
-          #   to:   "https://www.youtube.com/watch?v=Dhbv63REKrM"
-          # -
-          #   from: "Documental corto"
-          #   to:   "https://www.youtube.com/watch?v=KZkVJItXiAg"
+          -
+            from: "Video"
+            to:   "https://www.youtube.com/watch?v=Dhbv63REKrM"
+          -
+            from: "Documental corto"
+            to:   "https://www.youtube.com/watch?v=KZkVJItXiAg"
           -
             from: "Live-stream desde la Reserva de la Mariposa Monarca en Cerro Pelón está disponible en Locus Sonus Soundmap"
             to:   "http://locusonus.org/soundmap/051/"
-        videos:
-          -
-            vimeo: false
-            id: "Dhbv63REKrM"
-            title: "Video"
-          -
-            vimeo: false
-            id: "KZkVJItXiAg"
-            title: "Documental corto"
+        videos: null
 
 
 el-tren:
@@ -515,39 +420,27 @@ el-tren:
         project-title: El Tren
         tags:
           - "2016"
-          - lectura_expandida
-          - experimental
+          - "literatura_expandida"
+          - "performance"
         description: |
-                      El Tren es una pieza producida en el formato de Video fijo y Lectura Expandida. Su procedencia es el trabajo de la memoria produciendo un texto literario que recupera el recuerdo y a partir del cual se construyen las líneas de un paisaje sonoro para poder trabajar en vivo. Una vez que el la producción literaria se ha concretado y las líneas sonoras son propuestas se genera la imagen en crudo. Todos los elementos se trabajan en vivo en una puesta en escena donde la imagen, el sonido y el texto interactúan.
-                      El tren es la lectura en vivo de un cuento se inicia con una viaje en vacaciones y hace divagar la imagen y el sonido, permitiéndoles su propia narrativa, pero a la vez va encontrando, en la puesta en escena, momentos en donde todo parece coincidir; sin embargo, se sigue bifurcando tal como lo hace la narrativa del cuento que nunca concreta la historia del tren.
+                      El Tren es una pieza producida en formato de video fijo y lectura expandida. Su procedencia es el trabajo de la memoria produciendo un texto literario que recupera el recuerdo y a partir del cual se construyen las líneas de un paisaje sonoro para poder trabajar en vivo. Una vez que la producción literaria se concreta y las líneas sonoras son propuestas se genera la imagen en crudo. Todos los elementos se trabajan en vivo en una puesta en escena donde la imagen, el sonido y el texto colisionan.
+                      <br>
+                      El tren es la lectura en vivo de un cuento que se inicia con una viaje en vacaciones y hace divagar la imagen y el sonido, permitiéndoles su propia narrativa, pero a la vez va encontrando, en la puesta en escena, momentos en donde todo coincidir; sin embargo, se sigue bifurcando tal como lo hace la narrativa del cuento que nunca concreta la historia del tren.
         credits:
           - "Rolando Rodríguez [méxico] /texto y voz"
           - "Tonalli R. Nakamura [méxico] /composición sonora"
           - "Alejandro Brianza [argentina] /composición sonora"
           - "Jessica Rodríguez [méxico] /composición visual"
           - "Manuel Zirate [méxico] /composición visual"
-        presentaciones:
-          - ">Performance en PODER/HACER en Arte Alameda | Septiembre 2016 | Ciudad de México, México"
-          - ">Performance en el Festival Internacional de la Imagen 2016 | Mayo 2016 | Manizales, Colombia"
         links:
-          # -
-          #   from: "Video"
-          #   to:   "https://vimeo.com/andamio/eltren"
-          # -
-          #   from: "Video presentación en Manizales | Mayo 2016"
-          #   to:   "https://www.youtube.com/watch?v=grTbuvO1EKo"
           -
-            from: "Video presentación en PODER/HACER Laboratorio de Arte Alamenda, CDMX, Mexico | Septiembre 2016"
-            to:   ""
+            from: "Video presentación en Manizales | Mayo 2016"
+            to:   "https://www.youtube.com/watch?v=grTbuvO1EKo"
         videos:
           -
             vimeo: true
             id: "157375055"
             title: "Video"
-          -
-            vimeo: false
-            id: "grTbuvO1EKo"
-            title: "Video presentación en Manizales | Mayo 2016"
 
 
 rgtrrn-andamio:
@@ -555,19 +448,15 @@ rgtrrn-andamio:
         project-title: RGTRRN+ANDAMIO
         tags:
           - "2016"
-          - colaboración
-          - giratitles
+          - "live_coding"
+          - "cumbia"
+          - "colaboraciones"
         description: |
-                      Colaboración con el proyecto RGTRRN realizando una mini-gira por Reino Unido presentando en Sesiones de Algorave. Con una mezcla entre elementos sonoros y visuales populares, se mostraron sesiones de electro-cumbia donde el código era el principal recurso.
+                      Colaboración con el proyecto RGTRRN realizando una mini-gira por Reino Unido en Sesiones de Algorave. Lo que se presentó fue una mezcla entre elementos sonoros y visuales populares, se mostraron sesiones de electro-cumbia con el código de programación como principal recurso.
         credits:
-          - ">Emilio Ocelotl [méxico] /sonido"
-          - ">Luis Navarro [méxico] /sonido"
-          - ">Jessica Rodríguez [méxico]"
-        presentaciones:
-          - ">Participación en Algorave | Leeds | Abril 2016 | Leeds, UK"
-          - ">Participación en Algorave | Newcastle | Mayo 2016 | Newcastle, UK"
-          - ">Participación en Squarewaves Sonic Social Lectures en The New Adelphi Club | Mayo 2016 | Hull, UK"
-          - ">Participación en Algorave | London | Mayo 2016 | Londres, UK"
+          - ">Emilio Ocelotl [méxico] /RGGTRN"
+          - ">Luis Navarro [méxico] /RGGTRN"
+          - ">Jessica Rodríguez [méxico] /visuales"
         links:
           -
             from: "RGGTRN Soundcloud"
@@ -575,16 +464,19 @@ rgtrrn-andamio:
           -
             from: "Fotos"
             to:   "https://www.flickr.com/photos/125073205@N08/sets/72157679191262036"
+        videos: null
 
 
 tuyuc:
         featured: true
         project-title: TUYUC
         tags:
-          - micro_documental
-          - yasuní
+          - "2016"
+          - "documentary"
+          - "ecologia"
         description: |
                       TUYUC es un documento experiencial de registros que se realizaron a partir de un proyecto fallido que tenía una mirada de conquista a una geografía selvática como Yasuní. El proyecto se ha presentado como video documental y como instalación.
+                      <br>
                       TUYUC puede ser la descripción de esa experiencia a partir de un mestizaje entre la imagen, el sonido y el texto, un juego de sombras chinas, árboles que te comen los vientres, animales articulados en la gravitación de las ramas, ruidos de noche por las mañanas, mañanas que ruedan como canicas, canicas que persiguen caminos inundados de sorpresas, sorpresas que nunca terminan o no terminan en la delgada orilla que separa una hoja, una hoja molida con arena que descansa en la receta de un libro, un libro de mapas no descritos o donde la pluma estaba a punto de dibujar una indiscreta e imprecisa geográfica línea, una línea que no es una orilla, sino la pista en el carnaval de las hormigas, las hormigas que se amontonan todas para suspenderse en el agua, el agua que carga la pesadez de la tierra, la tierra que gira como una moneda en el aire, el aire que se esconde entre los huecos húmedos de las copas de los árboles, los huecos húmedos que anidan lo desconocido, lo desconocido en donde eclosiona el huevo místico de una animal feroz, un animal feroz que roba niñas, y niñas que son pedidas de regreso por un chamán.
         credits:
           - "Rolando Rodríguez [méxico] /texto y voz "
@@ -593,16 +485,10 @@ tuyuc:
           - "Tonalli R. Nakamura [méxico] /composición sonora"
           - "Alejandro Brianza [argentina] /composición sonora"
           - "Edison Vaca [ecuador] /fotografía"
-        presentaciones:
-          - ">Instalación en el Balance/Unbalance 2016 | Mayo 2016 | Manizales, Colombia"
-          - ">Presentación de video-microdocumental en la Universidad de Hull | Mayo 2016 | Hull, UK"
         links:
-          # -
-          #   from: "Video-documental"
-          #   to:   "https://www.youtube.com/watch?v=xMK9V_O9-NU"
-          # -
-          #   from: "Video Teaser instalación"
-          #   to:   "https://vimeo.com/andamio/tuyuc"
+          -
+            from: "Teaser TUYUC[instalación]"
+            to:   "https://vimeo.com/170322761"
           -
             from: "Fotos"
             to:   "https://www.flickr.com/photos/125073205@N08/sets/72157669488344266"
@@ -611,10 +497,6 @@ tuyuc:
             vimeo: false
             id: "xMK9V_O9-NU"
             title: "Video-documental"
-          -
-            vimeo: true
-            id: "170322761"
-            title: "Video instalación"
 
 
 el-lenguaje-de-los-arboles:
@@ -622,131 +504,97 @@ el-lenguaje-de-los-arboles:
         project-title: El lenguaje de los Árboles
         tags:
           - "2016"
-          - "visual_music"
+          - "musica_visual"
           - "electroacustica"
         description: |
-                      El lenguaje de los árboles explora la relación entre arte y ecología apuntando a una toma de conciencia general acerca del cuidado y la importancia de las plantas, bosques y selvas como recurso indispensable para la permanencia saludable del ser humano en el planeta. Cada uno de los movimientos – Brotes, Floema y Esporas– retoma desde diferentes perspectivas visuales y sonoras, distintos momentos de las fases de la vida de una planta: la vida, el crecimiento y la reproducción.
+                      El lenguaje de los árboles explora la relación entre arte y ecología apuntando a una toma de conciencia general acerca del cuidado y la importancia de las plantas, bosques y selvas como recurso indispensable para la permanencia saludable del ser humano en el planeta. Cada uno de los movimientos – Brotes, Floema y Esporas– retoma diferentes perspectivas visuales/sonoras, distintos momentos de las fases del desarrollo de una planta: la vida, el crecimiento y la reproducción.
         credits:
           - "Jessica Rodríguez [méxico] /composición visual"
           - "Manuel Zirate [méxico] /composición visual"
           - "Alejandro Brianza [argentina] /composición sonora"
-        presentaciones:
-          - ">Performance en el Festival Internacional de la Imagen 2016 | Mayo 2016 | Manizales, Colombia"
-          - ">Presentación de Esporas en Sonido Presente en el Instituto Superior de Música, UNL | Agosto 2016 | Santa Fé, Argentina"
-          - ">Presentación en el Museo Urbano Poggi | Agosto 2016 | Rafaela, Argentina"
-          - ">Proyección en el<b>Tercer Seminario Nuevas Músicas Latinoamericanas</b> | del 23 al 25 Agosto 2016 | Valparaíso, Chile"
-          - ">Proyección de Esporas en el <b>Ciclo Experimentalia</b> del Centro Cultural España Córdoba | Septiembre 2016 | Córdoba, Argentina"
-          - ">Presentación de Esporas en el Concierto Conjunto Vacío, LIPM del Centro Cultural Recoleta | 10 de Noviembre 2016 | Buenos Aires, Argentina"
-          - ">Presentación de Esporas en la XII Jornadas Argentinas de Música Contemporánea e Investigación | 10 de Noviembre 2016 | Córdoba, Argentina"
+        links: null
+        videos:
+          -
+            vimeo: True
+            id: "166751963"
+            title: "El Lenguaje de los Árboles"
+
+
+serie-de-conciertos:
+        featured: false
+        project-title: Serie de Conciertos 2015-16
+        tags:
+          - "2016"
+          - "2015"
+          - "literatura_expandida"
+          - "live_cinema"
+        description: |
+                      Las piezas “Ingenuidad”, “Gotas Contra la Soledad”, “El Charco de Lágrimas” y “El Signo del Escorpión” fueron producidas en el marco del programa de promoción de la lectura de la UVM (Universidad del Valle de México) entre los años 2015-2016 y para introducir a los estudiantes a procesos de producción de lectura que fuesen realizados con medios análogos y tecnológicos. La intención primaria era introducir al alumno a maneras de lectura que iban más allá de la lectura en solitario. La premisa básica fue que leer al leer en voz alta y con elementos que la expandieran evidenciaba que la lectura era más que líneas que decodificar. Al presentar la propuesta en formato de lectura expandida, lectura vocal y audiovisual, Literatura Electrónica, CineVivo permitía que no sólo se leyese, sino que tanto el que leía; como el que escuchaba se preguntase el porqué la performance y la utilización de otros elementos.
+                      <br>
+                      <br>
+                      1. “Ingenuidad” es un performance donde se trabaja la memoria y el recuerdo de la infancia a través del manejo de la imagen en vivo, utilizando elementos análogos y tecnológicos para realzar la imagen en tiempo real, que sucede a la par de la producción de música en vivo y del manejo de imagen previamente construida.
+                      <br>
+                      Créditos_Rolando Rodríguez [méxico] /texto y voz | Jessica Rodríguez [méxico] [méxico] /composición visual | Roberto Dominguez [méxico] /composición sonora | César Gúzman [méxico] /piano | Otros participantes: Clase de Medios Alternativos de la Universidad de las Artes y la Clase de Procesos Psicológicos de las Escuela de Comunicación de la UVM
+                      <br>
+                      <br>
+                      2. “Gotas contra la soledad” es una lectura generativa/performantiva donde se trabajan texturas de paisajes sonoros/visuales y la lectura en vivo. El título está tomado del cuento corto de Etgart Keret. El proyecto actualiza poemas y cuentos cortos de escritores como Jaime Sabines, Octavio Paz, Augusto Monterroso, Edgart Keret y más. Agrega visuales y arte sonoro en vivo que corren como narrativas independientes a la lectura análoga de las producciones literarias, pero que se encuentran en puntos precisos dentro del caos.
+                      <br>
+                      Créditos_Rolando Rodríguez [méxico] /texto y voz | Jessica Rodríguez [méxico] [méxico] /composición visual | Roberto Dominguez [méxico] /composición sonora
+                      <br>
+                      <br>
+                      3. “El Charco de lágrimas” es un proyecto generado a partir de la colaboración de dos grupos de alumnos para que ellos interactuaran de una forma análoga y digital. En la parte visual del performance se trabajó con registros de performances que exploran la mutilación del cuerpo, a la vez corrían narrativas alternas tanto de exploración sonora como de lectura en vivo.
+                      <br>
+                      Créditos_ Rolando Rodríguez [mexico] /texto y voz | Jessica Rodríguez [mexico] /composición visual | Ricardo Salinas [chile] /composición sonora | Grupo 32 y 14 de la Preparatoria UVM Aguascalientes
+                      <br>
+                      <br>
+                      4. “El Signo del Escorpión” es una lectura visual/sonora generada a partir de la lectura análoga del cuento de “El sino del escorpión” de José Revueltas. La construcción del paisaje sonoro se realizó en tiempo real. Las imágenes fueron recicladas de otros proyectos.
+                      <br>
+                      Créditos_Jessica Rodríguez [méxico] y Guzmán Ziráte [méxico] /composición visual | Alejandro Brianza [argentina] /composición sonora
         links:
           -
-            from: "Video"
-            to:   "https://vimeo.com/andamio/lenguajearboles"
+            from: "Teaser Ingenuidad"
+            to: "https://vimeo.com/122510249"
           -
-            from: "Video Esporas (Tercer movimiento)"
-            to:   "https://vimeo.com/andamio/esporas"
+            from: "Teaser Gotas Contra la Soledad"
+            to: "https://vimeo.com/113945396"
           -
-            from: "Video presentación en Manizales | Mayo 2016"
-            to:   "https://www.youtube.com/watch?v=JNcSLUinWlw"
+            from: "El Charco de Lagrimas"
+            to: "https://vimeo.com/147140034"
+        videos: null
 
 
-
-#    end of 2016 ^
+###### end of 2016
 ##########################
 ##########################
 
+
+###### 2015
 
 el-hacedor:
         featured: true
         project-title: El Hacedor
         tags:
           - "2015"
-          - "lectura_expandida"
-          - "borges"
+          - "literatura_expandida"
+          - "performance"
         description: |
-                      Borges y yo es una pieza visual/sonora donde la idea principal es explorar la lectura como sonido manipulándola a través del programa “Processing” con el cual se construyó un patch que permite ensamblar la voz análoga con la programación creando el sonido octafónico y formas del sonido como cacofonías, ecos, reiteraciones, repeticiones, errores.
-                      Al mismo tiempo, la parte visual está construida de visuales recuperados de Internet que se manipulan a través del programa “Resolume” que permite trabajar en tiempo real y sin conexión alguna con la parte sonora. De esta forma, el poema del escritor argentino Jorge Luis Borges se expande a través de la sonoridad del poema y de la imagen construida para él.
+                      El Hacedor es una proyecto que tiene dos versiones: una fija y como performance. En su versión fija, la composición sonora se produce a partir de ondas programadas en Supercollider que se mezclan con extractos de los cuentos cortos previamente grabados. La parte visual está construida de entrevistas a Borges que se manipulan y se degradan con el sonido.  De esta forma, los trabajos del escritor argentino se actualiza a través de la sonoridad del poema y de la imagen construida para él.
+                      <br>
+                      En la versión de performance, la idea principal es explorar la lectura en tiempo real como una capa sonora, manipulada a través del programa Supercollider para el cual se construyó un patch que permite ensamblar la voz análoga con otras voces (lectores). Así, se produce una composición octafónica con formas del sonido como: cacofonías, ecos, reiteraciones, repeticiones, errores. La imagen es manipulada en vivo sin conexión alguna con el audio.
+                      <br>
+                      Cuentos leídos: El hacedor, Mutaciones, Borges y yo, Blind Pew, y Los Borges.
         credits:
           - "Jessica Rodríguez [méxico] /composición sonora y visual"
           - "Rolando Rodriguez [méxico] /voz"
-        presentaciones:
-          - ">Presentación en el Teatro principal de la Universidad de Guanajuato | Diciembre 2015 | Guanajuato, México"
-          - ">Presentación durante la presentación de andamio en el Tercer Encuentro de Arte Sonoro y Exploración Audiovisual como parte de las actividades de  la Facultad de Música de la UNAM | Enero 2016 | Ciudad de México"
-          - ">Presentación en el concierto de andamio Encuentro Sonoro en la Universidad de las Artes de Aguascalientes | Octubre 2016 | Aguascalientes, México"
         links:
-          -
-            from: "Video cuento Borges y yo"
-            to:   "https://vimeo.com/andamio/borgesyyo"
           -
             from: "Video presentación en Guanajuato | Diciembre 2015"
             to:   "https://www.youtube.com/watch?v=nx_2Vm-AqF0"
-
-
-ingenuidad:
-        featured: true
-        project-title: Ingenuidad
-        tags:
-          - "2015"
-          - "live_cinema"
-          - "experimental"
-        description: |
-                      Ingenuidad es un Livecinema donde se trabaja la memoria y el recuerdo de la infancia a través del manejo de la imagen en vivo, utilizando elementos análogos y tecnológicos para realzar la imagen en tiempo real, que sucede a la par de la producción de música en vivo y del manejo de imagen previamente construida.
-        credits:
-          - "Rolando Rodríguez [méxico] /texto y voz"
-          - "Jessica Rodríguez [méxico] [méxico] /composición visual"
-          - "Roberto Dominguez [méxico] /composición sonora"
-          - "César Gúzman [méxico] /piano"
-          - "Otros participantes; Clase de Medios Alternativos de la Universidad de las Artes y la Clase de Procesos Psicológicos de las Escuela de Comunicación de la UVM"
-        presentaciones:
-          - ">Performance en GLION Escuela de Gastronomía Universidad del Valle de México Campus Aguascalientes | 19 de Marzo 2015 | Aguascalientes, México"
-        links:
+        videos:
           -
-            from: "Teaser"
-            to:   "https://vimeo.com/andamio/ingenuidad"
-
-
-gotas-contra-la-soledad:
-        featured: false
-        project-title: Gotas contra la soledad
-        tags:
-          - "2015"
-          - "lectura_expandida"
-          - "experimental"
-        description: |
-                      Es una lectura generativa donde las texturas de paisajes sonoros/visuales y la lectura en vivo, el título está tomado del cuento corto de Etgart Keret. El proyecto expande poemas y cuentos cortos de escritores como Jaime Sabines, Octavio Paz, Augusto Monterroso, Edgart Keret y más.
-                      Agrega visuales y arte sonoro en vivo que corren como narrativas independientes a la lectura análoga de las producciones literarias, pero que se encuentran en puntos precisos dentro del caos.
-        credits:
-          - "Rolando Rodríguez [méxico] /texto y voz"
-          - "Jessica Rodríguez [méxico] [méxico] /composición visual"
-          - "Roberto Dominguez [méxico] /composición sonora"
-        presentaciones:
-          - ">Performance en la Universidad del Valle de México Campus Aguascalientes| Mayo 2015 | Aguascalientes, México"
-        links:
-          -
-            from: "Teaser"
-            to:   "https://vimeo.com/andamio/soledad"
-
-
-el-charco-de-lagrimas:
-        featured: false
-        project-title: El charco de lágrimas
-        tags:
-          - "2015"
-          - "lectura_expandida"
-          - "experimental"
-        description: |
-                      Proyecto creador a partir de la colaboración de dos grupos de alumnos para que ellos interactuaran de una forma análoga y digital. En la parte visual del performance se trabajó con registros de performances que exploran la mutilación del cuerpo, a la vez corrían narrativas alternas tanto de exploración sonora como de lectura en vivo.
-        credits:
-          - "Rolando Rodríguez [méxico] /texto y voz"
-          - "Jessica Rodríguez [méxico] [méxico] /composición visual"
-          - "Ricardo Salinas [chile] /composición sonora"
-          - "Otros participantes; Academia de Literatura de la Preparatoria UVM Aguascalientes, Grupos 32 y 14 de la Preparatoria UVM Aguascalientes"
-        presentaciones:
-          - ">Performance El charco de lagrimas en la Universidad del Valle de México Campus Aguascalientes| Noviembre 2015 | Aguascalientes, México"
-        links:
-          -
-            from: "Teaser"
-            to:   "https://vimeo.com/andamio/charco"
+            vimeo: True
+            id: "163195252"
+            title: "Borges y yo"
 
 
 pirata-de-patio-adentro:
@@ -754,27 +602,26 @@ pirata-de-patio-adentro:
         project-title: Pirata de patio adentro
         tags:
           - "2015"
-          - "lectura_expandida"
-          - "piano"
+          - "literatura_expandida"
+          - "podcast"
         description: |
-                      El proyecto consistió en escribir una historia de ficción y agregarle música de piano. El video utiliza de manera abstracta la narrativa de la historia utilizando mezcla de videos y yuxtaposición de los mismos para crear la composición visual.
-                      El cuento fue escrito es un texto original que explora la vida de un niño, que se encuentra en la ducha imaginando paisajes de piratas antes de tomar su primera comunión.
+                      El proyecto consistió en escribir una historia de ficción y agregarle música de piano. El video utiliza de manera abstracta la narrativa de la historia mezclando videos de cultura popular de piratas yuxtapuestos sobre un video de una pecera. El cuento es un texto que explora la vida de un niño que se encuentra en la ducha imaginando paisajes de piratas antes de hacer su primera comunión.
         credits:
           - "Rolando Rodríguez [méxico] /texto y voz"
           - "Tonalli R. Nakamura [méxico] /composición sonora"
           - "Damayanthi Villagrán [méxico] /composición visual"
-        presentaciones:
-          - ">Performance en la Universidad de las Artes Aguascalientes  | Diciembre 2014 | Aguascalientes, México"
         links:
-          -
-            from: "Video con voz en español"
-            to:   "https://vimeo.com/andamio/pirata"
           -
             from: "Video con voz en inglés"
             to:   "https://www.youtube.com/watch?v=zqy8AMPF3Yo"
           -
             from: "Podcast con voz en inglés"
             to:   "https://soundcloud.com/andamio-in/backyard-pirate"
+        videos:
+          -
+            vimeo: True
+            id: "113338985"
+            title: "Pirata de Patio Adentro"
 
 
 los-dias-terrestres2:
@@ -782,11 +629,12 @@ los-dias-terrestres2:
         project-title: Los días terrestres 2.0
         tags:
           - "2015"
-          - "lectura_expandida"
-          - "experimental"
+          - "literatura_expandida"
+          - "mujeres"
         description: |
-                      Es la segunda versión de la Lectura/Visual/Sonora que se presentó un año anterior. Las texturas de los paisajes sonoros y visuales, y de la lectura análoga se dispersan en el caos o se encuentran en la coincidencia de lo cotidiano.
-                      En la parte visual se exploraron posibilidades analógicas de registro y elementos como textos, letras de imprenta y el mismo cuerpo como elemento narrativo. En la parte sonora, ambas capas -la voz y el audio grabado- jugaron un papel mucho más dinámico.
+                      Es la segunda versión de la lectura visual/sonora que se presentó en 2014. Las texturas de los paisajes sonoros/visuales y de la lectura análoga se dispersan en el caos o se encuentran en la coincidencia de lo cotidiano.
+                      <br>
+                      En la parte visual se exploraron posibilidades del registro videográfico para producir elementos abstracto. A la par, se utilizaron videos con elementos de texto construidos por letras de imprenta. En la parte sonora, ambas capas -la voz y el audio grabado- jugaron un papel mucho más dinámico.
         credits:
           - "Jessica Rodríguez [méxico] /composición visual"
           - "Manuel Guzmán Zirate [méxico] /composición visual"
@@ -794,57 +642,15 @@ los-dias-terrestres2:
           - "Alejandro Brianza [argentina] /composición sonora"
           - "Rolando Rodríguez [méxico] /guión y textos"
           - "Emilio Hernandez /fotografía"
-        presentaciones:
-          - ">Performance en el Festival Internacional de La Imagen 2015 | Abril 2015 | Manizales, Colombia"
-          - ">Presentación en el concierto de andamio en el CMMAS | 21 Agosto 2015 | Morelia, México"
-          - ">Presentación en ELO Electronic Literature Organization | Junio 2016 | Victoria, Canadá"
         links:
           -
             from: "Titles"
-            to:   "https://vimeo.com/andamio/terrestres2"
+            to:   "https://vimeo.com/127272451"
+        videos:
           -
-            from: "Video Presentación Manizales | Mayo 2015"
-            to:   "https://www.youtube.com/watch?v=nv8wSGaW3kI "
-          -
-            from: "Video Presentación en el Concierto del CMMAS | Agosto 2015"
-            to:   ""
-
-
-# el-signo-del-escorpion:
-#         featured: false
-#         project-title: El signo del escorpión
-#         tags:
-#           - "2015"
-#           - "lectura_expandida"
-#           - "experimental"
-#         description: |
-#                       Lectura/Visual/Sonora generada a partir de la lectura análoga del cuento de “El sino del escorpión” de José Revueltas. La construcción del paisaje sonoro se realizó en tiempo real y con arte sonoro. Las imágenes fueron recicladas de otros proyectos.
-#         credits:
-#           - "Jessica Rodríguez [méxico] /composición visual "
-#           - "Manuel Zirate [méxico]"
-#           - "Alejandro Brianza [argentina] /composición sonora"
-#         presentaciones:
-#           - ">Performance en la Universidad del Valle de México Campus Aguascalientes| Mayo 2015 | Aguascalientes, México"
-#         links:
-#           - ""
-
-
-cheques:
-        featured: false
-        project-title: Cheques
-        tags:
-          - "2015"
-          - "dr_zoppa"
-          - "electroacustica"
-        description: |
-                      Composición visual producida para acompañar la pieza de Cheques de Doctor Zoppa. En esta composición se utilizaron imágenes de comic para adultos de a época de los 50s, los mismos se colocaron en loop, mezclaron y añadieron efectos que reaccionan al sonido. Doctor Zoppa propone un espectáculo contundente y ecléctico. En sus presentaciones la música y la imagen juegan el mismo papel de importancia.
-        credits:
-          - "Jessica Rodríguez [méxico] /composición visual "
-          - "Manuel Zirate [méxico]"
-          - "Dr. Zoppa [argentina] /composición sonora"
-        presentaciones:
-          - ">Presentación en el Concierto de Dr. Zoppa en el Centro Mexicano para la Música y las Artes Sonoras | Julio 2015 | Morelia, México"
-        links: null
+            vimeo: false
+            id: "nv8wSGaW3kI"
+            title: "Video Presentación Manizales | Mayo 2015"
 
 
 mikrokosmika:
@@ -852,51 +658,44 @@ mikrokosmika:
         project-title: Mikrokosmika
         tags:
           - "2015"
-          - "visuales"
-          - "visual_music"
+          - "electroacoustica"
+          - "musica_visual"
         description: |
                       Mikrokosmika se compone de tres movimientos. Muchos eventos suceden sin que siquiera nos enteremos. Mundos de miniatura se nos escapan a la vista (y a todos los sentidos) a diario. MIkrokosmika intenta despertar la sensación de estar prestando atención a uno de estos universos de miniatura y a los comportamientos eventuales que ofrecen sus habitantes en sus aceleradas vidas. Imaginemos… ¿qué tan interesante sería poder escuchar a través de un microscopio?
         credits:
           - "Alejandro Brianza [argentina] /composición sonora"
-          - "Jessica Rodríguez [méxico] /composición visual "
-          - "Manuel Zirate [méxico]"
-        presentaciones:
-          - ">Performance en el Festival Internacional de La Imagen 2015 | Abril 2015 | Manizales, Colombia"
-          - ">Performance (versión lectura expandida) en la Universidad de las Artes Aguascalientes  | Junio 2015 | Aguascalientes, México"
-          - ">Selección en la Muestra Understanding Visual Music 2015 | Junio 2015 | Brasilia, Brasil"
-          - ">Presentación de Esporas en el Concierto Conjunto Vacío, LIPM del Centro Cultural Recoleta | 10 de Noviembre 2016 | Buenos Aires, Argentina"
-          - ">Proyección El lenguaje de los árboles en el Tercer Seminario Nuevas Músicas Latinoamericanas | del 23 al 25 Agosto 2016 | Valparaíso, Chile"
-          - ">Presentación en el Ciclo de Imagen y Resonancia III | 20 de Agosto 2015 | Cine Shopping Los Gallegos (Mar del Plata), Argentina"
-          - ">Presentación en el concierto de andamio en el CMMAS | 21 Agosto 2015 | Morelia, México"
-          - ">Presentación en la 3ra Bienal de Composición e Investigación Musical | 21 de Agosto 2015 | Cordoba, Argentina"
-          - ">Selección en  MusLab para presentar en Reim, Francia | Noviembre 2015"
-          - ">Proyección en el Centro Cultural San Martín | 7 de Noviembre 2015 | Buenos Aires, Argentina"
-          - ">Presentación en Electronic Music Night por parte de la Eastern Illinois University | 9 Febrero 2016 | Illinois, US"
-          - ">Presentación en el 50th Aniversary of the Leeds Collage of Music | Marzo 2016 | Leeds, UK"
-          - ">Presentación en las Jornadas Arte Ciencia / Argentina Brasil | Marzo 2016 | São Paolo, Brasil"
-          - ">Presentación en los Conciertos del LIPM, Centro Cultural Recoleta | Mayo 2016 | Buenos Aires, Argentina"
-          - ">Presentación de en el New York City Electroacoustic Music Festival | Junio 2016 | Manhattan, USA"
-          - ">Presentación en el Museo Urbano Poggi | Agosto 2016 | Rafaela, Argentina"
-          - ">Presentación en el concierto de andamio Encuentro Sonoro en la Universidad de las Artes de Aguascalientes | Octubre 2016 | Aguascalientes, México"
+          - "Jessica Rodríguez [méxico] /composición visual"
+          - "Manuel Zirate [méxico] /composición visual"
         links:
           -
-            from: "Video Mirkokosmika -primer movimiento"
-            to: "https://vimeo.com/andamio/mirkokosmika1"
+            from: "Audio completo"
+            to: "https://soundcloud.com/alejandro-brianza/mikrokosmika"
+        videos:
           -
-            from: "Video Presentación en el Concierto del CMMAS | Agosto 2015"
-            to: ""
+            vimeo: True
+            id: "128270104"
+            title: "Video Mirkokosmika -primer movimiento"
 
+
+###### end of 2015
+##########################
+##########################
+
+
+###### 2014
 
 geografias-sonoras:
         featured: false
         project-title: Geografías sonoras
         tags:
           - "2014"
-          - "visuales"
-          - "landscape"
+          - "musica_visual"
+          - "electroacoustica"
+          - "collaboraciones"
         description: |
-                      Video realizado a partir del taller Sound Composition en colaboración con estudiantes y maestros del Maryland Institute Collage of Art que durante su estancia de residencia/talleres en el Centro Mexicano para la Música y las Artes Sonoras realizaron una serie de registros fotográficos y sonoros. Este video es parte del resultado que terminó en la presentación de un concierto.
-                      La parte de registro visual fue realizada por estudiantes y profesores del MICA. Las fotos fueron tomadas principalmente en la ciudad de Morelia y Pátzcuaro con la idea de tener registro visual de su experiencia en México. La edición de las fotografías la realizó Jessica Arianne Rodríguez Cabrera yuxtaponiendo material de video y fotográfico a la composición final. El audio se realizó como improvisación en vivo durante el concierto y también contiene fragmentos sonoros grabados durante la estancia en ambas ciudades.
+                      Video realizado a partir del taller Sound Composition en colaboración con estudiantes y maestros del Maryland Institute Collage of Art que durante su estancia de residencia/talleres en el Centro Mexicano para la Música y las Artes Sonoras realizaron una serie de registros fotográficos. Este video es parte del resultado que terminó en la presentación de un concierto.
+                      <br>
+                      La parte de registro visual fue realizada por estudiantes y profesores del MICA. Éste fue tomado en la ciudad de Morelia y Pátzcuaro con la idea de tener registro visual de su experiencia en México. La edición del video la realizó Jessica Rodríguez, yuxtaponiendo dicho material para crear una composición final. El audio se realizó como improvisación en vivo durante el concierto y también contiene fragmentos sonoros grabados durante la estancia en ambas ciudades.
         credits:
           - "Erick Spangler [US]"
           - "Jason Sloan [US]"
@@ -909,9 +708,6 @@ geografias-sonoras:
           - "Jessica Rodríguez [méxico]"
           - "Shola Cole [US]"
           - "Jacobo Cruz [méxico]"
-        presentaciones:
-          - ">Presentación el concierto Soundscape & Geography As Sources For Live Electronic Composition | 21 de Marzo 2014 | CMMAS [Morelia, México] en colaboración con el Maryland Institute College of Arts [Baltimore, US]"
-          - ">Selección en la Muestra Media Art del Festival Internacional de la Imagen 2015 | Abril 2015 | Manizales, Colombia"
         links:
           -
             from: "Video"
@@ -919,41 +715,49 @@ geografias-sonoras:
           -
             from: "Video Presentación en el Concierto del CMMAS | Abril 2014"
             to: "https://www.youtube.com/watch?v=YQ4o526Mn3c"
+        videos: null
 
 
-dias-terrestres:
+los-dias-terrestres:
         featured: false
         project-title: Los días terrestres
         tags:
           - "2014"
-          - "lectura_expandida"
-          - "mapping"
+          - "literatura_expandida"
+          - "women"
         description: |
-                      Lectura/Visual/Sonora a partir de la lectura de tres grandes poetas ganadoras de premio Nobel de Literatura: Gabriela Mistral, Herta Muller, Wislava Szimborska. En el performance se mezclan narrativas visuales, sonoras y la lectura en vivo de la obra escrita tanto por nosotros, como de otros autores que hemos trabajado y nos resultan interesantes para la promoción de su lectura.
-                      Para el performance de “Los Días Terrestres”, se leyeron 10 minutos de la obra de cada autora utilizando la música experimental en vivo. En cuanto a la imagen se creó un LiveCinema rústico/digital con una cámara de vídeo y elementos del contexto así como video pre-editados; además se realizó un mapeo donde se proyectaron imágenes aleatoriamente.
+                      Lectura visual/sonora a partir de la producción poética de tres grandes escritoras ganadoras de premio Nobel de Literatura: Gabriela Mistral, Herta Muller, Wislava Szimborska. En el performance mezclan narrativas visuales y sonoras con lectura en vivo de la obra escrita por estas poetas.
+                      <br>
+                      Para el performance de “Los Días Terrestres”, se leyeron 10 minutos de la obra de cada poetiza utilizando la música experimental en vivo. En cuanto a la imagen se creó un LiveCinema rústico/digital con una cámara de vídeo y elementos del contexto así como videos pre-editados; además se realizó un mapeo donde se proyectaron imágenes aleatoriamente.
         credits:
           - "Rolando Rodríguez [méxico] /texto y voz"
-          - "Tonalli R. Nakamura [méxico]"
+          - "Tonalli R. Nakamura [méxico] /composición sonora"
           - "Juan Jacobo Cruz [méxico] /composición sonora"
-          - "Jessica Rodríguez [méxico]"
+          - "Jessica Rodríguez [méxico] /composición visual"
           - "Manuel Zirate [méxico] /composición visual"
-        presentaciones:
-          - ">Performance en Café del Recuerdo | Mayo 2014 | Uruapan, Michoacán"
-          - ">Performance en el Centro Regional de las Artes de Michoacán (CRAM) | Julio 2014 | Zamora, México"
         links:
           -
             from: "Titles"
-            to: "https://vimeo.com/andamio/terrestrestitles"
-          -
-            from: "Video Concierto en el Café el Recuerdo | Mayo 2014"
-            to: "https://www.youtube.com/watch?v=6Mt930zGaSQ"
+            to: "https://vimeo.com/91464509"
           -
             from: "Video Concierto del CRAM | Julio 2014"
             to: "https://www.youtube.com/watch?v=IHNuUOqfwI4"
           -
             from: "Fotos"
             to: "https://www.flickr.com/photos/125073205@N08/sets/72157644919315811"
+        videos:
+          -
+            vimeo: false
+            id: "6Mt930zGaSQ"
+            title: "Video Concierto en el Café el Recuerdo | Mayo 2014"
 
+
+###### end of 2014
+##########################
+##########################
+
+
+###### 2013
 
 variaciones-ninchi:
         featured: false
@@ -961,28 +765,27 @@ variaciones-ninchi:
         tags:
           - "2013"
           - "electroacustica"
-          - "mapping"
+          - "performance"
         description: |
-                      Proyecto de colaboración con el artista americano Ken Ueno. Como performance el paisaje sonoro se construyó a partir del trabajo de voz del artista y del músico guitarrista Tonalli Nakamura. Los paisajes visuales se construyeron a partir de Nuevas Tecnologías como el uso del Kinnet y el mapeo.
+                      Proyecto de colaboración con el artista americano Ken Ueno. El paisaje sonoro se construyó a partir del trabajo de voz del artista y del músico guitarrista Tonalli Nakamura. Los paisajes visuales se construyeron a partir de Nuevas Tecnologías como el uso del Kinect y el mapeo. El concierto presentó una serie de texturas sonoras y visuales caóticas que van de pieza a pieza.
         credits:
           - "Ken Ueno [US] /voz"
           - "Rolando Rodríguez [méxico] /organización"
           - "Tonalli R. Nakamura [méxico] /composición sonora"
-          - "Jessica Rodríguez [méxico]"
+          - "Jessica Rodríguez [méxico] /composición visual"
           - "Manuel Zirate [méxico] /composición visual"
-        presentaciones:
-          - ">Performance en el CIAC-UMSNH | Agosto 2013 | Morelia, México"
-          - ">Performance en Café del Recuerdo | Agosto 2013 | Uruapan, México"
         links:
           -
             from: "Titles"
-            to: "https://vimeo.com/andamio/varninchi33"
-          -
-            from: "Video Concierto en el CIAC | Agosto 2013"
-            to: "https://www.youtube.com/watch?v=w4iiJZFm3Nc"
+            to: "https://vimeo.com/97014802"
           -
             from: "Fotos"
             to: "https://www.flickr.com/photos/125073205%40N08/sets/72157644518088580/"
+        videos:
+          -
+            vimeo: true
+            id: "w4iiJZFm3Nc"
+            title: "Concierto | Agosto 2013"
 
 
 vortices-desplazados:
@@ -990,11 +793,10 @@ vortices-desplazados:
         project-title: Vórtices desplazados
         tags:
           - "2013"
-          - "colaboracion"
+          - "performance"
           - "colaboracion_a_distancia"
-          - "experimental"
         description: |
-                      Proyecto de colaboración entre Chile y México que se tradujo en un performance presentado en Chile. La música en vivo guío las diferentes expresiones artísticas dentro de un espacio privado que se hizo público. El paisaje visual se trabajó a partir de una serie de fotografías tomadas del lugar en Ecuador y posteriormente trabajadas como vídeo en unidades pequeñas de significación.
+                      Proyecto de colaboración entre Chile, Ecuador y México que se tradujo en un performance presentado en Quito, Ecuador. La música en vivo guío las diferentes expresiones artísticas dentro de un espacio privado que se hizo público. El paisaje visual se trabajó a partir de una serie de fotografías tomadas en Ecuador y que posteriormente fueron trabajadas resultando en una serie de videos. Estos fueron proyectados consecutivamente durante el performance.
         credits:
           - "Ricardo Salinas [chile]"
           - "Jessica Rodríguez [méxico]"
@@ -1009,18 +811,17 @@ vortices-desplazados:
           - "Grecia Albán [ecuador]"
           - "Andrés Rojas [ecuador]"
           - "Efraín Granizo [ecuador]"
-        presentaciones:
-          - ">Performance | Agosto 2013 | Quito, Ecuador"
         links:
           -
             from: "Teaser"
-            to: "https://vimeo.com/andamio/vorticesteaser"
+            to: "https://vimeo.com/78745310"
           -
             from: "Titles"
-            to: "https://vimeo.com/andamio/vorticestitles"
+            to: "https://vimeo.com/78789526"
           -
             from: "Fotos"
             to: "https://www.flickr.com/photos/125073205%40N08/sets/72157644932161064/"
+        videos: null
 
 
 accion-transdisciplinaria:
@@ -1028,16 +829,14 @@ accion-transdisciplinaria:
         project-title: Acción transdisciplinaria
         tags:
           - "2013"
-          - "colaboracion"
+          - "performance"
           - "colaboracion_a_distancia"
-          - "transdisciplina"
-          - "video"
         description: |
-                      Proyecto de colaboración con La Ratonera, un colaborativo chileno dirigido por Ricardo Salinas. El performance se presentó en Chile donde los paisajes sonoros fueron la columna vertebral para que otras expresiones artísticas se presentaran. Los paisajes visuales se realizaron en México con material enviado desde Chile.
+                      Proyecto de colaboración con La Ratonera, un colaborativo chileno dirigido por Ricardo Salinas. El performance se presentó en Chile donde los paisajes sonoros fueron la columna vertebral para que otras expresiones artísticas se presentaran.
                       <br>
                       La idea principal era realizar un performance audiovisual que involucrara las diferentes áreas en las que cada integrante se desenvolvía, integrando pintura, danza, música y video al proceso, que tuvo una duración total de una hora y generó una sensación panóptica en el visitante.
                       <br>
-                      Andamio realizó un video que se construye a partir de fotografías que se tomaron en el sitio donde sería el performance y que después se enviaron para que Andamio trabajase sobre ellas. El resultado es un video de 10 minutos de una serie de imágenes que se van yuxtaponiendo para construir una narrativa a través del color, las texturas, el tono, el peso de la imagen y en donde el lector puede generar diferentes lecturas a partir del propio video y del contexto en que se presentó.
+                      Andamio realizó un video con fotografías que se tomaron en el sitio del performance (en Chile), y que fueron tomadas previas al evento. El resultado es un video de 10 minutos de una serie de imágenes que se van yuxtaponiendo para construir una narrativa a través del color, las texturas, el tono, el peso de la imagen y en donde el lector puede generar diferentes lecturas a partir del propio video y del contexto en que se presentó.
         credits:
           - "Ricardo Salinas [chile]"
           - "Jessica Rodríguez [méxico]"
@@ -1048,27 +847,24 @@ accion-transdisciplinaria:
           - "Gabriela Montenegro [chile]"
           - "Tito Cerda [chile]"
           - "Rolando Rodríguez [méxico]"
-        presentaciones:
-          - ">Performance | Junio 2013 | Santiago de Chile, Chile"
-          - ">Presentación en el Encuentro de Creadores de la Facultad de Artes UMSNH | Junio 2013 | Morelia, México"
-          - ">Presentación en Punto. Encuentro Multidisciplinario Santa Cruz | Diciembre 2014 | Chile"
-          - ">Selección en la Muestra Media Art del Festival Internacional de la Imagen | Mayo 2014 | Manizales, Colombia"
         links:
           -
             from: "Teaser"
-            to: "https://vimeo.com/andamio/acctransteaser"
+            to: "https://vimeo.com/78600466"
           -
             from: "Titles"
-            to: "https://vimeo.com/andamio/acctranstitles"
-          -
-            from: "Video presentado durante el Concierto en Chile | Junio 2013"
-            to: "https://vimeo.com/andamio/acciontransdisciplinaria"
+            to: "https://vimeo.com/78649148"
           -
             from: "Audio del Concierto"
             to: "https://soundcloud.com/andamio-in/audio-accion"
           -
             from: "Fotos"
             to: "https://www.flickr.com/photos/125073205%40N08/sets/72157644932617575/"
+        videos:
+          -
+            vimeo: true
+            id: "78601055"
+            title: "Video presentado durante el Concierto en Chile | Junio 2013"
 
 
 casas-documental:
@@ -1076,8 +872,8 @@ casas-documental:
         project-title: Casas Documental
         tags:
           - "2013"
-          - "texto"
-          - "uruapan"
+          - "documentary"
+          - "fotografía"
         description: |
                       Micro-documental basado en fotografías recuperadas de casas que se estaban derrumbando en Uruapan para el cuál se realizó un paisaje sonoro que acompaña las diferentes unidades de significación del documento. Es un trabajo de colaboración como Andamio. Cada participante tuvo una tarea específica y, al final, cada uno aportó ideas para mejorar el documento.
                       <br>
@@ -1085,33 +881,33 @@ casas-documental:
         credits:
           - "Rolando Rodríguez [méxico] /texto y voz"
           - "Tonalli R. Nakamura [méxico] /composición sonora"
-          - "Jessica Rodríguez [méxico]"
+          - "Jessica Rodríguez [méxico] /composición visual"
           - "Manuel Zirate [méxico] /composición visual"
-        presentaciones:
-          - ">Presentación en el CIAC-UMSNH | Agosto 2013 | Morelia, México"
-          - ">Presentación en Café del Recuerdo | Agosto 2013 | Uruapan, México"
-        links:
+        links: null
+        videos:
           -
-            from: "Video documental"
-            to: "https://www.youtube.com/watch?v=FxpnEOEQjFs"
+            vimeo: false
+            id: "449087922"
+            title: "Video documental"
 
 
 livecoding-visual-sonoro:
         featured: false
-        project-title: LiveCoding Visual Sonoro
+        project-title: Improvisación Sonora y Live Coding
         tags:
           - "2013"
-          - "codigo"
-          - "experimental"
+          - "live_coding"
+          - "performance"
         description: |
-                      Presentación basada en el Podcast titulado “La morbosa horizontalidad de Silvia Plath”. El performance fue la primera incursión en la construcción de una práctica de LiveCoding. Se construyó el paisaje sonoro en tiempo real a partir de plataformas digitales y análogas, y se utilizó el Processing para construir el paisaje visual, mientras se dejaba correr el podcast que se agregaba como textura a la presentación.
+                      Este concierto fue la primera exploración con live coding por parte de andamio. Éste estuvo dividido en dos performances. En el primero se dejó correr el podcast “La morbosa horizontalidad de Silvia Plath”, realizado en 2012, mientras que se de-construían retratos de la autora. En el segundo, el lenguaje sonoro se construyó en tiempo real con prácticas de DJ, a la par, se proyectaron textos de-construídos que interactuaban con movimientos del mouse.
+                      <br>
+                      Las prácticas de live coding consisten en la creación de imágenes sonoras y/o visuales a través de lenguajes de programación, compartiendo este proceso a través de la proyección de la pantalla. Para este concierto, los visuales de ambos performances fueron creados con Processing, un lenguaje basado en Java para visuales.
         credits:
-          - "Jessica Rodríguez [méxico]"
-          - "Manuel Zirate [méxico] /composición visual"
+          - "Jessica Rodríguez [méxico] /visuales"
+          - "Manuel Zirate [méxico] /visuales"
           - "Rolando Rodríguez /voz"
-        presentaciones:
-          - ">Performance Sound Improvization and Visual Live Coding | Mayo 2013 | Uruapan México"
         links: null
+        videos: null
 
 
 buttons:
@@ -1119,19 +915,27 @@ buttons:
         project-title: Buttons
         tags:
           - "2012"
-          - "animacion"
-          - "puppet"
+          - "audiovisual"
+          - "animation"
         description: |
-                      Vídeo animado que cuenta la historia de un puppet llamado Camilo que un titiritero indigente dejó a medio hacer. Camilo intenta terminarse a sí mismo, pero tendrá que enfrentar vicisitudes. La música escrita especialmente para la animación, guía la historia, y, al igual que Houses, es un proyecto en colaboración con todos los participantesde Andamio.
+                      Video que cuenta la historia de un puppet llamado Camilo que un titiritero indigente dejó a medio hacer. Camilo intenta terminarse a sí mismo, pero tendrá que enfrentar vicisitudes. La historia es contada a partir del énfasis de la música con las imágenes presentadas a través de una animación cuadro por cuadro.
         credits:
-          - "Jessica Rodríguez [méxico] /historia y composición visual-sonora"
+          - "Jessica Rodríguez [méxico] /idea original, escenografía y edición"
           - "Diego Moret [méxico] /fotografía"
-        presentaciones: null
-        links:
+        links: null
+        videos:
           -
-            from: "Video"
-            to: "https://vimeo.com/50291324"
+            vimeo: true
+            id: "50291324"
+            title: "Video"
 
+
+###### end of 2013
+##########################
+##########################
+
+
+###### 2012
 
 horizontalidad-silvia-plath:
         featured: false
@@ -1139,15 +943,15 @@ horizontalidad-silvia-plath:
         tags:
           - "2012"
           - "podcast"
-          - "sound_art"
+          - "literatura_expandida"
         description: |
-                      Podcast realizado en colaboración con la artista visual Jessica Arriane y Rolando Rodríguez. Como parte de un proyecto escolar, se construyó un paisaje sonoro que acompañara el ensayo sobre la poética de Silvia Plath.
+                      Este proyecto nace de la sonorización de un episodio (en Español) del podcast “El Domicilio Estable” leyendo a la poeta Americana Sylvia Plath. Los poemas son introducidos por el narrador, acompañado de un loop sonoro estable. Un paisaje sonoro acompaña a cada uno de los poemas leídos, éste funciona como una re-interpretación de las imágenes presentadas por la autoras y enfatizadas por el lector.
         credits:
           - "Rolando Rodríguez [méxico] /guión y voz"
-          - "Jessica Rodríguez [méxico] /composición sonora"
-          - "Christian Nuñez [méxico] /composición sonora"
-        presentaciones: null
+          - "Jessica Rodríguez [méxico] /sonido"
+          - "Christian Nuñez [méxico] /sonido"
         links:
           -
             from: "Podcast en español"
             to: "https://soundcloud.com/andamio-in/podcast-silvia-plath"
+        videos: null

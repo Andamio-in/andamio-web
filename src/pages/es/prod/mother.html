@@ -1,6 +1,7 @@
 ---
 title: 'mother'
 header: null
+spanish: true
 
 ---
 
@@ -19,18 +20,18 @@ header: null
 
       <div class="medium-10 medium-offset-1 columns">
 
-        <nav aria-label="You are here:" role="navigation">
-          <ul class="breadcrumbs">
-            <li><a href="/">Home</a></li>
-            <li><a href="../produccion">Producción</a></li>
-            <li>
-              <span class="show-for-sr">Current: </span> {{proyectos.mother.project-title}}
-            </li>
-          </ul>
-        </nav>
 
-        <h5>Acerca de_</h5>
+  <nav aria-label="Te encuentras en:" role="navigation">
+    <ul class="breadcrumbs">
+      <li><a href="/">Inicio</a></li>
+      <li><a href="../production">Producción</a></li>
+      <li>
+        <span class="show-for-sr">Actual: </span> {{proyectos.mother.project-title}}
+      </li>
+    </ul>
+  </nav>
 
+  <h5>Acerca de_</h5>
         <p>{{{proyectos.mother.description}}}</p>
       </div>
 
@@ -42,10 +43,10 @@ header: null
           {{/each}}
         </ul>
 
-        <h6>Presentaciones y Selecciones_</h6>
-        <ul class="no-bullet">
-          {{#each proyectos.mother.presentaciones}}
-          <li> {{{this}}} </li>
+        <h6>Links_</h6>
+        <ul class="menu vertical">
+          {{#each proyectos.mother.links}}
+          <li><a target="_blank" href="{{{this.to}}}"> >{{{this.from}}} <i class="fa fa-external-link"></i></a></li>
           {{/each}}
         </ul>
 
@@ -56,13 +57,6 @@ header: null
         </div>
         {{/each}}
         {{/if}}
-
-        <h6>Links_</h6>
-        <ul class="menu vertical">
-          {{#each proyectos.mother.links}}
-          <li><a target="_blank" href="{{{this.to}}}"> >{{{this.from}}} <i class="fa fa-external-link"></i></a></li>
-          {{/each}}
-        </ul>
 
 
       </div>
