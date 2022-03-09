@@ -381,6 +381,7 @@ flight-of-the-monarchs:
           - "installation"
           - "ecology"
           - "collaborations"
+          - "documental"
         description: |
                       El vuelo de las mariposas es una instalación visual/sonora inmersiva generada a través del viaje que la Mariposa Monarca realiza cada año de Canadá a México y viceversa. Combina imágenes de video y sonido grabadas en la reserva de El Rosario, en Michoacán, México. Utiliza sonidos de flauta y poesía mexicana para explora el viaje de esta hermosa criatura ante el cambio climático.
                       <br>
@@ -461,7 +462,7 @@ tuyuc:
         project-title: TUYUC
         tags:
           - "2016"
-          - "documental"
+          - "documentary"
           - "ecologia"
         description: |
                       TUYUC es un documento experiencial de registros que se realizaron a partir de un proyecto fallido que tenía una mirada de conquista a una geografía selvática como Yasuní. El proyecto se ha presentado como video documental y como instalación.
@@ -861,7 +862,7 @@ casas-documental:
         project-title: Casas Documental
         tags:
           - "2013"
-          - "documental"
+          - "documentary"
           - "fotografía"
         description: |
                       Micro-documental basado en fotografías recuperadas de casas que se estaban derrumbando en Uruapan para el cuál se realizó un paisaje sonoro que acompaña las diferentes unidades de significación del documento. Es un trabajo de colaboración como Andamio. Cada participante tuvo una tarea específica y, al final, cada uno aportó ideas para mejorar el documento.
