@@ -14,23 +14,29 @@ invocaciones:
           - "literatura_electronica"
           - "mujeres"
         description: |
-                      Este proyecto es una serie de performances que mezclan prácticas de codificación en vivo y literatura electrónica con la idea de convocar a mujeres poetas a través de sus propias voces y palabras.
+                      INVOCACIONES es una serie de performances que nacen de la necesidad de explorar mi práctica artística a través de la voz de mujeres poetas, mezclando prácticas de live coding (o código al vuelo) con literatura electrónica (o prácticas de literatura expandida a través de entornos digitales). Las piezas hacen una re-interpretación de poemas a través de la propia voz de las autoras que es expandida a través de diferentes capas sonoras que se mueven a través de un espacio estereofónico. Los poemas son de-construidos y re-construídos a través de la cacofonía, la yuxtaposición, el delay, echo y la sobre-saturación. El objetivo de la serie es abrir a discusión la relevancia de las autoras dentro de nuestra construcción actual de identidad como mujeres artistas, y cómo a través de tecnologías digitales podemos tener un diálogo con el pasado.
                       <br>
-                      INVOCACIONES [Sylvia Plath]. Este se hizo usando la grabación de Sylvia Plath de su poema "Daddy". Este es un poema autobiográfico que toca el tema de la violencia y la opresión por parte de figuras masculinas en la vida de la autora.
+                      INVOCACIONES [Wisława Szymborska] => Para este performance, se mezcló la vozoriginal de Wisława Szymborska (Polonia) leyendo s poema "Moralitet leśny" con versiones en Polaco e Inglés leídos por Victoria Wojciechowska y una versión en Español leía por mi.
                       <br>
-                      INVOCACIONES [Gabriela Mistral]. Este se realizó a partir de la grabación de Gabriela Mistral de su poema "País de la ausencia". Además, también estoy usando muestras de violonchelo grabadas por Iracema de Andrade. Los poemas exploran imágenes de lugar y territorio, así como de identidad.
+                      INVOCACIONES [Sylvia Plath] => Este se hizo usando la grabación de Sylvia Plath de su poema "Daddy". Este es un poema autobiográfico que toca el tema de la violencia y la opresión por parte de figuras masculinas en la vida de la autora.
+                      <br>
+                      INVOCACIONES [Gabriela Mistral] => Este se realizó a partir de la grabación de Gabriela Mistral de su poema "País de la ausencia". Además, también estoy usando muestras de violonchelo grabadas por Iracema de Andrade. Los poemas exploran imágenes de lugar y territorio, así como de identidad.
         credits:
           - ">Jessica Rodríguez (México) /audio-visual composition"
         links: null
         videos:
           -
             vimeo: true
-            id: "436175418"
-            title: "INVOCACIONES [Sylvia Plath]"
+            id: "555431264"
+            title: "INVOCACIONES [Wisława Szymborska]"
           -
             vimeo: true
             id: "449087922"
             title: "INVOCACIONES [Gabriela Mistral]"
+          -
+            vimeo: true
+            id: "436175418"
+            title: "INVOCACIONES [Sylvia Plath]"
 
 
 
@@ -45,7 +51,7 @@ memorias:
           - "web"
           - "literatura_electronica"
         description: |
-                      Memorias es un proyecto artístico de Jessica Rodríguez, una serie de seis lenguajes de programación para la creación visual y sonora que se pueden acceder a través de la plataforma en línea Estuary (https://estuary.mcmaster.ca/) (desarrollado en McMaster University). Los lenguajes están basados en seis textos cortos autobiográficos, y usan sintaxis que mezcla lenguajes naturales con lenguajes de programación. Adicionalmente, los lenguajes fueron creados a partir de tres lenguajes para live coding: Tidal Cycles (https://tidalcycles.org/), Punctual (https://github.com/dktr0/Punctual), y CineCer0 (https://github.com/dktr0/estuary/blob/dev/client/src/Estuary/Languages/CineCer0/REFERENCE.md).
+                      Memorias (https://github.com/jac307/MEMORIAS)  es un proyecto artístico de Jessica Rodríguez, una serie de seis lenguajes de programación para la creación visual y sonora que se pueden acceder a través de la plataforma en línea Estuary (https://estuary.mcmaster.ca/) (desarrollado en McMaster University). Los lenguajes están basados en seis textos cortos autobiográficos, y usan sintaxis que mezcla lenguajes naturales con lenguajes de programación. Adicionalmente, los lenguajes fueron creados a partir de tres lenguajes para live coding: Tidal Cycles (https://tidalcycles.org/), Punctual (https://github.com/dktr0/Punctual), y CineCer0 (https://github.com/dktr0/estuary/blob/dev/client/src/Estuary/Languages/CineCer0/REFERENCE.md).
                       <br>
                       Juntos, los lenguajes de Memorias mezclan diferentes materialidades, así como enfoques visuales y sonoros, pasando de voces en Inglés, Español, muestras de Violonchelo y Paetzold, síntesis de audio y visual, y videoclips pre-grabados. Este proyecto explora cómo el habla y la literatura, en su forma escrita, pueden usarse como interfaces que permiten al intérprete comunicarse tanto con la computadora como con la audiencia. Además, el habla —en su forma sonora— se mueve a través del espacio y el tiempo, ampliando las posibilidades de la literatura hablada al producir variaciones ilimitadas de los escritos autobiográficos “originales”. Dentro del espacio/tiempo de la pieza, el público puede experimentar diferentes formas, texturas y lógicas para acercarse a lo visual y sonoro mediante el uso del lenguaje como disparador de la memoria.
                       <br>
@@ -62,13 +68,17 @@ memorias:
           - ">Luis M. Guzmán-Zirate (México) /apoyo de montaje"
         links:
           -
-            from: "Teaser MEMORIAS[instalación]"
-            to:   "https://vimeo.com/361942604"
+            from: "Full MEMORIAS project"
+            to:   "https://github.com/jac307/MEMORIAS"
         videos:
           -
             vimeo: true
-            id: "379328173"
-            title: "MEMORIAS"
+            id: "565310015"
+            title: "MEMORIAS demo"
+          -
+            vimeo: true
+            id: "361942604"
+            title: "Teaser MEMORIAS[installation]"
 
 
 prole:

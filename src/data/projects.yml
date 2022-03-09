@@ -5,28 +5,34 @@ invocaciones:
         featured: true
         project-title: INVOCACIONES
         tags:
-          - "2020"
+          - "2021"
           - "live_coding"
           - "electronic_literature"
           - "women"
         description: |
-                      This is a series of performances mixing live coding and electronic literature practices with the idea of summoning women poets through her own voices and words.
+                      INVOCACIONES is a series of performances that arises from the need to explore my artistic practice through the voice of female poets, mixing live coding practices (or code on-the-fly) with electronic literature (or expanded literature practices through digital environments). The pieces make a re-interpretation of poems through the authors' own voice that is expanded through different sound layers that move through a stereophonic space. The poems are de-constructed and re-constructed through cacophony, juxtaposition, delay, echo, and over-saturation.The objective of the series is to open for discussion the relevance of the authors within our current construction of identity as women, and how through digital technologies we can have a dialogue with the past.
                       <br>
-                      INVOCACIONES [Sylvia Plath]. This was made using Sylvia Plath's recording of her poem "Daddy". This is an autobiographical poem touching subject of violence and oppression by male figures in the author's life.
+                      INVOCACIONES [Wisława Szymborska] => In this performance, I mixed the original voice of Wisława Szymborska (Poland) reading of the poem "Moralitet leśny" with versions in Polish and English read by Victoria Wojciechowska (Canadá), and a Spanish version read by myself.
                       <br>
-                      INVOCACIONES [Gabriela Mistral]. This was made using Gabriela Mistral's recording of her poem "País de la ausencia". Additionally, I am also using cello samples recorded by Iracema de Andrade. The poems explore images of place and territory, as well as identity.
+                      INVOCACIONES [Gabriela Mistral] => This performance plays with the poem “País de la Ausencia" by Chilean writer Gabriela Mistral. Additionally, I use pre-recorded cello samples by Mexican-Brazilian cellist Iracema de Andrade. The poem explores images about identity, place and territory. For the audio, I use Tidal Cycles. The visual part contains a video (running in the background) of the Paricutín volcano in the state of Michoacán, Mexico.
+                      <br>
+                      INVOCACIONES [Silvia Plath] => This performance plays with the poem “Daddy", by American writer Sylvia Plath. Additionally, I use self-voice recording with a Spanish version of the poem. This is an autobiographical poem that portrays depression episodes, as well as violence and oppression exerted by male figures in the author's life. Technically, I use Tidal Cycles for audio. and Hydra for visuals. Visually, the piece explores a visual cacophony using the screen as a source that is modified through different delays.
         credits:
           - ">Jessica Rodríguez (México) /audio-visual composition"
         links: null
         videos:
           -
             vimeo: true
-            id: "436175418"
-            title: "INVOCACIONES [Sylvia Plath]"
+            id: "555431264"
+            title: "INVOCACIONES [Wisława Szymborska]"
           -
             vimeo: true
             id: "449087922"
             title: "INVOCACIONES [Gabriela Mistral]"
+          -
+            vimeo: true
+            id: "436175418"
+            title: "INVOCACIONES [Sylvia Plath]"
 
 
 ###### end of 2020
@@ -45,7 +51,7 @@ memorias:
           - "web"
           - "electronic_literature"
         description: |
-                      Memorias is a web-based artistic project by Jessica Rodríguez developed through the Estuary platform (https://estuary.mcmaster.ca/) —an online platform to host live coding languages (develop in McMaster University). It is based in six autobiographical writings connected to the way she “hears”, “writes”, “watches”, “reads”, “sees” and “listens” to the word. Through these texts, six code works were designed and programmed, hybridizing natural and computing languages by parsing three existing live coding languages: Tidal Cycles (https://tidalcycles.org/), Punctual (https://github.com/dktr0/Punctual), and CineCer0 (https://github.com/dktr0/estuary/blob/dev/client/src/Estuary/Languages/CineCer0/REFERENCE.md).
+                      Memorias (https://github.com/jac307/MEMORIAS) is a web-based artistic project by Jessica Rodríguez developed through the Estuary platform (https://estuary.mcmaster.ca/) —an online platform to host live coding languages (develop in McMaster University). It is based in six autobiographical writings connected to the way she “hears”, “writes”, “watches”, “reads”, “sees” and “listens” to the word. Through these texts, six code works were designed and programmed, hybridizing natural and computing languages by parsing three existing live coding languages: Tidal Cycles (https://tidalcycles.org/), Punctual (https://github.com/dktr0/Punctual), and CineCer0 (https://github.com/dktr0/estuary/blob/dev/client/src/Estuary/Languages/CineCer0/REFERENCE.md).
                       <br>
                       Together, Memorias’ languages collide different materialities as well as visual and sonic approaches, going from voices in English, Spanish, Cello and Paetzold samples, audio and visual synthesis, and pre-recorded video clips. This project explores how speech and literature — in its written form— can be used as interfaces that allow the performer to communicate both, with the computer and the audience. Additionally, speech —in its sonic form— is moved through space and time, expanding the possibilities of spoken literature by producing unlimited variations of the “original” autobiographical writings. Within the space/time of the piece, the audience can experience different ways, textures and logics to approach visual and sound through the use of language as a memory trigger.
                       <br>
@@ -62,13 +68,17 @@ memorias:
           - ">Luis M. Guzmán-Zirate (México) /apoyo de montaje"
         links:
           -
-            from: "Teaser MEMORIAS[installation]"
-            to:   "https://vimeo.com/361942604"
+            from: "Full MEMORIAS project"
+            to:   "https://github.com/jac307/MEMORIAS"
         videos:
           -
             vimeo: true
-            id: "379328173"
-            title: "MEMORIAS"
+            id: "565310015"
+            title: "MEMORIAS demo"
+          -
+            vimeo: true
+            id: "361942604"
+            title: "Teaser MEMORIAS[installation]"
 
 
 prole:
