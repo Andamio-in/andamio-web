@@ -1,5 +1,35 @@
 ---
-###### 2020
+###### 2020-21
+
+ceuDaBoca&Ronin:
+        featured: true
+        project-title: Céu Da Boca + Ronín
+        tags:
+          - "2021"
+          - "instrument"
+          - "audiovisual"
+          - "women"
+        description: |
+                      Céu da Boca (2021) & Ronín (2021), for electroacoustic sounds, 5-string electric cello, pedalboard and video. This videoclip, that integrates both pieces, was part of the FÉMINAS SONORAS project in collaboration with Iracema de Andrade and Adela Marín. This project was the beneficiary of the IBERMUSICAS 2020-21 art funding.
+                      <br>
+                      The work between these creative women generated an intense synergy that has resulted in the creation of four new works (Espectros de Água, Rabeca, Céu da Boca and Ronín), where the sound dialogues feeding off the visual. This game of mutual interactions has encompassed archetypal symbolic universes – ranging from genealogical memory, elements, the genesis of the verb, to the deconstruction of body gestures – which at the same time inspires and has inspired alternative sonic worlds. Noises and specters have given birth to images that dance and that at the same time make them dance.
+                      <br>
+                      On the sonic plane, Féminas Sonoras explores the spectral deconstruction of cello sounds, soundscapes from Brazil, references to the popular music tradition of Pernambuco, emulates shamanic songs from the Amazon, and the explores the power of the voice as a paraphrase of the verb that creates noises and specters. All these give birth to to methaphorical interactions between sounds and visuals that dance together. This feedback loop present in the works serves as a metaphor for life itself that is continuously repeated and reconfigured over time.
+                      <br>
+        credits:
+          - ">Iracema de Andrade (Brasil-México) /musical and electroacoustic composition, 5-string electric cello, voice and audio design"
+          - ">Jessica Rodríguez (México) /visual composition, photography, editing and post-production"
+        links: null
+        videos:
+          -
+            vimeo: true
+            id: "692599268"
+            title: "Céu Da Boca + Ronín"
+        links:
+          -
+            from: "Féminas Sonoras - Concierto 2"
+            to:   "https://www.youtube.com/watch?v=euRpMcK8jOw&t=463s"
+
 
 invocaciones:
         featured: true
@@ -35,7 +65,7 @@ invocaciones:
             title: "INVOCACIONES [Sylvia Plath]"
 
 
-###### end of 2020
+###### end of 2020-21
 ##########################
 ##########################
 

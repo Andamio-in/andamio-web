@@ -1,9 +1,34 @@
 ---
-###### 2020
+###### 2020-21
 
-###### end of 2020
-##########################
-##########################
+ceuDaBoca&Ronin:
+        featured: true
+        project-title: Céu Da Boca + Ronín
+        tags:
+          - "2021"
+          - "instrumento"
+          - "audiovisual"
+          - "mujeres"
+        description: |
+                      Céu da Boca (2021) + Ronín (2021), para sonidos electroacústicos, Cello eléctrico de 5 cuerdas, pedalera y video. Este videoclip, que integra ambas piezas, fue parte del proyecto FÉMINAS SONORAS en colaboración con Iracema de Andrade y Adela Marín. Este proyecto fue beneficiado de la beca IBERMUSICAS 2020-21.
+                      <br>
+                      El encuentro entre estas mujeres creadoras generó una intensa sinergia que ha resultado en el surgimiento de cuatro nuevas obras (Espectros de Água, Rabeca, Céu da Boca y Ronín), en donde lo sonoro dialoga y se retroalimenta de lo visual. Este juego de interacciones mutuas ha abarcado universos simbólicos arquetípicos – que van desde la memoria genealógica, los elementos, la génesis del verbo, hasta la deconstrucción de la gestualidad corporal – que a la vez se inspira y ha inspirado mundos sónicos alternativos. Ruidos y espectros han parido imágenes que bailan y que a la vez los hacen bailar.
+                      <br>
+                      En el plano sonoro electroacústico Féminas Sonoras explora la deconstrucción espectral de sonidos del violoncello, se apropia de paisajes sonoros de Brasil, hace referencia a la tradición de la música popular de Pernambuco, emula cantos chamánicos del Amazonas y el poder de la voz como paráfrasis del verbo que crea. Ruidos y espectros han parido imágenes que bailan. A la vez, estas visualidades hacen bailar a los sonidos. Este loop de retroalimentación presente en las obras funge como una metáfora de la vida misma que se repite y se reconfigura de manera continua a través del tiempo.
+                      <br>
+        credits:
+          - ">Iracema de Andrade (Brasil-México) /composición musical y electroacústica, cello eléctrico de 5 cuerdas, voz y diseño de audio"
+          - ">Jessica Rodríguez (México) /composición visual, fotografía, edición y postproducción"
+        links: null
+        videos:
+          -
+            vimeo: true
+            id: "692599268"
+            title: "Céu Da Boca + Ronín"
+        links:
+          -
+            from: "Féminas Sonoras - Concierto 2"
+            to:   "https://www.youtube.com/watch?v=euRpMcK8jOw&t=463s"
 
 invocaciones:
         featured: true
@@ -38,7 +63,9 @@ invocaciones:
             id: "436175418"
             title: "INVOCACIONES [Sylvia Plath]"
 
-
+###### end of 2020-21
+##########################
+##########################
 
 ###### 2019
 
