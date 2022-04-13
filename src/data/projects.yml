@@ -1,7 +1,7 @@
 ---
 ###### 2020-21
 
-ceuDaBoca&Ronin:
+ceudabocaronin:
         featured: true
         project-title: Céu Da Boca + Ronín
         tags:
@@ -19,17 +19,15 @@ ceuDaBoca&Ronin:
         credits:
           - ">Iracema de Andrade (Brasil-México) /musical and electroacoustic composition, 5-string electric cello, voice and audio design"
           - ">Jessica Rodríguez (México) /visual composition, photography, editing and post-production"
-        links: null
+        links:
+          -
+            from: "Féminas Sonoras - Concierto 2"
+            to:   "https://www.youtube.com/watch?v=euRpMcK8jOw&t=463s"
         videos:
           -
             vimeo: true
             id: "692599268"
             title: "Céu Da Boca + Ronín"
-        links:
-          -
-            from: "Féminas Sonoras - Concierto 2"
-            to:   "https://www.youtube.com/watch?v=euRpMcK8jOw&t=463s"
-
 
 invocaciones:
         featured: true
