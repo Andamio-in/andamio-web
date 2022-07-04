@@ -10,19 +10,20 @@ medusal:
           - "electroacoustic"
           - "clarinet"
         description: |
-                      Medusal is a mixed piece for piano, electroacoustics and visuals fixed on support.
+                      Las medusas –también denominadas coloquialmente como aguasvivas o aguamalas– son animales casi exclusivamente marinos, que no disponen de un sistema nervioso central: esto provoca que respondan de manera directa a ciertos estímulos del exterior.
                       <br>
-                      Jellyfish –also known colloquially as aguasvivas or aguamalas– are almost exclusively marine animals, which do not have a central nervous system: this causes them to respond directly to certain external stimuli.
+                      Su ciclo de vida cuenta con dos fases bien diferenciadas: una primera fase llamada pólipo, en la que las medusas viven adheridas entre sí y al fondo del mar; y una segunda fase en la que se separan e independizan de la colonia. Esta independencia, sin embargo, no es total ya que aunque pueden impulsarse mediante a una serie de contracciones y movimientos rítmicos, su devenir depende mayoritariamente del arrastre que reciben de parte de las corrientes marinas.
                       <br>
-                      Their life cycle has two distinct phases: a first phase called polyp, in which the jellyfish live attached to each other and to the seabed; and a second phase in which they separate and become independent from the colony. This independence, however, is not total, since although they can propel themselves through a series of contractions and rhythmic movements, their evolution depends mainly on the drag they receive from the ocean currents.
-                      <br>
+
         credits:
-          - ">Alejandro Brianza (Argentina) /composición de sonido"
+          - ">Alejandro Brianza (Argentina) /composición sonora"
           - ">Jessica Rodríguez (México) /composición visual"
-          - ">También interterpretada por:"
+          - ">Julio Yahir Morales Hernández (México) /clarinete"
+          - " "
+          - "También interterpretada por:"
           - ">Santiago Pedernera (Argentina) /clarinete"
           - ">Juan Gabriel Moreno (Bolivia) /clarinete"
-          
+
 rayoverde:
         featured: true
         project-title: El Rayo Verde
@@ -31,18 +32,19 @@ rayoverde:
           - "literatura_electronica"
           - "performance"
         description: |
-                      The green ray is an atmospheric optical phenomenon that occurs shortly after sunset or shortly before sunrise, in which a green dot can be seen, usually for one or two seconds, over the position of the sun. It is also a novel by Jules Verne (1882) and is also a film by Eric Rohmer (1986). It is also a story by Julio Cortázar (2009) that is part of Papeles inesperados, a posthumous publication.
+                      El rayo verde es un fenómeno óptico atmosférico que ocurre poco después de la puesta de sol o poco antes de la salida del sol, en el que se puede ver un punto verde, normalmente por uno o dos segundos, sobre la posición del sol. También es una novela de Julio Verne (1882) y también es una película de Eric Rohmer (1986). También es un relato de Julio Cortázar (2009) que forma parte de Papeles inesperados, una publicación póstuma.
                       <br>
-                      This expanded reading is conceived under a logic of reappropriation and remix, presenting a transversal approach to the three antecedents, and coexisting its elements in the form of text, images and sounds.
+                      Esta lectura expandida está pensada bajo una lógica de reapropiación y remix, presentando un abordaje transversal sobre los tres antecedentes, y conviviendo sus elementos en forma de texto, imágenes y sonidos.
                       <br>
-                      - Where did you go?
                       <br>
-                      - For a walk in the meadows.
+                      - ¿A dónde has ido?
                       <br>
-                      - I never cut flowers.
+                      - A dar un paseo por los prados.
+                      <br>
+                       - Yo nunca corto flores.
                       <br>
         credits:
-          - ">Alejandro Brianza (Argentina) /composición de sonido"
+          - ">Alejandro Brianza (Argentina) /composición sonora"
           - ">María Paula Jaramillo Gómez (Colombia) /composición visual"
           - ">Rolando Rodríguez (México) /texto"
           - ">Carolina Bistolfi (Argentina) /voz"

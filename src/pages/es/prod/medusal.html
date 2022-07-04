@@ -1,5 +1,5 @@
 ---
-title: 'serie-de-conciertos'
+title: 'medusal'
 header: null
 spanish: true
 
@@ -15,48 +15,54 @@ spanish: true
 
     <section class="row padding-top-bottom proyecto">
       <div class="large-12 columns">
-        <h3><span>{{proyectos.serie-de-conciertos.project-title}}</span> <small> {{#each proyectos.serie-de-conciertos.tags}} <span>#{{this}},</span>{{/each}}</small></h3>
+        <h3><span>{{proyectos.medusal.project-title}}</span> <small> {{#each proyectos.medusal.tags}} <span>#{{this}},</span>{{/each}}</small></h3>
       </div>
 
       <div class="medium-10 medium-offset-1 columns">
 
+        <nav aria-label="Te encuentras en:" role="navigation">
+          <ul class="breadcrumbs">
+            <li><a href="/es/index">Inicio</a></li>
+            <li><a href="../produccion">Producción</a></li>
+            <li>
+              <span class="show-for-sr">Actual: </span> {{proyectos.medusal.project-title}}
+            </li>
+          </ul>
+        </nav>
 
-  <nav aria-label="Te encuentras en:" role="navigation">
-    <ul class="breadcrumbs">
-      <li><a href="/es/index">Inicio</a></li>
-      <li><a href="../produccion">Producción</a></li>
-      <li>
-        <span class="show-for-sr">Actual: </span> {{proyectos.serie-de-conciertos.project-title}}
-      </li>
-    </ul>
-  </nav>
+        <h5>Acerca de_</h5>
 
-  <h5>Acerca de_</h5>
-        <p>{{proyectos.serie-de-conciertos.description}}</p>
+        <p>{{{proyectos.medusal.description}}}</p>
+
       </div>
 
       <div class="medium-10  medium-offset-1 columns end">
         <h6>Créditos_</h6>
         <ul class="no-bullet">
-          {{#each proyectos.serie-de-conciertos.credits}}
+          {{#each proyectos.medusal.credits}}
           <li> {{{this}}} </li>
           {{/each}}
         </ul>
 
+        {{#if proyectos.medusal.links}}
         <h6>Links_</h6>
         <ul class="menu vertical">
-          {{#each proyectos.serie-de-conciertos.links}}
+          {{#each proyectos.medusal.links}}
           <li><a target="_blank" href="{{{this.to}}}"> >{{{this.from}}} <i class="fa fa-external-link"></i></a></li>
           {{/each}}
         </ul>
+        {{/if}}
 
-        {{#if proyectos.serie-de-conciertos.videos}}
-        {{#each proyectos.serie-de-conciertos.videos}}
+        <br>
+        {{#if proyectos.medusal.videos}}
+        <h6>Videos_</h6>
+        {{#each proyectos.medusal.videos}}
         <div class="responsive-embed widescreen">
           <div class="lazyYT" data-{{#if this.vimeo}}vimeo{{else}}youtube{{/if}}-id="{{this.id}}" data-ratio="16:9">{{this.title}}</div>
         </div>
         {{/each}}
         {{/if}}
+
 
       </div>
     </section>
