@@ -1,0 +1,65 @@
+---
+title: 'afrontaciones'
+header: null
+
+---
+
+
+    <section class="owl-carousel owl-theme {{title}}" data-slider-id="1">
+      {{#repeat 5}}
+      <figure class="item" data-thumb></figure>
+      {{/repeat}}
+    </section>
+
+
+    <section class="row padding-top-bottom proyecto">
+      <div class="large-12 columns">
+        <h3><span>{{projects.afrontaciones.project-title}}</span> <small> {{#each projects.afrontaciones.tags}} <span>#{{this}},</span>{{/each}}</small></h3>
+      </div>
+
+      <div class="medium-10 medium-offset-1 columns">
+
+        <nav aria-label="You are here:" role="navigation">
+          <ul class="breadcrumbs">
+            <li><a href="/">Home</a></li>
+            <li><a href="../production">Production</a></li>
+            <li>
+              <span class="show-for-sr">Current: </span> {{projects.afrontaciones.project-title}}
+            </li>
+          </ul>
+        </nav>
+
+        <h5>Acerca de_</h5>
+
+        <p>{{{projects.afrontaciones.description}}}</p>
+
+      </div>
+
+      <div class="medium-10  medium-offset-1 columns end">
+        <h6>Credits_</h6>
+        <ul class="no-bullet">
+          {{#each projects.afrontaciones.credits}}
+          <li> {{{this}}} </li>
+          {{/each}}
+        </ul>
+
+        {{#if projects.afrontaciones.links}}
+        <h6>Links_</h6>
+        <ul class="menu vertical">
+          {{#each projects.afrontaciones.links}}
+          <li><a target="_blank" href="{{{this.to}}}"> >{{{this.from}}} <i class="fa fa-external-link"></i></a></li>
+          {{/each}}
+        </ul>
+        {{/if}}
+
+        {{#if projects.afrontaciones.videos}}
+        {{#each projects.afrontaciones.videos}}
+        <div class="responsive-embed widescreen">
+          <div class="lazyYT" data-{{#if this.vimeo}}vimeo{{else}}youtube{{/if}}-id="{{this.id}}" data-ratio="16:9">{{this.title}}</div>
+        </div>
+        {{/each}}
+        {{/if}}
+
+
+      </div>
+    </section>
