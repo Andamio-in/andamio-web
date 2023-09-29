@@ -1,0 +1,66 @@
+---
+title: 'encarnadas'
+header: null
+spanish: true
+
+---
+
+
+    <section class="owl-carousel owl-theme {{title}}" data-slider-id="1">
+      {{#repeat 5}}
+      <figure class="item" data-thumb></figure>
+      {{/repeat}}
+    </section>
+
+
+    <section class="row padding-top-bottom proyecto">
+      <div class="large-12 columns">
+        <h3><span>{{proyectos.encarnadas.project-title}}</span> <small> {{#each proyectos.encarnadas.tags}} <span>#{{this}},</span>{{/each}}</small></h3>
+      </div>
+
+      <div class="medium-10 medium-offset-1 columns">
+
+        <nav aria-label="Te encuentras en:" role="navigation">
+          <ul class="breadcrumbs">
+            <li><a href="/es/index">Inicio</a></li>
+            <li><a href="../produccion">Producción</a></li>
+            <li>
+              <span class="show-for-sr">Actual: </span> {{proyectos.encarnadas.project-title}}
+            </li>
+          </ul>
+        </nav>
+
+        <h5>Acerca de_</h5>
+
+        <p>{{{proyectos.encarnadas.description}}}</p>
+
+      </div>
+
+      <div class="medium-10  medium-offset-1 columns end">
+        <h6>Credits_</h6>
+        <ul class="no-bullet">
+          {{#each proyectos.encarnadas.credits}}
+          <li> {{{this}}} </li>
+          {{/each}}
+        </ul>
+
+        {{#if proyectos.encarnadas.links}}
+        <h6>Links_</h6>
+        <ul class="menu vertical">
+          {{#each proyectos.encarnadas.links}}
+          <li><a target="_blank" href="{{{this.to}}}"> >{{{this.from}}} <i class="fa fa-external-link"></i></a></li>
+          {{/each}}
+        </ul>
+        {{/if}}
+
+        {{#if proyectos.encarnadas.videos}}
+        {{#each proyectos.encarnadas.videos}}
+        <div class="responsive-embed widescreen">
+          <div class="lazyYT" data-{{#if this.vimeo}}vimeo{{else}}youtube{{/if}}-id="{{this.id}}" data-ratio="16:9">{{this.title}}</div>
+        </div>
+        {{/each}}
+        {{/if}}
+
+
+      </div>
+    </section>
