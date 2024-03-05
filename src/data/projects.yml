@@ -1,10 +1,72 @@
 ---
 ############
+###### 2024
+
+ilinu-ilidi:
+        show: true
+        featured: false
+        project-title: ILINU-ILIDI
+        project-subtitle: Digital literature incubator - Visual exhibit. Quebec-Mexico
+        tags:
+          - "2024"
+          - "electronic_literature"
+          - "VR"
+          - "Collaboration"
+        description: |
+                      ILIDI is a training, production and dissemination program in digital arts and literature for a cohort of 20 artists from Quebec and Mexico. The objective is to develop the practice of writers, artists and coders through an exchange and learning program in digital creativity.
+                      <br>
+                      This program is born from the collaboration between the Montreal artist-run center TOPO, the artistic collective andamio.in and the Centro de Cultura Digital (CCD) of Mexico.
+        credits:
+          - "<strong>Facilitators:</strong> "
+          - ">Rolando Rodriguez, Jessica A. Rodríguez, Alejandro Brianza, Maria Paula Jaramillo, Luis Guzmán-Zirate, Michel Lefebvre, Roxane Michel, Ximena Atristain López, Alexandra L Martin, Alfonso Hernández, Kofi Oduro (Illestpreacha), Santiago Tavera."
+          - "<strong>Participants:</strong>"
+          - ">Claudia Bernal, Gaëlle Étémé, Jessica Tremblay, José Salvador Armas Ruiz, Laura Xochitl Segura Lira, Leodán Morales, Mario Guzmán, Marjha Paulino, Martín Rangel, Mynah Marie, Oscar Angel Servin, Reyna Anahy Pérez Angeles."
+        links:
+          - from: "Access to project:"
+            to: "https://topo.art/ilinu-ilidi/es/accueil-espanol/"
+
+        videos:
+          -
+            vimeo: false
+            id: "H5MmVqUCKV8"
+            title: "ILINU-ILIDI Exhibition in Mozilla Hubs"
+          -
+            vimeo: false
+            id: "z4tTD5vvXrM"
+            title: "Product of the workshop: Píldoras contra el sueño | José Salvador Armas Ruiz"
+          -
+            vimeo: false
+            id: "S5s7u41a06I"
+            title: "Product of the workshop: [error] | Martín Rangel"
+          -
+            vimeo: false
+            id: "e-m8QilHzQ8"
+            title: "Product of the workshop: (Don't) be a cyborg | Laura Xochitl Segura Lira, Oscar Angel Servin et Reyna Anahy Pérez Angeles"
+          -
+            vimeo: false
+            id: "34KCoJk4zIA"
+            title: "Product of the workshop: Ané | Jessica Tremblay, Mynah Marie et Leodán Morales"
+          -
+            vimeo: false
+            id: "kqwdndRWFA8"
+            title: "Product of the workshop: Re: « Je suis tout le paysage » | Claudia Bernal"
+          -
+            vimeo: false
+            id: "qY5Zd0yGq-c"
+            title: "Product of the workshop: Collaborative poetry | Jessica Tremblay et Marjha Paulino"
+          -
+            vimeo: false
+            id: "J9Fk_ZYdNz8"
+            title: "Product of the workshop: L'Equation humble | Gaëlle Étémé et Mynah Marie"
+
+############
 ###### 2023
 
 afrontaciones:
-        featured: true
-        project-title: afrontaciones => (f.) copings. Narrativas de la Memoria y la Violencia del habitar [Digital Mixed-Media Installation & Performance Piece]
+        show: true
+        featured: false
+        project-title: afrontaciones => (f.) copings.
+        project-subtitle: Narrativas de la Memoria y la Violencia del habitar [Digital Mixed-Media Installation & Performance Piece]
         tags:
           - "2023"
           - "live_coding"
@@ -22,8 +84,10 @@ afrontaciones:
           - ">Dr. David Ogborn (Canada) /tech advisor for live coding tool"
 
 encarnadas:
-        featured: true
-        project-title: encarnadas => (f.) embodiments [Performance Piece & Screen Dance Film]
+        show: true
+        featured: false
+        project-title: encarnadas => (f.) embodiments
+        project-subtitle: [Performance Piece & Screen Dance Film]
         tags:
           - "2023"
           - "live_coding"
@@ -56,7 +120,8 @@ encarnadas:
 ###### 2022
 
 medusal:
-        featured: true
+        show: true
+        featured: false
         project-title: Medusal
         tags:
           - "2022"
@@ -80,7 +145,8 @@ medusal:
           - ">Juan Gabriel Moreno (Bolivia) /clarinet"
 
 rayoverde:
-        featured: true
+        show: true
+        featured: false
         project-title: El Rayo Verde
         tags:
           - "2022"
@@ -99,15 +165,16 @@ rayoverde:
                       - I never cut flowers.
                       <br>
         credits:
+          - ">María Paula Jaramillo Gómez (Colombia) /artistic direction"
           - ">Alejandro Brianza (Argentina) /sound composition"
-          - ">María Paula Jaramillo Gómez (Colombia) /visual composition"
           - ">Rolando Rodríguez (México) /text"
           - ">Carolina Bistolfi (Argentina) /voice"
 
 ###### 2020-21
 
 ceudabocaronin:
-        featured: true
+        show: true
+        featured: false
         project-title: Céu Da Boca + Ronín
         tags:
           - "2021"
@@ -135,7 +202,8 @@ ceudabocaronin:
             title: "Céu Da Boca + Ronín"
 
 invocaciones:
-        featured: true
+        show: true
+        featured: false
         project-title: INVOCACIONES
         tags:
           - "2021"
@@ -176,7 +244,8 @@ invocaciones:
 ###### 2019
 
 memorias:
-        featured: true
+        show: true
+        featured: false
         project-title: MEMORIAS
         tags:
           - "2020"
@@ -215,7 +284,8 @@ memorias:
 
 
 prole:
-        featured: true
+        show: true
+        featured: false
         project-title: Prole
         tags:
           - "2019"
@@ -244,7 +314,8 @@ prole:
 ###### 2019
 
 mother:
-        featured: true
+        show: true
+        featured: false
         project-title: Mother
         tags:
           - "2018"
@@ -257,6 +328,7 @@ mother:
                       <br>
                       The performance was divided into three parts, all with live reading as part of the audio-visual experience. The first part explores the illness of a MOTHER. The visuals present a series of sentences that are worked with feedback on the screen, these are part of the same text that is read. The second part presents the funeral of a MOTHER. The visuals and sonic textures that accompany the reading add dark notes to the overall experience. The last part develops around the pre-illness memory of a MOTHER. It creates a happier environment with a screen full of flowers that are played in loop.
         credits:
+          - ">María Paula Jaramillo Gómez (colombia) /artistic direction"
           - ">Rolando Rodríguez [méxico] /text & voice"
           - ">Anna Chahuneau [france] /voice"
           - ">Alejandro Brianza [argentina] /sound composition"
@@ -275,6 +347,10 @@ mother:
         videos:
           -
             vimeo: true
+            id: "284283459"
+            title: "Mother"
+          -
+            vimeo: true
             id: "298778741"
             title: "Mother"
 
@@ -287,7 +363,8 @@ mother:
 ###### 2017
 
 leviathan:
-        featured: true
+        show: true
+        featured: false
         project-title: Leviathan
         tags:
           - "2017"
@@ -309,7 +386,8 @@ leviathan:
 
 
 calles:
-        featured: true
+        show: true
+        featured: false
         project-title: Calles
         tags:
           - "2017"
@@ -330,7 +408,8 @@ calles:
 
 
 lucid:
-        featured: true
+        show: true
+        featured: false
         project-title: LUCID
         tags:
           - "2017"
@@ -362,7 +441,8 @@ lucid:
 ###### 2016
 
 ggigirlah:
-        featured: true
+        show: true
+        featured: false
         project-title: Ggigirlah
         tags:
           - "2016"
@@ -391,7 +471,8 @@ ggigirlah:
 
 
 laid-by-his-side:
-        featured: true
+        show: true
+        featured: false
         project-title: Laid by his Side
         tags:
           - "2016"
@@ -419,7 +500,8 @@ laid-by-his-side:
 
 
 lesttk:
-        featured: true
+        show: true
+        featured: false
         project-title: LESTT.K
         tags:
           - "2016"
@@ -446,7 +528,8 @@ lesttk:
 
 
 solar-flare:
-        featured: true
+        show: true
+        featured: false
         project-title: Solar Flare
         tags:
           - "2016"
@@ -476,7 +559,8 @@ solar-flare:
 
 
 altamisa:
-        featured: true
+        show: true
+        featured: false
         project-title: altamisa
         tags:
           - "2016"
@@ -515,7 +599,8 @@ altamisa:
 
 
 flight-of-the-monarchs:
-        featured: true
+        show: true
+        featured: false
         project-title: Flight of the Monarchs
         tags:
           - "2016"
@@ -547,7 +632,8 @@ flight-of-the-monarchs:
 
 
 el-tren:
-        featured: true
+        show: true
+        featured: false
         project-title: El Tren
         tags:
           - "2016"
@@ -575,7 +661,8 @@ el-tren:
 
 
 rgtrrn-andamio:
-        featured: true
+        show: true
+        featured: false
         project-title: RGTRRN+ANDAMIO
         tags:
           - "2016"
@@ -599,7 +686,8 @@ rgtrrn-andamio:
 
 
 tuyuc:
-        featured: true
+        show: true
+        featured: false
         project-title: TUYUC
         tags:
           - "2016"
@@ -631,7 +719,8 @@ tuyuc:
 
 
 el-lenguaje-de-los-arboles:
-        featured: true
+        show: true
+        featured: false
         project-title: El lenguaje de los Árboles
         tags:
           - "2016"
@@ -652,6 +741,7 @@ el-lenguaje-de-los-arboles:
 
 
 serie-de-conciertos:
+        show: false
         featured: false
         project-title: Series of Concerts 2015-16
         tags:
@@ -703,7 +793,8 @@ serie-de-conciertos:
 ###### 2015
 
 el-hacedor:
-        featured: true
+        show: true
+        featured: false
         project-title: El Hacedor
         tags:
           - "2015"
@@ -730,6 +821,7 @@ el-hacedor:
 
 
 pirata-de-patio-adentro:
+        show: false
         featured: false
         project-title: Blackyard Pirate
         tags:
@@ -757,6 +849,7 @@ pirata-de-patio-adentro:
 
 
 los-dias-terrestres2:
+        show: false
         featured: false
         project-title: Los días terrestres 2.0
         tags:
@@ -786,6 +879,7 @@ los-dias-terrestres2:
 
 
 mikrokosmika:
+        show: false
         featured: false
         project-title: Mikrokosmika
         tags:
@@ -817,6 +911,7 @@ mikrokosmika:
 ###### 2014
 
 geografias-sonoras:
+        show: false
         featured: false
         project-title: Sound Geographies
         tags:
@@ -851,6 +946,7 @@ geografias-sonoras:
 
 
 los-dias-terrestres:
+        show: false
         featured: false
         project-title: Los días terrestres
         tags:
@@ -892,6 +988,7 @@ los-dias-terrestres:
 ###### 2013
 
 variaciones-ninchi:
+        show: false
         featured: false
         project-title: variaciones-ninchi
         tags:
@@ -921,6 +1018,7 @@ variaciones-ninchi:
 
 
 vortices-desplazados:
+        show: false
         featured: false
         project-title: Vórtices desplazados
         tags:
@@ -961,6 +1059,7 @@ vortices-desplazados:
 
 
 accion-transdisciplinaria:
+        show: false
         featured: false
         project-title: Acción transdisciplinaria
         tags:
@@ -1003,6 +1102,7 @@ accion-transdisciplinaria:
 
 
 casas-documental:
+        show: false
         featured: false
         project-title: Casas Documentary
         tags:
@@ -1027,6 +1127,7 @@ casas-documental:
 
 
 livecoding-visual-sonoro:
+        show: false
         featured: false
         project-title: Sound Impro & Live Coding
         tags:
@@ -1046,6 +1147,7 @@ livecoding-visual-sonoro:
 
 
 buttons:
+        show: false
         featured: false
         project-title: Buttons
         tags:
@@ -1073,6 +1175,7 @@ buttons:
 ###### 2012
 
 horizontalidad-silvia-plath:
+        show: false
         featured: false
         project-title: La morbosa horizontalidad de Silvia Plath
         tags:

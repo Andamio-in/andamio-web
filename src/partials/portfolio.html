@@ -11,16 +11,19 @@
   <button class="small primary button" data-filter=".performance">performance</button>
 </div>
 
-<div class="row small-up-1 medium-up-2 large-up-3 grid large-collapse medium-collapse small-collapse portfolium">
+<div class="grid-x grid large-collapse medium-collapse small-uncollapse portfolium">
 
 
     {{#each projects}}
-    <div class="column folium {{#each tags}}{{this}} {{/each}}">
+    <div class="column medium-6 large-4 folium {{#each tags}}{{this}} {{/each}}">
       <a href="{{root}}prod/{{@key}}">
       <figure class="effect-zoe">
           <img src="{{root}}assets/img/projects/{{@key}}/01.jpg" alt="{{project-title}}"/>
           <figcaption>
               <h4>{{project-title}}</h4>
+              {{#if project-subtitle}}
+              <h6>{{project-subtitle}}</h6>
+              {{/if}}
           </figcaption>
       </figure>
       </a>

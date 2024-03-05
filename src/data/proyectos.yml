@@ -1,10 +1,71 @@
 ---
 ############
+###### 2024
+
+ilinu-ilidi:
+        show: true
+        featured: false
+        project-title: ILINU-ILIDI
+        project-subtitle: Incubadora de literatura digital - Exposición visual. Québec-México
+        tags:
+          - "2024"
+          - "literatura_electronica"
+          - "VR"
+          - "Colaboración"
+        description: |
+                      La ILIDI es un programa de formación, producción y difusión en artes y literatura digital en la que participó una cohorte de 20 artistas quebequenses y mexicanos. El objetivo fue desarrollar la práctica de escritores, artistas y codificadores a través de un programa de intercambio y aprendizaje en creatividad digital.
+                      <br>
+                      Este programa ha nacido de la colaboración entre andamio.in, el centro de artistas TOPO de Montreal y el Centro de Cultura Digital [CCD] de México.
+        credits:
+          - "<strong>Facilitadores:</strong> "
+          - ">Rolando Rodriguez, Jessica A. Rodríguez, Alejandro Brianza, Maria Paula Jaramillo, Luis Guzmán-Zirate, Michel Lefebvre, Roxane Michel, Ximena Atristain López, Alexandra L Martin, Alfonso Hernández, Kofi Oduro (Illestpreacha), Santiago Tavera."
+          - "<strong>Participantes:</strong>"
+          - ">Claudia Bernal, Gaëlle Étémé, Jessica Tremblay, José Salvador Armas Ruiz, Laura Xochitl Segura Lira, Leodán Morales, Mario Guzmán, Marjha Paulino, Martín Rangel, Mynah Marie, Oscar Angel Servin, Reyna Anahy Pérez Angeles."
+        links:
+          -
+            from: "Acceso al proyecto:"
+            to:   "https://topo.art/ilinu-ilidi/es/accueil-espanol/"
+        videos:
+          -
+            vimeo: false
+            id: "H5MmVqUCKV8"
+            title: "Exposición ILINU-ILIDI  en Mozilla Hubs"
+          -
+            vimeo: false
+            id: "z4tTD5vvXrM"
+            title: "Resultado del proyecto: Píldoras contra el sueño | José Salvador Armas Ruiz"
+          -
+            vimeo: false
+            id: "S5s7u41a06I"
+            title: "Resultado del proyecto: [error] | Martín Rangel"
+          -
+            vimeo: false
+            id: "e-m8QilHzQ8"
+            title: "Resultado del proyecto: (Don't) be a cyborg | Laura Xochitl Segura Lira, Oscar Angel Servin et Reyna Anahy Pérez Angeles"
+          -
+            vimeo: false
+            id: "34KCoJk4zIA"
+            title: "Resultado del proyecto: Ané | Jessica Tremblay, Mynah Marie et Leodán Morales"
+          -
+            vimeo: false
+            id: "kqwdndRWFA8"
+            title: "Resultado del proyecto: Re: « Je suis tout le paysage » | Claudia Bernal"
+          -
+            vimeo: false
+            id: "qY5Zd0yGq-c"
+            title: "Resultado del proyecto: Collaborative poetry | Jessica Tremblay et Marjha Paulino"
+          -
+            vimeo: false
+            id: "J9Fk_ZYdNz8"
+            title: "Resultado del proyecto: L'Equation humble | Gaëlle Étémé et Mynah Marie"
+
+############
 ###### 2023
 
 afrontaciones:
         featured: true
-        project-title: afrontaciones => (f.) copings. Narrativas de la Memoria y la Violencia del habitar [Digital Mixed-Media Installation & Performance Piece]
+        project-title: afrontaciones => (f.) copings.
+        project-subtitle: Narrativas de la Memoria y la Violencia del habitar [Digital Mixed-Media Installation & Performance Piece]
         tags:
           - "2023"
           - "live_coding"
@@ -23,7 +84,8 @@ afrontaciones:
 
 encarnadas:
         featured: true
-        project-title: encarnadas => (f.) embodiments [Performance Piece & Screen Dance Film]
+        project-title: encarnadas => (f.) embodiments
+        project-subtitle: [Performance Piece & Screen Dance Film]
         tags:
           - "2023"
           - "live_coding"
@@ -98,8 +160,8 @@ rayoverde:
                        - Yo nunca corto flores.
                       <br>
         credits:
+          - ">María Paula Jaramillo Gómez (Colombia) /dirección artistica"
           - ">Alejandro Brianza (Argentina) /composición sonora"
-          - ">María Paula Jaramillo Gómez (Colombia) /composición visual"
           - ">Rolando Rodríguez (México) /texto"
           - ">Carolina Bistolfi (Argentina) /voz"
 
@@ -195,7 +257,7 @@ memorias:
           - ">Iracema de Andrade (Brasil-México) /cello"
           - ">Alejandro Brianza (Argentina) /paetzold"
           - ">David Ogborn (Canadá) y Luis N. Del Angel (México-Canadá) /apoyo técnico"
-          - ">Luis M. Guzmán-Zirate (México) /apoyo de montaje"
+          - ">Luis Guzmán-Zirate (México) /apoyo de montaje"
         links:
           -
             from: "Full MEMORIAS project"
@@ -251,6 +313,7 @@ mother:
                       <br>
                       La actuación se dividió en tres partes, todas con lectura en vivo como parte de la experiencia audiovisual. La primera parte explora la enfermedad de una MADRE. Los visuales presentan una serie de frases que se trabajan con retroalimentación en pantalla, estas son parte del mismo texto que se lee. La segunda parte presenta el funeral de una MADRE. Las texturas visuales y sonoras que acompañan a la lectura añaden notas oscuras a la experiencia audiovisual. La última parte se desarrolla en torno a la memoria previa a la enfermedad de una MADRE. Crea un ambiente más feliz con una pantalla llena de flores que se reproducen en bucle.
         credits:
+          - ">María Paula Jaramillo Gómez (Colombia) /dirección artistica"
           - ">Rolando Rodríguez [méxico] /texto y voz"
           - ">Anna Chahuneau [france] /voz"
           - ">Alejandro Brianza [argentina] /composición sonora"
@@ -267,8 +330,10 @@ mother:
             from: "Video Residency /Vimeo"
             to:   "https://vimeo.com/287499824"
         videos:
-          -
-            vimeo: true
+          - vimeo: true
+            id: "284283459"
+            title: "Mother"
+          - vimeo: true
             id: "298778741"
             title: "Mother"
 
@@ -602,7 +667,7 @@ tuyuc:
         project-title: TUYUC
         tags:
           - "2016"
-          - "documentary"
+          - "documental"
           - "ecologia"
         description: |
                       TUYUC es un documento experiencial de registros que se realizaron a partir de un proyecto fallido que tenía una mirada de conquista a una geografía selvática como Yasuní. El proyecto se ha presentado como video documental y como instalación.
@@ -1002,7 +1067,7 @@ casas-documental:
         project-title: Casas Documental
         tags:
           - "2013"
-          - "documentary"
+          - "documental"
           - "fotografía"
         description: |
                       Micro-documental basado en fotografías recuperadas de casas que se estaban derrumbando en Uruapan para el cuál se realizó un paisaje sonoro que acompaña las diferentes unidades de significación del documento. Es un trabajo de colaboración como Andamio. Cada participante tuvo una tarea específica y, al final, cada uno aportó ideas para mejorar el documento.

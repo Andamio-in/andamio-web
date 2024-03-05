@@ -13,9 +13,9 @@
     }
   }
   .title-bar-right {
-    padding: .6rem;
+    padding: .65rem;
     @include breakpoint(medium) {
-      padding: 1rem;
+      padding: 1.1rem;
     }
   }
 }

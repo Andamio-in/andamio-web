@@ -51,6 +51,8 @@ spanish: true
         </ul>
 
         {{#if proyectos.mother.videos}}
+        <hr>
+        <h6>Videos_</h6>
         {{#each proyectos.mother.videos}}
         <div class="responsive-embed widescreen">
           <div class="lazyYT" data-{{#if this.vimeo}}vimeo{{else}}youtube{{/if}}-id="{{this.id}}" data-ratio="16:9">{{this.title}}</div>
