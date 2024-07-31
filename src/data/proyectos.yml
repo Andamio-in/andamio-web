@@ -13,18 +13,25 @@ ilinu-ilidi:
           - "VR"
           - "Colaboración"
         description: |
-                      La ILIDI es un programa de formación, producción y difusión en artes y literatura digital en la que participó una cohorte de 20 artistas quebequenses y mexicanos. El objetivo fue desarrollar la práctica de escritores, artistas y codificadores a través de un programa de intercambio y aprendizaje en creatividad digital.
+                      ILINU-ILIDI fue un programa de formación y difusión en artes y literatura digitales para una cohorte de artistas de Quebec y México. El objetivo era desarrollar la práctica de escritorxs, artistas y programadorxs a través de un programa de intercambio y aprendizaje en creatividad digital.
                       <br>
-                      Este programa ha nacido de la colaboración entre andamio.in, el centro de artistas TOPO de Montreal y el Centro de Cultura Digital [CCD] de México.
+                      Este programa nació de la colaboración entre el centro de artistas de Montreal TOPO, el colectivo artístico andamio.in y el Centro de Cultura Digital (CCD) de México, con el apoyo de la cooperación Québec-Méxique 2021-2023 del Ministerio de Cultura y Comunicaciones de Québec.
+                      <br>
+                      omo parte de los productos finales, ayudamos a las personas participantes a crear siete proyectos colaborativos de realidad virtual implementados originalmente con Blender+Spoke y accesibles a través de Mozilla Hubs.
+
         credits:
-          - "<strong>Facilitadores:</strong> "
-          - ">Rolando Rodriguez, Jessica A. Rodríguez, Alejandro Brianza, Maria Paula Jaramillo, Luis Guzmán-Zirate, Michel Lefebvre, Roxane Michel, Ximena Atristain López, Alexandra L Martin, Alfonso Hernández, Kofi Oduro (Illestpreacha), Santiago Tavera."
           - "<strong>Participantes:</strong>"
           - ">Claudia Bernal, Gaëlle Étémé, Jessica Tremblay, José Salvador Armas Ruiz, Laura Xochitl Segura Lira, Leodán Morales, Mario Guzmán, Marjha Paulino, Martín Rangel, Mynah Marie, Oscar Angel Servin, Reyna Anahy Pérez Angeles."
+          - "<strong>Soporte técnico y conceptual:</strong> "
+          - ">Rolando Rodriguez, Jessica A. Rodríguez, Alejandro Brianza, Maria Paula Jaramillo, Luis Guzmán-Zirate, Michel Lefebvre, Roxane Michel."
+
         links:
           -
-            from: "Acceso al proyecto:"
+            from: "Acceso a la web del proyecto:"
             to:   "https://topo.art/ilinu-ilidi/es/accueil-espanol/"
+          - from: "Info sobre los talleres:"
+            to: "https://andamio.in/es/edu/ilinu-ilidi"
+
         videos:
           -
             vimeo: false
@@ -71,16 +78,28 @@ afrontaciones:
           - "live_coding"
           - "installation"
         description: |
-                      As a person growing up in Uruapan (with still strong familial ties to this city in Mexico), I have noticed how violence (a product of organized crime and the government) becomes embedded into our personas. It affects our everyday activities and determines our identities and memories even beyond the geographical space of the city.
+                      Como persona que creció en Uruapan (con fuertes lazos familiares con esta ciudad en México), he notado cómo la violencia (un producto del crimen organizado y el gobierno) se incrusta en nuestras personas. Afecta nuestras actividades cotidianas y determina nuestras identidades y recuerdos incluso más allá del espacio geográfico de la ciudad. afrontaciones => (f.) copings es un proyecto autoetnográfico y artístico centrado en la práctica de crear "testimonios" y compartir historias colectivas a través de las complejas capas de habitar una ciudad atravesada por la violencia.
                       <br>
-                      afrontaciones => (f.) copings is an auto-ethnographic and artistic project revolving around the practice of creating “testimonies” and collective storysharing through complex layers of inhabiting a city crossed by violence.
+                      Este proyecto se basa en cinco testimonios en audio y video compartidos por personas de mi ciudad natal y un autotestimonio. Estas narrativas personales sirven como base para explorar la memoria, la identidad y la conexión. Los testimonios se entrelazan en un tapiz de materiales digitales y virtuales, cada uno de los cuales contribuye a la experiencia inmersiva del proyecto. Estos materiales incluyen versiones en audio de cada testimonio, collages de medios mixtos (mezcla de técnicas como impresión foto-térmica, estampado, collage y otras técnicas de grabado), testimonios mecanografiados, un autotestimonio grabado en cinta, varias impresiones en hojas de acetato, videos grabados de mi ciudad natal, material encontrado de desapariciones en México y secciones de video de cada uno de los testimonios.
                       <br>
-                      This project has been a long personal process that (so far) have resulted in a series of physical artworks (mixed-media collages, documented testimonies, typewritten testimonies, and tape recordings) that function as the materials to create alternative digital artworks. The exhibition will bring into place all the materials resulted and the key elements that help produced the project.
-                      <br>
+                      En el espacio de instalación, combino formatos digitales y físicos. Mi lienzo es TransMit, un lenguaje de programación de diseño propio para la manipulación de video en vivo. Manipulo el ámbito digital a través de prácticas de codificación en vivo y literatura electrónica, dando forma y remodelando las materialidades del proyecto. Para visualizar la sintaxis de TransMit, he creado un conjunto de fuentes hechas a mano. Cada personaje encarna el espíritu del proyecto, cerrando la brecha entre el código y la expresión. En esta convergencia de lo tangible y lo virtual, invito a los espectadores a explorar la interacción de la memoria, la tecnología y la narración. La colisión de los reinos físico y virtual dentro de esta configuración crea un espacio donde las narrativas resuenan.
         credits:
-          - ">Jessica A. Rodriguez (Mexico-Canada) /author"
-          - ">Rolando Rodríguez (México) /artistic advisor, exhibition curator"
-          - ">Dr. David Ogborn (Canada) /tech advisor for live coding tool"
+          - ">Jessica A. Rodriguez (Mexico-Canada) /autora"
+          - ">Rolando Rodríguez (México) /asesor artístico, museografía"
+          - ">Dr. David Ogborn (Canada) /asesor técnico para TransMit"
+        videos:
+          -
+            vimeo: false
+            id: "991803188"
+            title: "afrontaciones => (f.) copings - Exhibition documentation"
+          -
+            vimeo: false
+            id: "911183763"
+            title: "afrontaciones (f.) copings - self-testimony"
+          -
+            vimeo: false
+            id: "912528209"
+            title: "TransMit [afrontaciones + encarnadas]"
 
 encarnadas:
         featured: true
@@ -88,31 +107,42 @@ encarnadas:
         project-subtitle: [Performance Piece & Screen Dance Film]
         tags:
           - "2023"
-          - "live_coding"
-          - "installation"
+          - "danza"
+          - "performance"
         description: |
-                      Collaboration performance piece with Hamiltonian fusion dancer Angela Josephine and local experimental Earth Wind and Choir (working with the whispers and breathings from Babette de Jong, Teresa Caterini, and Bailey Duff).
+                      Pieza de performance en colaboración con la bailarina de fusión hamiltoniana Angela Josephine y el coro experimental de Hamilton Earth Wind and Choir (trabajando con los susurros y respiraciones de Babette de Jong, Teresa Caterini y Bailey Duff).
                       <br>
-                      encarnadas => (f.) embodiments is an audio-visual project in the form of a performance piece and a dance-video piece. This is an 8-10 minute performance mixing a dancer, live video coding, and ASMR sonic experiences.
+                      encarnadas => (f.) cavitys es un proyecto audiovisual en forma de pieza de performance y pieza de video-danza. Se trata de una performance de 8 a 10 minutos que mezcla un bailarina, codificación de video en vivo y experiencias sonoras ASMR.
                       <br>
-                      This piece is an experimental homage to feminine human bodies, present both visually (through the image of the dancer physically and virtually) and sonically (through a sound composition built of repeating breathings, whispers, and other mouth sounds). Through the eyes of technology, the audience will experience a coming and going of folding and unfolding audio-visual images of the feminine bodies involved, moving through the multiple spaces and times of the project.
+                      Esta pieza es un homenaje experimental a las cuerpas femeninas, presente tanto visualmente (a través de la imagen de la bailarina física y virtualmente) como sonoramente (a través de una composición sonora construida a partir de respiraciones repetidas, susurros y otros sonidos de la boca). A través de los ojos de la tecnología, el público experimentará un ir y venir de imágenes audiovisuales plegables y desplegadas de las cuerpas femeninas involucradas, moviéndose a través de los múltiples espacios y tiempos del proyecto.
                       <br>
                       <br>
-                      Biographies of Collaborators
+                      Biografía de las collaboradoras
                       <br>
-                      Angela Josephine (https://www.angelajosephinedance.com/) is a well-known fusion dancer in Hamilton, Ontario. Her expressive and evocative performances, in person and online, leave audiences breathless. As a soloist, she has graced the stage of many high caliber shows with world renowned dancers, across Canada and the United States. In 2023, she formed Obsidian Dance Company, as the artistic director and choreographer.
+                      Angela Josephine (https://www.angelajosephinedance.com/) es una reconocida bailarina de fusión en Hamilton, Ontario. Sus expresivas y evocadoras actuaciones, tanto en persona como en línea, dejan al público sin aliento. Como solista, ha aparecido en el escenario de muchos espectáculos de alto calibre con bailarines de renombre mundial, en Canadá y Estados Unidos. En 2023, formó Obsidian Dance Company, como directora artística y coreógrafa.
                       <br>
-                      Babette de Jong (she/they) is a queer femme identifying Hamilton born humanitarian that has always been a strong member of the music community through support, artistry, music performance, event planning, and promotions. At a young age in 2001 she began her career at a local record store mainly as assistant manager and head buyer. During her 20 years there she developed artistry through promotional materials, band merchandise, and as a musician playing guitar, bass, singing, etc. Currently dedicated to her work under Honey Boiler; a name in which she promotes events with and sells her wares at the Hamilton Antique Mall. Her focus remains on community, inclusivity, and safety in the dark and experimental music scenes with monthly events Fascination Dark DJ Nights and Noise Night. Current musical endeavours include darkwave duo Concavity, shock rock/ synth punk act Banananananana, and Earth Wind and Choir. She also volunteers weekly at local food bank Neighbour 2 Neighbour, is a member of the Punk Rock Flea Market team, Babe Coven, and is a part-time bar tender at Vertagogo. Joyful time-permitting hobbies include; quality time with friends, movies, sewing, hiking, crafting, cat training, and practicing Japanese.
+                      Babette de Jong (ella/elles) es una mujer queer, humanitaria, nacida en Hamilton, que siempre ha sido un miembro fuerte de la comunidad musical a través del apoyo, el arte, la interpretación musical, la planificación de eventos y las promociones. A temprana edad, en 2001, comenzó su carrera en una tienda de discos local, principalmente como asistente de gerente y jefa de compras. Durante sus 20 años allí, desarrolló su arte a través de materiales promocionales, productos de bandas y como músico tocando la guitarra, el bajo, cantando, etc. Actualmente se dedica a su trabajo bajo Honey Boiler; un nombre con el que promueve eventos y vende sus productos en el Hamilton Antique Mall. Su enfoque sigue siendo en la comunidad, la inclusión y la seguridad en las escenas de música oscura y experimental con eventos mensuales Fascination Dark DJ Nights y Noise Night.
                       <br>
-                      Teresa Caterini (she/they) is a queer performer and vocalist based in Hamilton, Ontario.  Their work is focused on community -- performing in collectives, choirs, and collaborations.  Teresa has been a core member of Earth, Wind, and Choir for over ten years and has performed with local musicians and in the former Hamilton Noise Orchestra.  When they are not performing, Teresa is tending to their family, garden, and pets or working as a social worker, with a focus on organizational change.
+                      Teresa Caterini (ella/elles) es una artista y vocalista queer radicada en Hamilton, Ontario. Su trabajo se centra en la comunidad: actúa en colectivos, coros y colaboraciones. Teresa ha sido miembro principal de Earth, Wind, and Choir durante más de diez años y ha actuado con músicos locales y en la antigua Hamilton Noise Orchestra. Cuando no está actuando, Teresa está cuidando a su familia, su jardín y sus mascotas o trabajando como trabajadora social, con un enfoque en el cambio organizacional.
                       <br>
+                      Bailey Duff es la mitad del proyecto local de folk-noise Malfiore, miembro desde hace mucho tiempo de Earth Wind and Choir y copresentadora de Babe Coven Radio en 93.3 CFMU. Es una exprofesora de música arraigada en la comunidad de música clásica de Hamilton, actualmente interesada en fusionar ese trasfondo con géneros más experimentales. Jardinera/carpinterista/manipuladora textil y amante de todo lo extravagante.
         credits:
-          - ">Jessica A. Rodriguez (Mexico-Canada) /author"
-          - ">Angela Josephine (Canada) /dancer, choreography"
-          - ">Babette de Jong (Canada) /voice"
-          - ">Teresa Caterini (Canada) /voice"
-          - ">Bailey Duff (Canada) /voice"
-          - ">Dr. David Ogborn (Canada) /tech advisor for live coding tool"
+          - ">Jessica A. Rodriguez (Mexico-Canada) /autora"
+          - ">Angela Josephine (Canada) /bailarina, coreografía"
+          - ">Babette de Jong (Canada) /voz"
+          - ">Teresa Caterini (Canada) /voz"
+          - ">Bailey Duff (Canada) /voz"
+          - ">Dr. David Ogborn (Canada) /supervisor técnico para TransMit"
+
+        videos:
+          -
+            vimeo: false
+            id: "952051755"
+            title: "encarnadas => (f.) embodiments 2024, screen-video version"
+          -
+            vimeo: false
+            id: "900380905"
+            title: "encarnadas (f.) embodiments - Oct 5, 2023"
 
 ############
 ###### 2022
