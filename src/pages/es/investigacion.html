@@ -3,133 +3,7 @@ title: 'investigacion'
 header: null
 description:  "A partir de esta de desarrollan muchos de los conceptos y las prácticas que utilizamos para producir proyectos artísticos como performances, instalaciones"
 spanish: true
-
-items:
-  -
-    title: "MEMORIAS [Live Coding + E-Lit] Proyecto de Co-Creación Audiovisual. Publicado en Ideas Sónicas, Año 15, Número 29, Julio-Diciembre 2023, CMMAS Centro Mexicano para la Música y las Artes Sonoras. ISSN: 2317-9694"
-    by:
-      - "Jessica A. Rodríguez"
-      - "Rolando Rodríguez"
-      - "Alejandro Brianza"
-      - "Luis G. Zirate"
-    slug: "memorias"
-    download: "memorias-2023"
-    tags:
-      - "2023"
-      - "paper"
-      - "live coding"
-      - "electronic literature"
-      - "collaboration"
-  -
-    title: "Expand Readings: A Visual / motor Activity Signifiant In Textual Reality. Publicado en Attention à la marche ! - Mind The Gap! Thinking Electronic Literature in Digital Culture by Les Presses de l’Écureuil – ALN/NT2, 2020, p.405-420, Quebec, Canadá. ISBN : 979-10-384-0004-7"
-    by:
-      - "Jessica A. Rodríguez"
-      - "Rolando Rodríguez"
-      - "Alejandro Brianza"
-    slug: "expandReadings"
-    download: "expandReadings-2020"
-    tags:
-      - "2020"
-      - "paper"
-      - "electronic literature"
-      - "audiovisual"
-      - "collaboration"
-  -
-    title: "Leviatán. Para flauta Paetzold y procesos audiovisuales en tiempo real. Publicado en SIIMI 2019 VI International Symposium on Innovation in Interactive Media, p.359-368, Buenos Aires, Argentina. ISSN 2358-0488"
-    by:
-      - "Alejandro Brianza"
-      - "Jessica A. Rodríguez"
-      - "Emilio Ocelotl"
-      - "Celeste Betancur"
-    slug: "leviathan"
-    download: "leviathan-2019"
-    tags:
-      - "2019"
-      - "paper"
-      - "algorithms"
-      - "audiovisual"
-      - "collaboration"
-  -
-    title: "CineVivo: live coding visuals. Publicado en Proceedings of the International Conference on Live Coding ICLC 2019, Medialab Prado / Madrid Destino, Madrid, España. ISBN: 978-84-18299-08-7; DOI: 10.5281/zenodo.3946259"
-    by:
-      - "Jessica A. Rodríguez"
-      - "Celeste Betancur"
-      - "Rolando Rodríguez"
-    slug: "cinevivo"
-    download: "cinevivo-2019"
-    tags:
-      - "2019"
-      - "paper"
-      - "algorithms"
-      - "systems"
-      - "live coding"
-  -
-    title: "Lectura Expandida. La audiovisión como herramienta de acercamiento. Publicado en FESTIVAL “ESCALATRONICA” 2015. Un espacio para el arte eletrónico colaborativo Ier. Escalón. Ediciones de la UNla 2017. Buenos Aires, Argentina. ISBN: 978-987-1987-91-7."
-    by:
-      - "Jessica A. Rodríguez"
-      - "Rolando Rodríguez"
-      - "Alejandro Brianza"
-    slug: "lectura-expandida"
-    download: "lectura-expandida-2017"
-    tags:
-      - "2017"
-      - "paper"
-      - "livecinema"
-      - "collaboration"
-      - "electronic literature"
-  -
-    title: "Sistemas algorítmicos en las artes y sus procesos compositivos [relación medio imagen-cuerpo]. Caso de estudio: Altamisa. Publicado en la Universidad de Guanajuato."
-    by:
-      - "Jessica A. Rodríguez"
-    slug: "jessica-masters"
-    download: "jessica-masters-2017"
-    tags:
-      - "2017"
-      - "thesis"
-      - "collaboration"
-      - "algorithms"
-      - "live coding"
-  -
-    title: "Sonido, Imagen y Texto. Una aproximación en Colisión. Publicado en la Universidad de las Artes Aguascalientes."
-    by:
-      - "Rolando Rodríguez"
-    slug: "rolado-masters"
-    download: "rolado-masters-2016"
-    tags:
-      - "2016"
-      - "thesis"
-      - "collaboration"
-      - "audiovisual"
-      - "text"
--
-    title: "Lecturas del LiveCoding: el algoritmo visto como un texto. Publicado en Ideas Sónicas, Año 8, Número 15, Julio-Diciembre 2015, CMMAS Centro Mexicano para la Música y las Artes Sonoras. ISSN: 2317-9694"
-    by:
-      - "Jessica A. Rodríguez"
-      - "Rolando Rodríguez"
-    slug: "lecturas-livecoding"
-    download: "lecturas-livecoding-2015"
-    tags:
-      - "2015"
-      - "paper"
-      - "live coding"
-      - "algorithms"
-  -
-    title: "Livecode Readings Algorithms Viewed As Text. Publicado en Proceedings of the 21st International Symposium on Electronic Art ISEA 2015, p. 556-560, Vancouver, Canadá. ISSN: 2451-8611; ISBN: 978-1-910172-00-1."
-    by:
-      - "Jessica A. Rodríguez"
-      - "Rolando Rodríguez"
-    slug: "livecode-readings"
-    download: "livecode-readings-2015"
-    tags:
-      - "2015"
-      - "paper"
-      - "live coding"
-      - "algorithms"
-  -
-
 ---
-
-    <meta name="robots" content="noindex nofollow">
 
     <section class="owl-carousel owl-theme {{title}}" data-slider-id="1">
       {{#repeat 5}}
@@ -161,26 +35,42 @@ items:
 
       <div class="medium-10 medium-offset-1 columns end">
 
-        {{#each items}}
+        {{#each investigacion.items}}
         <div class="row">
-          <div class="medium-1 columns medium-text-right medium-push-11">
-             <i class="fa fa-2x fa-file-text-o"></i>
-          </div>
-          <div class="medium-11 columns medium-pull-1">
-            <p class="lead"><span>{{title}}</span>
+            <div class="medium-12 columns">
+                <div class="row">
+                    <div class="medium-1 columns medium-text-right medium-push-11">
+                        <i class="fa fa-2x fa-file-text-o" style="padding-bottom: 0.45rem;"></i>
+                    </div>
+                    <div class="medium-11 columns medium-pull-1">
+                        <h5><span>{{title}}</span></h5>
+                        <p><span>{{subtitle}}</span></p>
+                    </div>
+                </div>
+            </div>
 
-            </p>
-            <a href="files/papers/download/{{download}}-{{slug}}.pdf" class="small primary button"> <i class="fa fa-download"></i> Descargar</a>
-            <span>by <strong>{{#each by}} {{this}}, {{/each}} </strong></span>
-            |
-            <span class="tags"><i class="fa fa-tag"></i> Tags: {{#each tags}} {{this}}, {{/each}} </span>
-            <br>
-            <br>
-          </div>
-
-          <hr>
-          <br>
+            <div class="medium-12 columns">
+                <div class="row">
+                    <div class="medium-12 columns">
+                        <span>by <strong>{{#each by}} {{this}}, {{/each}} </strong></span>
+                        |
+                        <span class="tags"><i class="fa fa-tag"></i> Tags: {{#each tags}} {{#unless @last}} {{this}}, {{/unless}} {{#if @last}} {{this}} {{/if}} {{/each}} </span>
+                    </div>
+                    <div class="medium-12 columns">
+                        <br>
+                        <a href="/files/papers/download/{{download}}-{{slug}}.pdf"
+                           class="small primary-background button" target="_blank">
+                            <i class="fa fa-download"></i>
+                            Descargar
+                        </a>
+                      <br>
+                      <br>
+                    </div>
+                </div>
+            </div>
         </div>
+        <hr>
+        <br>
         {{/each}}
 
       </div>

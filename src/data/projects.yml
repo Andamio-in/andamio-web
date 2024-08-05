@@ -89,15 +89,15 @@ afrontaciones:
           - ">Dr. David Ogborn (Canada) /tech advisor for TrasnMit"
         videos:
           -
-            vimeo: false
+            vimeo: true
             id: "991803188"
             title: "afrontaciones => (f.) copings - Exhibition documentation"
           -
-            vimeo: false
+            vimeo: true
             id: "911183763"
             title: "afrontaciones (f.) copings - self-testimony"
           -
-            vimeo: false
+            vimeo: true
             id: "912528209"
             title: "TransMit [afrontaciones + encarnadas]"
 
@@ -137,11 +137,11 @@ encarnadas:
 
         videos:
           -
-            vimeo: false
+            vimeo: true
             id: "952051755"
             title: "encarnadas => (f.) embodiments 2024, screen-video version"
           -
-            vimeo: false
+            vimeo: true
             id: "900380905"
             title: "encarnadas (f.) embodiments - Oct 5, 2023"
 
